@@ -128,6 +128,7 @@ passport.use(
       return done(null, false)
     }
     var user = jwtPayload
+    // console.log(user)
     done(null, user)
   })
 )
@@ -156,7 +157,8 @@ app.get(
   }
 )
 
-app.get('/home', (req, res) => {
+app.get('/home', passport.authenticate('jwt', { session: false }), (req, res) => {
+  res.setHeader('Authorization', `bearer ${localStorage.token}`)
   res.render('home')
 })
 
