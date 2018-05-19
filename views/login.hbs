@@ -1,10 +1,12 @@
-<form id="formLogin" method="post">
-  <input type="email" name="email" placeholder="Tu Email">
-  <br><br>
-  <input type="password" name="password" placeholder="Tu Contraseña">
-  <br><br>
-  <input type="submit" value="Login">
-</form>
+<section id="login">
+  <form id="formLogin" method="post">
+    <input type="email" name="email" placeholder="Tu Email">
+    <br><br>
+    <input type="password" name="password" placeholder="Tu Contraseña">
+    <br><br>
+    <input type="submit" value="Login">
+  </form>
+</section>
 
 <script>
   const formLogin = document.querySelector('#formLogin');
@@ -17,7 +19,14 @@
     
     fetch('/api/signin', {
       method: 'POST',
-      body: formData      
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        email: formData.get('email'),
+        password: formData.get('password')
+      })      
     })
     .then(function(res){
       return res.json();

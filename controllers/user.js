@@ -4,17 +4,20 @@
 const bcrypt = require('bcrypt-nodejs')
 const User = require('../models/user')
 const service = require('../services')
+// const passport = require('passport')
+const jwt = require('jsonwebtoken')
+const config = require('../config')
 
 // Registro de un user
 function signUp (req, res) {
-  // console.log('data del user a crear -> ', req);
+  // console.log('data del user a crear -> ', req.body.email);
   const user = new User({
     email: req.body.email,
     displayName: req.body.displayName,
     password: req.body.password
   })
 
-  user.save((err) => {
+  user.save(err => {
     if (err) res.status(500).send({ message: 'Error al crear el usuario: ' + err })
 
     return res.status(200).send({ token: service.createToken(user) })
@@ -46,12 +49,19 @@ function signIn (req, res) {
       if (err) return res.status(404).send({ message: 'Authentication failed. Wrong password.' })
 
       if (isMatch) {
-        req.user = user
+        const payload = { id: user.id }
+        var token = jwt.sign(payload, config.SECRET_TOKEN)
+        // res.json({ message: 'ok', token: token })
         res.status(200).send({
-          message: 'Te has logeado correctamente ' + req.user.displayName,
-          token: service.createToken(user),
-          status: 'success'
+          message: 'ok',
+          token: token
         })
+        // req.user = user
+        // res.status(200).send({
+        //   message: 'Te has logeado correctamente ' + req.user.displayName,
+        //   token: service.createToken(user),
+        //   status: 'success'
+        // })
       } else {
         res.status(404).send({ message: 'Authentication failed. Wrong password.' })
       }

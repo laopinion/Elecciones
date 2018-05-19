@@ -1,12 +1,15 @@
-<form id="createUser" method="post">
-  <input type="email" name="email" placeholder="Tu Email">
-  <br><br>
-  <input type="text" name="displayName" placeholder="Tu Email">
-  <br><br>
-  <input type="password" name="password" placeholder="Tu Contraseña">
-  <br><br>
-  <input type="submit" value="Login">
-</form>
+<section id="signup">
+  <form id="createUser" method="post">
+    <input type="email" name="email" placeholder="Tu Email">
+    <br><br>
+    <input type="text" name="displayName" placeholder="Tu Name">
+    <br><br>
+    <input type="password" name="password" placeholder="Tu Password">
+    <br><br>
+    <input id="btn_create" type="submit" value="Create user">
+  </form>
+</section>
+
 
 <script>
   const createUser = document.querySelector('#createUser');
@@ -15,11 +18,19 @@
     event.preventDefault();
 
     const formData = new FormData(createUser);
-    console.log('Esta es la data -> '+ formData);
+    console.log('Esta es la data -> '+ formData.get('email'));
     
     fetch('/api/signup', {
       method: 'POST',
-      body: formData      
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        email: formData.get('email'),
+        displayName: formData.get('displayName'),
+        password: formData.get('password')
+      })
     })
     .then(function(res){
       return res.json();
