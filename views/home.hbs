@@ -1,3 +1,28 @@
+<script>
+  if (localStorage.token == undefined) {
+    window.location.replace('/login')
+  }
+</script>
 <section id="home">
   <h3>Hola mundo home</h3>
 </section>
+
+<script>
+  const myHeaders = new Headers();
+  // Entonces endicamos que al headers authorization le vamos agregar el token, 
+  // Por defecto se envia authorization: Barer por eso lo hacemos de esa forma con el Barer
+  myHeaders.append('authorization', 'bearer ' + localStorage.token);
+
+  function prueba() {
+    // fetch es la nueva forma de ES6
+    fetch('/api/product', {
+      methos: 'GET',
+      headers: myHeaders
+    })
+      .then(res => res.json())
+      .then(data => {
+        this.setState({ products: data.products })
+      })
+  }
+
+</script>

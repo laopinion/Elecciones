@@ -1,9 +1,16 @@
+<script>
+  if (localStorage.token != undefined) {
+    window.location.replace('/home')
+  }
+</script>
 <section id="login">
   <form id="formLogin" method="post">
     <input type="email" name="email" placeholder="Tu Email">
-    <br><br>
+    <br>
+    <br>
     <input type="password" name="password" placeholder="Tu Contraseña">
-    <br><br>
+    <br>
+    <br>
     <input type="submit" value="Login">
   </form>
 </section>
@@ -15,8 +22,8 @@
     event.preventDefault();
 
     const formData = new FormData(formLogin);
-    console.log('Esta es la data -> '+ formData);
-    
+    console.log('Esta es la data -> ' + formData);
+
     fetch('/api/signin', {
       method: 'POST',
       headers: {
@@ -26,19 +33,19 @@
       body: JSON.stringify({
         email: formData.get('email'),
         password: formData.get('password')
-      })      
+      })
     })
-    .then(function(res){
-      return res.json();
-    })
-    .then(data => {
-      // Guardamos el token en localStorage
-      localStorage.setItem('token', `${data.token}`);
-      console.log(`Logeando -> ${data.message}`)
-      window.location.replace('/home')
-    })
-    .catch(err => {
-      console.log(`Algo salio mal -> ${err}`);
-    })
+      .then(function (res) {
+        return res.json();
+      })
+      .then(data => {
+        // Guardamos el token en localStorage
+        localStorage.setItem('token', `${data.token}`);
+        console.log(`Logeando -> ${data.token}`)
+        window.location.replace('/home')
+      })
+      .catch(err => {
+        console.log(`Algo salio mal -> ${err}`);
+      })
   });
 </script>

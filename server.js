@@ -5,7 +5,7 @@ const app = require('./app')
 const config = require('./config')
 mongoose.Promise = require('bluebird')
 // Con esto creamos un file .env donde estan mis datos de conexión como variables de entorno.
-require('dotenv').config()
+// require('dotenv').config()
 
 // mongodb://<dbuser>:<dbpassword>@ds119044.mlab.com:19044/heroku_w44m715d
 // const db = 'mongodb://'+process.env.DB_USER+':'+process.env.DB_PASS+'@'+process.env.DB_HOST+'/notifications';
