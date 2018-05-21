@@ -6,7 +6,7 @@
 <section id="home">
   <h2>Load file xml</h2>
   <form id="loadFile" ref='uploadForm' encType="multipart/form-data" onchange="fileValidation()">
-    <label for="file">Selecciones un archivo xml</label>
+    <label for="file">Seleccione un archivo xml</label>
     <input id="file" type="file" name="fileXml" required>
     <select name="option" id="optionFile">
       <option value="Departamental">Departamental</option>
@@ -76,23 +76,27 @@
     let fileInput = document.getElementById('file');
     const filePath = fileInput.value;
     const allowedExtensions = /(.xml)$/i;
-    if (!allowedExtensions.exec(filePath)) {
-      // alert('Please upload file having extensions .xml');
-      const $message = document.getElementById('message');
-      setTimeout(() => {
-        fade($message);
-      }, 3000);
-      $message
-        .textContent = 'Por favor el archivo tiene que tener la extension .xml'
-      fileInput.value = '';
-      return false;
+    // console.log(filePath)
+    if (filePath.length > 0) {
+      if (!allowedExtensions.exec(filePath)) {
+        // alert('Please upload file having extensions .xml');
+        const $message = document.getElementById('message');
+        setTimeout(() => {
+          fade($message);
+        }, 3000);
+        $message
+          .textContent = 'Por favor el archivo tiene que tener la extension .xml'
+        fileInput.value = '';
+        return false;
+      }
     }
+    return false;
   }
 
   function fade(element) {
     let op = 1;  // initial opacity
     let timer = setInterval(function () {
-      console.log(op)
+      // console.log(op)
       if (op <= 0.1) {
         clearInterval(timer);
         element.style.display = 'none';
