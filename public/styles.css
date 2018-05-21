@@ -42,9 +42,13 @@ body {
   height: 100vh;
 }
 
-#home h3 {
+#home h2 {
   margin: 50px auto;
   max-width: 500px;
+}
+
+#home #message {
+  margin: 0;
 }
 
 #home #loadFile {

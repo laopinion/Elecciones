@@ -5,9 +5,9 @@
 </script>
 <section id="home">
   <h2>Load file xml</h2>
-  <form id="loadFile" ref='uploadForm' encType="multipart/form-data">
+  <form id="loadFile" ref='uploadForm' encType="multipart/form-data" onchange="fileValidation()">
     <label for="file">Selecciones un archivo xml</label>
-    <input id="file" type="file" name="fileXml">
+    <input id="file" type="file" name="fileXml" required>
     <select name="option" id="optionFile">
       <option value="Departamental">Departamental</option>
       <option value="Nacional">Nacional</option>
@@ -41,15 +41,66 @@
       .then(res => res.json())
       .then(data => {
         if (data.status == 200) {
-          console.log('ok todo bien ', data)
+          console.log('ok todo bien ', data.message)
           $formFile.reset();
+          const $message = document.getElementById('message');
+          // console.log('algo salio mal' + data.message)
+          setTimeout(() => {
+            fade($message);
+          }, 3000);
+          $message
+            .textContent = data.message
         } else {
-          console.log('algo salio mal' + data.message)
+          const $message = document.getElementById('message');
+          // console.log('algo salio mal' + data.message)
+          setTimeout(() => {
+            fade($message);
+          }, 3000);
+          $message
+            .textContent = 'Algo salio mal intentelo mas tarde.'
         }
       })
       .catch(err => {
-        console.log(`Algo salio mal -> ${err}`);
+        // console.log(`Algo salio mal -> ${err}`);
+        const $message = document.getElementById('message');
+        // console.log('algo salio mal' + data.message)
+        setTimeout(() => {
+          fade($message);
+        }, 3000);
+        $message
+          .textContent = 'Algo salio mal intentelo mas tarde.'
       })
+  }
+
+  function fileValidation() {
+    let fileInput = document.getElementById('file');
+    const filePath = fileInput.value;
+    const allowedExtensions = /(.xml)$/i;
+    if (!allowedExtensions.exec(filePath)) {
+      // alert('Please upload file having extensions .xml');
+      const $message = document.getElementById('message');
+      setTimeout(() => {
+        fade($message);
+      }, 3000);
+      $message
+        .textContent = 'Por favor el archivo tiene que tener la extension .xml'
+      fileInput.value = '';
+      return false;
+    }
+  }
+
+  function fade(element) {
+    let op = 1;  // initial opacity
+    let timer = setInterval(function () {
+      console.log(op)
+      if (op <= 0.1) {
+        clearInterval(timer);
+        element.style.display = 'none';
+      }
+      element.style.opacity = op;
+      element.style.filter = 'alpha(opacity=' + op * 100 + ")";
+      op -= op * 0.1;
+    }, 50);
   }
 
 </script>

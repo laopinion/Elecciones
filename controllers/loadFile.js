@@ -14,13 +14,13 @@ function loadFile (req, res) {
     fileXml.mv(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
-      return res.status(200).send({ message: 'File uploaded!', status: '200' })
+      return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
   } else {
     fileXml.mv(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
-      return res.status(200).send({ message: 'File uploaded!', status: '200' })
+      return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
   }
 }
