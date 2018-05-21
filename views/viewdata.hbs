@@ -1,0 +1,20 @@
+<section id="data">
+  <p id="message"></p>
+</section>
+<script>
+  fetch('http://localhost:8080/api/data/nacional')
+    .then(function (res) {
+      return res.json()
+    })
+    .then(function (boletin) {
+      console.log(boletin.data.Boletin_Consolidado.Boletin.Detalle_Circunscripcion.lin.Detalle_Candidato.lin)
+      boletin.data.Boletin_Consolidado.Boletin.Detalle_Circunscripcion.lin.Detalle_Candidato.lin.map(function (candidato, index) {
+        console.log(candidato)
+        if (candidato.Candidato.V == '001') {
+          //console.log('ok')
+          document.getElementById('message')
+            .textContent = candidato.Votos.V
+        }
+      })
+    })
+</script>

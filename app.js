@@ -74,4 +74,8 @@ app.get('/home', (req, res) => {
   res.render('home')
 })
 
+app.get('/data', (req, res) => {
+  res.render('viewdata')
+})
+
 module.exports = app

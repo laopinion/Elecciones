@@ -24,21 +24,31 @@ function loadFile (req, res) {
     })
   }
 }
-/* eslint handle-callback-err: 2 */
 
 function jsonDepartamental (req, res) {
-  fs.readFile('../uploads/fileDepartamental', function (err, data) {
+  fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'alo salio mal' })
     }
-    const json = parser.toJson(data)
-    console.log('to json ->', json)
+    const json = parser.toJson(data, { object: true })
+    // console.log('to json ->', json)
+    return res.status(200).send({ status: '200', data: json })
   })
+}
 
-  return res.status(200).send({ status: '200' })
+function jsonNacional (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err, data) {
+    if (err) {
+      return res.status(500).send({ status: '500', message: 'alo salio mal' })
+    }
+    const json = parser.toJson(data, { object: true })
+    // console.log('to json ->', json)
+    return res.status(200).send({ status: '200', data: json })
+  })
 }
 
 module.exports = {
   loadFile,
-  jsonDepartamental
+  jsonDepartamental,
+  jsonNacional
 }

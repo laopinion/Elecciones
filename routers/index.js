@@ -26,5 +26,6 @@ api.get('/private', auth.isAuth, function (req, res, next) {
 })
 
 api.get('/data/departamental', fileCtrl.jsonDepartamental)
+api.get('/data/nacional', fileCtrl.jsonNacional)
 
 module.exports = api
