@@ -1,27 +1,54 @@
 <script>
-  if (localStorage.token == undefined) {
+  if (localStorage.tokenElecciones == undefined) {
     window.location.replace('/login')
   }
 </script>
 <section id="home">
-  <h3>Hola mundo home</h3>
+  <h2>Load file xml</h2>
+  <form id="loadFile" ref='uploadForm' encType="multipart/form-data">
+    <label for="file">Load file</label>
+    <input id="file" type="file" name="fileXml">
+    <select name="option" id="optionFile">
+      <option value="Departamental">Departamental</option>
+      <option value="Nacional">Nacional</option>
+    </select>
+    <input id="btnLoad" type="submit" value="Load">
+  </form>
+  <h3 id="message"></h3>
 </section>
 
 <script>
-  const myHeaders = new Headers();
-  // Entonces endicamos que al headers authorization le vamos agregar el token, 
-  // Por defecto se envia authorization: Barer por eso lo hacemos de esa forma con el Barer
-  myHeaders.append('authorization', 'bearer ' + localStorage.token);
+  const myHeaders = new Headers({
+    'authorization': 'bearer ' + localStorage.tokenElecciones
+  });
+  // myHeaders.append('authorization', 'bearer ' + localStorage.tokenElecciones);
 
-  function prueba() {
-    // fetch es la nueva forma de ES6
-    fetch('/api/product', {
-      methos: 'GET',
-      headers: myHeaders
+  const $formFile = document.getElementById('loadFile');
+
+  $formFile.addEventListener('submit', loadFile)
+
+  function loadFile(event) {
+    event.preventDefault();
+
+    const formData = new FormData(this);
+    console.log(formData.get('fileXml'))
+
+    fetch('/api/loadfile', {
+      method: 'POST',
+      headers: myHeaders,
+      body: formData
     })
       .then(res => res.json())
       .then(data => {
-        this.setState({ products: data.products })
+        if (data.status == 200) {
+          console.log('ok todo bien ', data)
+          $formFile.reset();
+        } else {
+          console.log('algo salio mal' + data.message)
+        }
+      })
+      .catch(err => {
+        console.log(`Algo salio mal -> ${err}`);
       })
   }
 

@@ -1,0 +1,103 @@
+<Boletin_Consolidado><Boletin>
+  <Numero V="0005"/>
+  <Boletin_Departamental V="0005"/>
+  <Tipo_Boletin V="DEPARTAMENTAL"/>
+  <Desc_Corporacion V="PRESIDENTE"/>
+  <Departamento V="25"/>
+  <Desc_Departamento V="NORTE DE SAN"/>
+  <Municipio V="000"/>
+  <Desc_Municipio V="NO APLICA"/>
+  <Dia V="18"/>
+  <Mes V="5"/>
+  <Anio V="2018"/>
+  <Hora V="11"/>
+  <Minuto V="26"/>
+  <Seg V="15"/>
+  <Mesas_Instaladas V="3130"/>
+  <Mesas_Informadas V="1300"/>
+  <Porc_Mesas_Informadas V="041,53"/>
+  <Potencial_Sufragantes V="1155957"/>
+  <Total_Sufragantes V="433005"/>
+  <Porc_Sufragantes V="037,45"/>
+  <Votos_Nulos V="8544"/>
+  <Porc_Votos_Nulos V="001,97"/>
+  <Votos_No_Marcados V="12306"/>
+  <Porc_Votos_No_Marcados V="002,84"/>
+  <Detalle_Circunscripcion>
+    <lin>
+      <Circunscripcion V="0"/>
+      <Desc_Circunscripcion V="NACIONAL"/>
+      <Detalle_Partido_Totales>
+        <lin>
+          <Partido V="995"/>
+          <Descripcion V="VOTOS POR LISTA O PARTIDO"/>
+          <Votos V="408470"/>
+          <Porc V="099,10"/>
+        </lin>
+        <lin>
+          <Partido V="996"/>
+          <Descripcion V="VOTOS EN BLANCO"/>
+          <Votos V="3685"/>
+          <Porc V="000,89"/>
+        </lin>
+        <lin>
+          <Partido V="999"/>
+          <Descripcion V="VOTOS VALIDOS"/>
+          <Votos V="412155"/>
+          <Porc V="095,18"/>
+        </lin>
+      </Detalle_Partido_Totales>
+      <Detalle_Candidato>
+        <lin>
+          <Candidato V="001"/>
+          <Votos V="53344"/>
+          <Porc V="012,94"/>
+          <Partido V="029"/>
+        </lin>
+        <lin>
+          <Candidato V="004"/>
+          <Votos V="53067"/>
+          <Porc V="012,87"/>
+          <Partido V="025"/>
+        </lin>
+        <lin>
+          <Candidato V="002"/>
+          <Votos V="52339"/>
+          <Porc V="012,69"/>
+          <Partido V="028"/>
+        </lin>
+        <lin>
+          <Candidato V="006"/>
+          <Votos V="52023"/>
+          <Porc V="012,62"/>
+          <Partido V="026"/>
+        </lin>
+        <lin>
+          <Candidato V="005"/>
+          <Votos V="50544"/>
+          <Porc V="012,26"/>
+          <Partido V="016"/>
+        </lin>
+        <lin>
+          <Candidato V="003"/>
+          <Votos V="49335"/>
+          <Porc V="011,97"/>
+          <Partido V="012"/>
+        </lin>
+        <lin>
+          <Candidato V="008"/>
+          <Votos V="49095"/>
+          <Porc V="011,91"/>
+          <Partido V="027"/>
+        </lin>
+        <lin>
+          <Candidato V="007"/>
+          <Votos V="48723"/>
+          <Porc V="011,82"/>
+          <Partido V="014"/>
+        </lin>
+      </Detalle_Candidato>
+    </lin>
+  </Detalle_Circunscripcion>
+</Boletin>
+</Boletin_Consolidado>

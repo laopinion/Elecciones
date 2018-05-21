@@ -1,8 +1,8 @@
-body{
+body {
   font-size: 16px;
 }
 
-#signup{
+#signup {
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -10,24 +10,52 @@ body{
   width: 500px;
 }
 
-#signup form{
+#signup form {
   width: 100%;
 }
 
-#signup form input{
+#signup form input {
   border: 1px solid #333333;
   height: 30px;
   width: 100%;
 }
 
-#signup form #btn_create{
+#signup form #btn_create {
   cursor: pointer;
 }
 
-#login{
+#login {
   margin: 0 auto;
   display: flex;
   align-items: center;
   height: 100vh;
   width: 500px;
+}
+
+#home {
+  margin: 0 auto;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#home h3 {
+  margin: 50px auto;
+  max-width: 500px;
+}
+
+#home #loadFile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 200px;
+  width: 500px;
+}
+
+#home #loadFile #btnLoad {
+  cursor: pointer;
+  width: 200px;
 }

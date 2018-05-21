@@ -7,6 +7,7 @@ const expressSession = require('express-session')
 // const passport = require('passport')
 const cookieParser = require('cookie-parser')
 // const auth = require('./middlewares/index')
+const fileUpload = require('express-fileupload')
 
 require('dotenv').config()
 
@@ -14,6 +15,7 @@ require('./passport')
 const api = require('./routers')
 const app = express()
 
+app.use(fileUpload())
 // Esto se agrego por un mensaje de advertencia
 // require('events').EventEmitter.defaultMaxListeners = Infinity;
 
@@ -38,11 +40,6 @@ app.use(
     saveUninitialized: true
   })
 )
-/* app.use(passport.initialize())
-app.use(passport.session())
-
-passport.deserializeUser(auth.deserializeUser)
-passport.serializeUser(auth.serializeUser) */
 
 app.engine(
   '.hbs',
@@ -68,17 +65,6 @@ app.get('/login', (req, res, next) => {
 app.get('/signup', (req, res) => {
   res.render('signup')
 })
-
-app.get(
-  '/secretDebug',
-  function (req, res, next) {
-    console.log(req.get('Authorization'))
-    next()
-  },
-  function (req, res) {
-    res.json('debugging')
-  }
-)
 
 // app.get('/home', passport.authenticate('jwt', { session: false }), (req, res) => {
 //   // res.setHeader('Authorization', `bearer ${localStorage.token}`)

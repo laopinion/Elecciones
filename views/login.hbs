@@ -1,5 +1,5 @@
 <script>
-  if (localStorage.token != undefined) {
+  if (localStorage.tokenElecciones != undefined) {
     window.location.replace('/home')
   }
 </script>
@@ -40,7 +40,7 @@
       })
       .then(data => {
         // Guardamos el token en localStorage
-        localStorage.setItem('token', `${data.token}`);
+        localStorage.setItem('tokenElecciones', `${data.token}`);
         console.log(`Logeando -> ${data.token}`)
         window.location.replace('/home')
       })
