@@ -11,7 +11,7 @@ mongoose.Promise = require('bluebird')
 // const db = 'mongodb://'+process.env.DB_USER+':'+process.env.DB_PASS+'@'+process.env.DB_HOST+'/notifications';
 
 // agregar esto a producción { useMongoClient: true },
-mongoose.connect(config.db, (err, res) => {
+mongoose.connect(config.dbProd, { useMongoClient: true }, (err, res) => {
   if (err) return console.log('Error al conectar con la base de datos: ', err)
   console.log('Conexión a la base de datos establecidad....')
   const port = config.port

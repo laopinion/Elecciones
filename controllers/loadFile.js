@@ -6,7 +6,7 @@ const fs = require('fs')
 function loadFile (req, res) {
   // console.log(req.files)
   // console.log(req.body.option)
-  if (!req.files) return res.status(400).send('No files were uploaded.')
+  if (!req.files) return res.status(400).send({ message: 'No files were uploaded.', status: '400' })
 
   let fileXml = req.files.fileXml
 

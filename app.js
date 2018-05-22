@@ -35,7 +35,7 @@ app.use(express.static('public'))
 app.use(cookieParser())
 app.use(
   expressSession({
-    secret: process.env.SESSION_SECRET,
+    secret: process.env.JWT,
     resave: false,
     saveUninitialized: true
   })
