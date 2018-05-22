@@ -31,7 +31,7 @@
     event.preventDefault();
 
     const formData = new FormData(this);
-    console.log(formData.get('fileXml'))
+    //console.log(formData.get('fileXml'))
 
     fetch('/api/loadfile', {
       method: 'POST',
@@ -41,10 +41,12 @@
       .then(res => res.json())
       .then(data => {
         if (data.status == 200) {
-          console.log('ok todo bien ', data.message)
+          console.log(data.message)
           $formFile.reset();
           const $message = document.getElementById('message');
           // console.log('algo salio mal' + data.message)
+          $message.style.display = 'block'
+          $message.style.opacity = 1
           setTimeout(() => {
             fade($message);
           }, 3000);
@@ -53,6 +55,8 @@
         } else {
           const $message = document.getElementById('message');
           // console.log('algo salio mal' + data.message)
+          $message.style.display = 'block'
+          $message.style.opacity = 1
           setTimeout(() => {
             fade($message);
           }, 3000);
@@ -64,6 +68,8 @@
         // console.log(`Algo salio mal -> ${err}`);
         const $message = document.getElementById('message');
         // console.log('algo salio mal' + data.message)
+        $message.style.display = 'block'
+        $message.style.opacity = 1
         setTimeout(() => {
           fade($message);
         }, 3000);

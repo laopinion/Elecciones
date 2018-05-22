@@ -28,7 +28,7 @@ function loadFile (req, res) {
 function jsonDepartamental (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'alo salio mal' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
@@ -39,7 +39,7 @@ function jsonDepartamental (req, res) {
 function jsonNacional (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'alo salio mal' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
