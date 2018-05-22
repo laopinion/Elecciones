@@ -10,7 +10,7 @@ const fileCtrl = require('../controllers/loadFile')
 // const upload = multer({ dest: 'uploads/' })
 
 // Registro de un user
-api.post('/signup', userCtrl.signUp)
+// api.post('/signup', userCtrl.signUp)
 
 // Iniciar seseion
 api.post('/signin', userCtrl.signIn, function (req, res) {
