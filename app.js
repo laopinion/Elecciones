@@ -3,9 +3,9 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const hbs = require('express-handlebars')
-const expressSession = require('express-session')
+// const expressSession = require('express-session')
 // const passport = require('passport')
-const cookieParser = require('cookie-parser')
+// const cookieParser = require('cookie-parser')
 // const auth = require('./middlewares/index')
 const fileUpload = require('express-fileupload')
 
@@ -32,14 +32,14 @@ app.use(function (req, res, next) {
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(bodyParser.json())
 app.use(express.static('public'))
-app.use(cookieParser())
+/* app.use(cookieParser())
 app.use(
   expressSession({
     secret: process.env.JWT,
     resave: false,
     saveUninitialized: true
   })
-)
+) */
 
 app.engine(
   '.hbs',
