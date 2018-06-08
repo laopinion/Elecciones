@@ -15,6 +15,22 @@ require('./passport')
 const api = require('./routers')
 const app = express()
 
+const server = require('http').createServer(app)
+const io = require('socket.io')(server)
+
+var messages = [
+  {
+    id: 1,
+    text: 'Hola soy un mensaje',
+    author: 'Carlos Azaustre'
+  }
+]
+
+io.on('connection', function (socket) {
+  console.log('a user connected')
+  socket.emit('messages', messages)
+})
+
 app.use(fileUpload())
 // Esto se agrego por un mensaje de advertencia
 // require('events').EventEmitter.defaultMaxListeners = Infinity;
@@ -78,4 +94,4 @@ app.get('/data', (req, res) => {
   res.render('viewdata')
 })
 
-module.exports = app
+module.exports = server

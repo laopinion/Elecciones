@@ -2,6 +2,21 @@
 const path = require('path')
 const parser = require('xml2json')
 const fs = require('fs')
+// const server = require('../app.js')
+// const io = require('socket.io')(server)
+
+// var messages = [
+//   {
+//     id: 1,
+//     text: 'Hola soy un mensaje',
+//     author: 'Carlos Azaustre'
+//   }
+// ]
+
+// io.on('connection', function (socket) {
+//   console.log('a user connected')
+//   socket.emit('messages', messages)
+// })
 
 function loadFile (req, res) {
   // console.log(req.files)
