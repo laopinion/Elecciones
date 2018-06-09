@@ -12,7 +12,7 @@ mongoose.Promise = require('bluebird')
 
 // agregar esto a producción { useMongoClient: true },
 mongoose.connect(
-  config.db,
+  config.dbProd,
   { useMongoClient: true },
   (err, res) => {
     if (err) return console.log('Error al conectar con la base de datos: ', err)
