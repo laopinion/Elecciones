@@ -8,6 +8,7 @@ const hbs = require('express-handlebars')
 // const cookieParser = require('cookie-parser')
 // const auth = require('./middlewares/index')
 const fileUpload = require('express-fileupload')
+const fileCtrl = require('./controllers/loadFile')
 
 require('dotenv').config()
 
@@ -18,17 +19,62 @@ const app = express()
 const server = require('http').createServer(app)
 const io = require('socket.io')(server)
 
-var messages = [
+/* var messages = [
   {
     id: 1,
     text: 'Hola soy un mensaje',
     author: 'Carlos Azaustre'
   }
-]
+] */
 
 io.on('connection', function (socket) {
   console.log('a user connected')
-  socket.emit('messages', messages)
+  // socket.emit('messages', messages)
+  fileCtrl
+    .jsonNacional()
+    .then(function (data) {
+      // console.log(data)
+      socket.emit('data-nacional', data)
+    })
+    .catch(function (err) {
+      console.warn(err)
+    })
+
+  fileCtrl
+    .jsonDepartamental()
+    .then(function (data) {
+      // console.log(data)
+      socket.emit('data-departamental', data)
+    })
+    .catch(function (err) {
+      console.warn(err)
+    })
+
+  socket.on('load-file', function () {
+    // messages.push(data)
+    console.log('load file complete')
+
+    // io.sockets.emit('messages', messages)
+    fileCtrl
+      .jsonNacional()
+      .then(function (data) {
+        // console.log(data)
+        io.sockets.emit('data-nacional', data)
+      })
+      .catch(function (err) {
+        console.warn(err)
+      })
+
+    fileCtrl
+      .jsonDepartamental()
+      .then(function (data) {
+        // console.log(data)
+        io.sockets.emit('data-departamental', data)
+      })
+      .catch(function (err) {
+        console.warn(err)
+      })
+  })
 })
 
 app.use(fileUpload())
@@ -94,4 +140,9 @@ app.get('/data', (req, res) => {
   res.render('viewdata')
 })
 
-module.exports = server
+// module.exports = {
+//   server,
+//   io
+// }
+module.exports.server = server
+module.exports.io = io

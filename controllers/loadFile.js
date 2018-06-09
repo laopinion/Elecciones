@@ -2,21 +2,6 @@
 const path = require('path')
 const parser = require('xml2json')
 const fs = require('fs')
-// const server = require('../app.js')
-// const io = require('socket.io')(server)
-
-// var messages = [
-//   {
-//     id: 1,
-//     text: 'Hola soy un mensaje',
-//     author: 'Carlos Azaustre'
-//   }
-// ]
-
-// io.on('connection', function (socket) {
-//   console.log('a user connected')
-//   socket.emit('messages', messages)
-// })
 
 function loadFile (req, res) {
   // console.log(req.files)
@@ -40,7 +25,7 @@ function loadFile (req, res) {
   }
 }
 
-function jsonDepartamental (req, res) {
+/* function jsonDepartamental (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -59,6 +44,36 @@ function jsonNacional (req, res) {
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
     return res.status(200).send({ status: '200', data: json })
+  })
+} */
+
+function jsonDepartamental () {
+  return new Promise(function (resolve, reject) {
+    fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
+      if (err) {
+        // return res.status(500).send({ status: '500', message: 'algo salio mal' })
+        return reject(err)
+      }
+      const json = parser.toJson(data, { object: true })
+      // console.log('to json ->', json)
+      // return res.status(200).send({ status: '200', data: json })
+      return resolve(json)
+    })
+  })
+}
+
+function jsonNacional () {
+  return new Promise(function (resolve, reject) {
+    fs.readFile(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err, data) {
+      if (err) {
+        // return res.status(500).send({ status: '500', message: 'algo salio mal' })
+        return reject(err)
+      }
+      const json = parser.toJson(data, { object: true })
+      // console.log('to json ->', json)
+      // return res.status(200).send({ status: '200', data: json })
+      return resolve(json)
+    })
   })
 }
 

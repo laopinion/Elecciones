@@ -1,28 +1,28 @@
 <Boletin_Consolidado><Boletin>
-  <Numero V="0000"/>
-  <Boletin_Departamental V="0000"/>
+  <Numero V="0300"/>
+  <Boletin_Departamental V="0218"/>
   <Tipo_Boletin V="NACIONAL"/>
   <Desc_Corporacion V="PRESIDENTE"/>
   <Departamento V="00"/>
   <Desc_Departamento V="NO APLICA"/>
   <Municipio V="000"/>
   <Desc_Municipio V="NO APLICA"/>
-  <Dia V="21"/>
+  <Dia V="24"/>
   <Mes V="5"/>
   <Anio V="2018"/>
-  <Hora V="16"/>
-  <Minuto V="43"/>
+  <Hora V="18"/>
+  <Minuto V="57"/>
   <Seg V="30"/>
   <Mesas_Instaladas V="97663"/>
-  <Mesas_Informadas V="0"/>
-  <Porc_Mesas_Informadas V="000,00"/>
+  <Mesas_Informadas V="97663"/>
+  <Porc_Mesas_Informadas V="100,00"/>
   <Potencial_Sufragantes V="36783940"/>
-  <Total_Sufragantes V="0"/>
-  <Porc_Sufragantes V="000,00"/>
-  <Votos_Nulos V="0"/>
-  <Porc_Votos_Nulos V="000,00"/>
-  <Votos_No_Marcados V="0"/>
-  <Porc_Votos_No_Marcados V="000,00"/>
+  <Total_Sufragantes V="33099800"/>
+  <Porc_Sufragantes V="089,98"/>
+  <Votos_Nulos V="652493"/>
+  <Porc_Votos_Nulos V="001,97"/>
+  <Votos_No_Marcados V="941640"/>
+  <Porc_Votos_No_Marcados V="002,84"/>
   <Detalle_Circunscripcion>
     <lin>
       <Circunscripcion V="0"/>
@@ -31,70 +31,70 @@
         <lin>
           <Partido V="995"/>
           <Descripcion V="VOTOS POR LISTA O PARTIDO"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
+          <Votos V="31223474"/>
+          <Porc V="099,10"/>
         </lin>
         <lin>
           <Partido V="996"/>
           <Descripcion V="VOTOS EN BLANCO"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
+          <Votos V="282193"/>
+          <Porc V="000,89"/>
         </lin>
         <lin>
           <Partido V="999"/>
           <Descripcion V="VOTOS VALIDOS"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
+          <Votos V="31505667"/>
+          <Porc V="095,18"/>
         </lin>
       </Detalle_Partido_Totales>
       <Detalle_Candidato>
         <lin>
-          <Candidato V="001"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
-          <Partido V="029"/>
-        </lin>
-        <lin>
-          <Candidato V="002"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
-          <Partido V="028"/>
-        </lin>
-        <lin>
-          <Candidato V="003"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
-          <Partido V="012"/>
-        </lin>
-        <lin>
-          <Candidato V="004"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
-          <Partido V="025"/>
-        </lin>
-        <lin>
           <Candidato V="005"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
+          <Votos V="3920409"/>
+          <Porc V="012,44"/>
           <Partido V="016"/>
         </lin>
         <lin>
+          <Candidato V="001"/>
+          <Votos V="3912621"/>
+          <Porc V="012,41"/>
+          <Partido V="029"/>
+        </lin>
+        <lin>
+          <Candidato V="004"/>
+          <Votos V="3912292"/>
+          <Porc V="012,41"/>
+          <Partido V="025"/>
+        </lin>
+        <lin>
+          <Candidato V="002"/>
+          <Votos V="3906955"/>
+          <Porc V="012,40"/>
+          <Partido V="028"/>
+        </lin>
+        <lin>
+          <Candidato V="008"/>
+          <Votos V="3900942"/>
+          <Porc V="012,38"/>
+          <Partido V="027"/>
+        </lin>
+        <lin>
           <Candidato V="006"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
+          <Votos V="3890779"/>
+          <Porc V="012,34"/>
           <Partido V="026"/>
         </lin>
         <lin>
           <Candidato V="007"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
+          <Votos V="3890222"/>
+          <Porc V="012,34"/>
           <Partido V="014"/>
         </lin>
         <lin>
-          <Candidato V="008"/>
-          <Votos V="0"/>
-          <Porc V="000,00"/>
-          <Partido V="027"/>
+          <Candidato V="003"/>
+          <Votos V="3889254"/>
+          <Porc V="012,34"/>
+          <Partido V="012"/>
         </lin>
       </Detalle_Candidato>
     </lin>

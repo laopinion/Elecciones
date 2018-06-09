@@ -5,7 +5,7 @@ const api = express.Router()
 const userCtrl = require('../controllers/user')
 const auth = require('../middlewares/index')
 const fileCtrl = require('../controllers/loadFile')
-
+const app = require('../app.js')
 // const multer = require('multer')
 // const upload = multer({ dest: 'uploads/' })
 
@@ -25,7 +25,7 @@ api.get('/private', auth.isAuth, function (req, res, next) {
   res.json('Success! You can not see this without a token')
 })
 
-api.get('/data/departamental', fileCtrl.jsonDepartamental)
-api.get('/data/nacional', fileCtrl.jsonNacional)
+// api.get('/data/departamental', fileCtrl.jsonDepartamental)
+// api.get('/data/nacional', fileCtrl.jsonNacional)
 
 module.exports = api

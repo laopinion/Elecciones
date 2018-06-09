@@ -18,7 +18,7 @@ mongoose.connect(
     if (err) return console.log('Error al conectar con la base de datos: ', err)
     console.log('Conexión a la base de datos establecidad....')
     const port = config.port
-    app.listen(port, () => {
+    app.server.listen(port, () => {
       console.log(`Server on port http://localhost:${port}`)
     })
   }
