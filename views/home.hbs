@@ -19,7 +19,14 @@
 
 <script src="/socket.io/socket.io.js"></script>
 <script>
-  const socket = io.connect('http://localhost:8080', { 'forceNew': true });
+  const href = window.location.href;
+  let url = 'https://elecciones.laopinion.com.co';
+
+  if (href != 'https://elecciones.laopinion.com.co/home') {
+    url = 'http://localhost:8080';
+  }
+
+  const socket = io.connect(url, { 'forceNew': true });
   const myHeaders = new Headers({
     'authorization': 'bearer ' + localStorage.tokenElecciones
   });
