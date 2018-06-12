@@ -5,7 +5,6 @@ const api = express.Router()
 const userCtrl = require('../controllers/user')
 const auth = require('../middlewares/index')
 const fileCtrl = require('../controllers/loadFile')
-const app = require('../app.js')
 // const multer = require('multer')
 // const upload = multer({ dest: 'uploads/' })
 
