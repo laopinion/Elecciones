@@ -25,7 +25,7 @@ function loadFile (req, res) {
   }
 }
 
-/* function jsonDepartamental (req, res) {
+function jsonDepartamentalHttp (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -36,7 +36,7 @@ function loadFile (req, res) {
   })
 }
 
-function jsonNacional (req, res) {
+function jsonNacionalHttp (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -45,7 +45,7 @@ function jsonNacional (req, res) {
     // console.log('to json ->', json)
     return res.status(200).send({ status: '200', data: json })
   })
-} */
+}
 
 function jsonDepartamental () {
   return new Promise(function (resolve, reject) {
@@ -80,5 +80,7 @@ function jsonNacional () {
 module.exports = {
   loadFile,
   jsonDepartamental,
-  jsonNacional
+  jsonNacional,
+  jsonDepartamentalHttp,
+  jsonNacionalHttp
 }

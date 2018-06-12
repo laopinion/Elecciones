@@ -25,7 +25,7 @@ api.get('/private', auth.isAuth, function (req, res, next) {
   res.json('Success! You can not see this without a token')
 })
 
-// api.get('/data/departamental', fileCtrl.jsonDepartamental)
-// api.get('/data/nacional', fileCtrl.jsonNacional)
+api.get('/data/departamental', fileCtrl.jsonDepartamentalHttp)
+api.get('/data/nacional', fileCtrl.jsonNacionalHttp)
 
 module.exports = api
