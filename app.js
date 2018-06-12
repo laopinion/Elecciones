@@ -144,5 +144,4 @@ app.get('/data', (req, res) => {
 //   server,
 //   io
 // }
-module.exports.server = server
-module.exports.io = io
+module.exports = server
