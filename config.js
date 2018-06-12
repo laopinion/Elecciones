@@ -1,7 +1,9 @@
 'use strict'
-// require('dotenv').config()
+
+require('dotenv').config()
+
 module.exports = {
-  port: process.env.PORT || 8080,
+  port: process.env.PORT || 80,
   db: 'mongodb://127.0.0.1:27017/elecciones',
   dbProd:
     'mongodb://' +
