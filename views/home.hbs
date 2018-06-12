@@ -26,9 +26,8 @@
     url = 'http://localhost:8080';
   }
 
-  const socket = io();
+  const socket = io.connect();
   //const socket = io.connect(url, { 'forceNew': true });
-  socket.connect(url, { 'forceNew': true });
 
   const myHeaders = new Headers({
     'authorization': 'bearer ' + localStorage.tokenElecciones
