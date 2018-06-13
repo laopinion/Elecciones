@@ -28,7 +28,8 @@
   }*/
 
   //const socket = io.connect();
-  const socket = io.connect(url, { 'forceNew': true });
+  // const socket = io.connect(url, { transports: ['websocket'] });
+  const socket = io(url, { transports: ['websocket'] });
 
   const myHeaders = new Headers({
     'authorization': 'bearer ' + localStorage.tokenElecciones
