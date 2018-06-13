@@ -29,8 +29,7 @@
 
   //const socket = io.connect();
   // const socket = io.connect(url, { transports: ['websocket'] });
-  //const socket = io(url, { transports: ['websocket'] });
-  const socket = io();
+  const socket = io(url, { transports: ['websocket'] });
 
   const myHeaders = new Headers({
     'authorization': 'bearer ' + localStorage.tokenElecciones
@@ -55,7 +54,13 @@
       .then(res => res.json())
       .then(data => {
         if (data.status == 200) {
-          socket.emit('load-file');
+          socket.on('connect', function () { // TIP: you can avoid listening on `connect` and listen on events directly too!
+            console.log('ok conectado')
+            /*socket.emit('ferret', 'tobi', function (data) {
+              console.log(data); // data will be 'woot'
+            });*/
+            socket.emit('load-file');
+          });
           console.log(data.message)
           $formFile.reset();
           const $message = document.getElementById('message');
