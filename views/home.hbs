@@ -20,11 +20,12 @@
 <script src="/socket.io/socket.io.js"></script>
 <script>
   const href = window.location.href;
-  let url = 'https://elecciones.laopinion.com.co:3002';
+  // url = 'https://elecciones.laopinion.com.co';
+  let url = 'http://laopinion-web01.calipso.com.co:3002';
 
-  if (href != 'https://elecciones.laopinion.com.co/home') {
+  /*if (href != 'https://elecciones.laopinion.com.co/home') {
     url = 'http://localhost:8080';
-  }
+  }*/
 
   const socket = io.connect();
   //const socket = io.connect(url, { 'forceNew': true });
