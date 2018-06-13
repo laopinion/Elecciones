@@ -54,14 +54,8 @@
       .then(res => res.json())
       .then(data => {
         if (data.status == 200) {
-          socket.on('connect', function () { // TIP: you can avoid listening on `connect` and listen on events directly too!
-            console.log('ok conectado')
-            /*socket.emit('ferret', 'tobi', function (data) {
-              console.log(data); // data will be 'woot'
-            });*/
-            socket.emit('load-file');
-          });
           console.log(data.message)
+          socket.emit('load-file');
           $formFile.reset();
           const $message = document.getElementById('message');
           // console.log('algo salio mal' + data.message)
