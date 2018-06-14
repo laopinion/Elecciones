@@ -1,6 +1,6 @@
 'use strict'
 
-const express = require('express')
+const app = require('express')()
 const bodyParser = require('body-parser')
 const hbs = require('express-handlebars')
 // const expressSession = require('express-session')
@@ -14,7 +14,7 @@ require('dotenv').config()
 
 require('./passport')
 const api = require('./routers')
-const app = express()
+// const app = express()
 
 const server = require('http').Server(app)
 const io = require('socket.io')(server)
