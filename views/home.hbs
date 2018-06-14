@@ -22,14 +22,17 @@
 <script>
   const href = window.location.href;
   // url = 'https://elecciones.laopinion.com.co';
-  let url = 'ws://laopinion-web01.calipso.com.co:3002';
+  let url = '';
 
-  /*if (href != 'https://elecciones.laopinion.com.co/home' || href != 'http://elecciones.laopinion.com.co/home') {
+  if (href === 'https://elecciones.laopinion.com.co/home' || href === 'http://elecciones.laopinion.com.co/home') {
+    url = 'ws://laopinion-web01.calipso.com.co:3002';
+  } else {
     url = 'http://localhost:8080';
-  } */
+  }
 
   //const socket = io.connect();
   const socket = io.connect(url, { transports: ['websocket'] });
+  const socket2 = io.connect('ws://laopinion-web02.calipso.com.co:3002', { transports: ['websocket'] });
   //const socket = io(url, { transports: ['websocket'] });
 
   const myHeaders = new Headers({
@@ -57,6 +60,7 @@
         if (data.status == 200) {
           console.log(data.message)
           socket.emit('load-file');
+          socket2.emit('load-file');
           $formFile.reset();
           const $message = document.getElementById('message');
           // console.log('algo salio mal' + data.message)
