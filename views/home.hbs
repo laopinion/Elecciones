@@ -32,7 +32,7 @@
 
   //const socket = io.connect();
   const socket = io.connect(url, { transports: ['websocket'] });
-  const socket2 = io.connect('http://laopinion-web02.calipso.com.co:3002', { transports: ['websocket'] });
+  const socket2 = io.connect('http://laopinion-web02.calipso.com.co:3002', { forceNew: true });
   //const socket = io(url, { transports: ['websocket'] });
 
   const myHeaders = new Headers({
