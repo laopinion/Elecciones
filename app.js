@@ -8,7 +8,7 @@ const hbs = require('express-handlebars')
 // const cookieParser = require('cookie-parser')
 // const auth = require('./middlewares/index')
 const fileUpload = require('express-fileupload')
-const fileCtrl = require('./controllers/loadFile')
+// const fileCtrl = require('./controllers/loadFile')
 
 require('dotenv').config()
 
@@ -16,8 +16,8 @@ require('./passport')
 const api = require('./routers')
 const app = express()
 
-const server = require('http').Server(app)
-const io = require('socket.io')(server)
+// const server = require('http').Server(app)
+// const io = require('socket.io')(server)
 
 /* var messages = [
   {
@@ -27,57 +27,57 @@ const io = require('socket.io')(server)
   }
 ] */
 
-io.on('connection', function (socket) {
-  console.log('a user connected')
-  // socket.emit('messages', messages)
-  fileCtrl
-    .jsonNacional()
-    .then(function (data) {
-      // console.log(data)
-      socket.emit('data-nacional', data)
-    })
-    .catch(function (err) {
-      console.warn(err)
-    })
+// io.on('connection', function (socket) {
+//   console.log('a user connected')
+//   // socket.emit('messages', messages)
+//   fileCtrl
+//     .jsonNacional()
+//     .then(function (data) {
+//       // console.log(data)
+//       socket.emit('data-nacional', data)
+//     })
+//     .catch(function (err) {
+//       console.warn(err)
+//     })
 
-  fileCtrl
-    .jsonDepartamental()
-    .then(function (data) {
-      // console.log(data)
-      socket.emit('data-departamental', data)
-    })
-    .catch(function (err) {
-      console.warn(err)
-    })
+//   fileCtrl
+//     .jsonDepartamental()
+//     .then(function (data) {
+//       // console.log(data)
+//       socket.emit('data-departamental', data)
+//     })
+//     .catch(function (err) {
+//       console.warn(err)
+//     })
 
-  socket.on('load-file', function (option) {
-    // messages.push(data)
-    console.log('load file complete', option)
-    if (option === 'Nacional') {
-      fileCtrl
-        .jsonNacional()
-        .then(function (data) {
-          // console.log(data)
-          io.sockets.emit('data-nacional', data)
-          // io.emit('hi', 'everyone'); // short form
-        })
-        .catch(function (err) {
-          console.warn(err)
-        })
-    } else {
-      fileCtrl
-        .jsonDepartamental()
-        .then(function (data) {
-          // console.log(data)
-          io.sockets.emit('data-departamental', data)
-        })
-        .catch(function (err) {
-          console.warn(err)
-        })
-    }
-    // io.sockets.emit('messages', messages)
-  })
-})
+//   socket.on('load-file', function (option) {
+//     // messages.push(data)
+//     console.log('load file complete', option)
+//     if (option === 'Nacional') {
+//       fileCtrl
+//         .jsonNacional()
+//         .then(function (data) {
+//           // console.log(data)
+//           io.sockets.emit('data-nacional', data)
+//           // io.emit('hi', 'everyone'); // short form
+//         })
+//         .catch(function (err) {
+//           console.warn(err)
+//         })
+//     } else {
+//       fileCtrl
+//         .jsonDepartamental()
+//         .then(function (data) {
+//           // console.log(data)
+//           io.sockets.emit('data-departamental', data)
+//         })
+//         .catch(function (err) {
+//           console.warn(err)
+//         })
+//     }
+//     // io.sockets.emit('messages', messages)
+//   })
+// })
 
 app.use(fileUpload())
 // Esto se agrego por un mensaje de advertencia
@@ -146,4 +146,4 @@ app.get('/data', (req, res) => {
 //   server,
 //   io
 // }
-module.exports = server
+module.exports = app

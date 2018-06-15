@@ -31,7 +31,7 @@
   }
 
   //const socket = io.connect();
-  const socket = io.connect(url, { transports: ['websocket'] });
+  //const socket = io.connect(url, { transports: ['websocket'] });
   //const socket2 = io.connect('http://laopinion-web02.calipso.com.co:3002', { forceNew: true });
   //const socket = io(url, { transports: ['websocket'] });
 
@@ -61,7 +61,7 @@
           console.log(data.message)
           const option = formData.get('option');
           //console.info(option)
-          socket.emit('load-file', option);
+          //socket.emit('load-file', option);
           //socket2.emit('load-file');
           $formFile.reset();
           const $message = document.getElementById('message');
