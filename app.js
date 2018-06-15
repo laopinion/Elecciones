@@ -50,30 +50,32 @@ io.on('connection', function (socket) {
       console.warn(err)
     })
 
-  socket.on('load-file', function () {
+  socket.on('load-file', function (option) {
     // messages.push(data)
-    console.log('load file complete')
-
+    console.log('load file complete', option)
+    if (option === 'Nacional') {
+      fileCtrl
+        .jsonNacional()
+        .then(function (data) {
+          // console.log(data)
+          io.sockets.emit('data-nacional', data)
+          // io.emit('hi', 'everyone'); // short form
+        })
+        .catch(function (err) {
+          console.warn(err)
+        })
+    } else {
+      fileCtrl
+        .jsonDepartamental()
+        .then(function (data) {
+          // console.log(data)
+          io.sockets.emit('data-departamental', data)
+        })
+        .catch(function (err) {
+          console.warn(err)
+        })
+    }
     // io.sockets.emit('messages', messages)
-    fileCtrl
-      .jsonNacional()
-      .then(function (data) {
-        // console.log(data)
-        io.sockets.emit('data-nacional', data)
-      })
-      .catch(function (err) {
-        console.warn(err)
-      })
-
-    fileCtrl
-      .jsonDepartamental()
-      .then(function (data) {
-        // console.log(data)
-        io.sockets.emit('data-departamental', data)
-      })
-      .catch(function (err) {
-        console.warn(err)
-      })
   })
 })
 

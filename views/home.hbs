@@ -18,7 +18,7 @@
 </section>
 
 <!-- <script src="/socket.io/socket.io.js"></script> -->
-<script src="http://laopinion-web01.calipso.com.co:3002/socket.io/socket.io.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.slim.js"></script>
 <script>
   const href = window.location.href;
   // url = 'https://elecciones.laopinion.com.co';
@@ -32,7 +32,7 @@
 
   //const socket = io.connect();
   const socket = io.connect(url, { transports: ['websocket'] });
-  const socket2 = io.connect('http://laopinion-web02.calipso.com.co:3002', { forceNew: true });
+  //const socket2 = io.connect('http://laopinion-web02.calipso.com.co:3002', { forceNew: true });
   //const socket = io(url, { transports: ['websocket'] });
 
   const myHeaders = new Headers({
@@ -59,8 +59,10 @@
       .then(data => {
         if (data.status == 200) {
           console.log(data.message)
-          socket.emit('load-file');
-          socket2.emit('load-file');
+          const option = formData.get('option');
+          //console.info(option)
+          socket.emit('load-file', option);
+          //socket2.emit('load-file');
           $formFile.reset();
           const $message = document.getElementById('message');
           // console.log('algo salio mal' + data.message)
