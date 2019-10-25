@@ -10,14 +10,20 @@ function loadFile (req, res) {
 
   let fileXml = req.files.fileXml
 
-  if (req.body.option === 'Departamental') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err) {
+  if (req.body.option === 'Alcaldia') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/fileAlcaldia.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else {
-    fileXml.mv(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err) {
+  } else if (req.body.option === 'Gobernacion') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/fileGobernacion.xml'), function (err) {
+      if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
+
+      return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
+    })
+  } else if (req.body.option === 'Asamblea') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/fileAsamblea.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
@@ -25,8 +31,8 @@ function loadFile (req, res) {
   }
 }
 
-function jsonDepartamentalHttp (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
+function jsonAlcaldiaHttp (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/fileAlcaldia.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
     }
@@ -36,8 +42,8 @@ function jsonDepartamentalHttp (req, res) {
   })
 }
 
-function jsonNacionalHttp (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err, data) {
+function jsonGobernacionHttp (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/fileGobernacion.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
     }
@@ -47,40 +53,20 @@ function jsonNacionalHttp (req, res) {
   })
 }
 
-function jsonDepartamental () {
-  return new Promise(function (resolve, reject) {
-    fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
-      if (err) {
-        // return res.status(500).send({ status: '500', message: 'algo salio mal' })
-        return reject(err)
-      }
-      const json = parser.toJson(data, { object: true })
-      // console.log('to json ->', json)
-      // return res.status(200).send({ status: '200', data: json })
-      return resolve(json)
-    })
-  })
-}
-
-function jsonNacional () {
-  return new Promise(function (resolve, reject) {
-    fs.readFile(path.resolve(__dirname, '../uploads/fileNacional.xml'), function (err, data) {
-      if (err) {
-        // return res.status(500).send({ status: '500', message: 'algo salio mal' })
-        return reject(err)
-      }
-      const json = parser.toJson(data, { object: true })
-      // console.log('to json ->', json)
-      // return res.status(200).send({ status: '200', data: json })
-      return resolve(json)
-    })
+function jsonAsambleaHttp (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/fileAsamblea.xml'), function (err, data) {
+    if (err) {
+      return res.status(500).send({ status: '500', message: 'algo salio mal' })
+    }
+    const json = parser.toJson(data, { object: true })
+    // console.log('to json ->', json)
+    return res.status(200).send({ status: '200', data: json })
   })
 }
 
 module.exports = {
   loadFile,
-  jsonDepartamental,
-  jsonNacional,
-  jsonDepartamentalHttp,
-  jsonNacionalHttp
+  jsonAlcaldiaHttp,
+  jsonGobernacionHttp,
+  jsonAsambleaHttp
 }

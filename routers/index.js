@@ -9,7 +9,7 @@ const fileCtrl = require('../controllers/loadFile')
 // const upload = multer({ dest: 'uploads/' })
 
 // Registro de un user
-// api.post('/signup', userCtrl.signUp)
+api.post('/signup', userCtrl.signUp)
 
 // Iniciar seseion
 api.post('/signin', userCtrl.signIn, function (req, res) {
@@ -24,7 +24,8 @@ api.get('/private', auth.isAuth, function (req, res, next) {
   res.json('Success! You can not see this without a token')
 })
 
-api.get('/data/departamental', fileCtrl.jsonDepartamentalHttp)
-api.get('/data/nacional', fileCtrl.jsonNacionalHttp)
+api.get('/data/alcaldia', fileCtrl.jsonAlcaldiaHttp)
+api.get('/data/gobernacion', fileCtrl.jsonGobernacionHttp)
+api.get('/data/asamblea', fileCtrl.jsonAsambleaHttp)
 
 module.exports = api
