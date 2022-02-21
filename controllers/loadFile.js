@@ -3,7 +3,7 @@ const path = require('path')
 const parser = require('xml2json')
 const fs = require('fs')
 
-function loadFile (req, res) {
+function loadFile(req, res) {
   // console.log(req.files)
   // console.log(req.body.option)
   if (!req.files) return res.status(400).send({ message: 'No files were uploaded.', status: '400' })
@@ -37,7 +37,7 @@ function loadFile (req, res) {
   }
 }
 
-function jsonAlcaldiaHttp (req, res) {
+function jsonAlcaldiaHttp(req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileAlcaldia.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -48,7 +48,7 @@ function jsonAlcaldiaHttp (req, res) {
   })
 }
 
-function jsonGobernacionHttp (req, res) {
+function jsonGobernacionHttp(req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileGobernacion.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -59,7 +59,7 @@ function jsonGobernacionHttp (req, res) {
   })
 }
 
-function jsonAsambleaHttp (req, res) {
+function jsonAsambleaHttp(req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileAsamblea.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -70,10 +70,21 @@ function jsonAsambleaHttp (req, res) {
   })
 }
 
-function jsonConcejoHttp (req, res) {
+function jsonConcejoHttp(req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileConcejo.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
+    }
+    const json = parser.toJson(data, { object: true })
+    // console.log('to json ->', json)
+    return res.status(200).send({ status: '200', data: json })
+  })
+}
+
+function jsonDepartamentalHttp(req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/fileDepartamental.xml'), function (err, data) {
+    if (err) {
+      return res.status(500).send({ status: '500', message: 'algo salio mal departamental' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
@@ -86,5 +97,6 @@ module.exports = {
   jsonAlcaldiaHttp,
   jsonGobernacionHttp,
   jsonAsambleaHttp,
-  jsonConcejoHttp
+  jsonConcejoHttp,
+  jsonDepartamentalHttp,
 }

@@ -13,7 +13,16 @@ mongoose.Promise = require('bluebird')
 // agregar esto a producción { useMongoClient: true },
 // config.dbProd // Prod
 // config.db // Dev
-mongoose.connect(config.dbProd, { useMongoClient: true }, (err, res) => {
+// console.log(config.dbProd)
+const opts = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  bufferCommands: false,
+  // bufferMaxEntries: 0,
+  // useFindAndModify: false,
+  // useCreateIndex: true,
+}
+mongoose.connect(config.dbProd, opts, (err, res) => {
   if (err) return console.log('Error al conectar con la base de datos: ', err)
   console.log('Conexión a la base de datos establecidad....')
   const port = config.port

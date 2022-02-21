@@ -28,5 +28,6 @@ api.get('/data/alcaldia', fileCtrl.jsonAlcaldiaHttp)
 api.get('/data/gobernacion', fileCtrl.jsonGobernacionHttp)
 api.get('/data/asamblea', fileCtrl.jsonAsambleaHttp)
 api.get('/data/concejo', fileCtrl.jsonConcejoHttp)
+api.get('/data/departamental', fileCtrl.jsonDepartamentalHttp)
 
 module.exports = api
