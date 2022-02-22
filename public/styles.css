@@ -39,6 +39,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  position: relative;
   height: 100vh;
 }
 
@@ -61,5 +62,33 @@ body {
 
 #home #loadFile #btnLoad {
   cursor: pointer;
-  width: 200px;
+  border: none;
+  color: #ffffff;
+  padding: 10px 15px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: #12223f;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 120px;
+}
+
+#home .logout {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  border: none;
+  color: #ffffff;
+  padding: 10px 15px;
+  border-radius: 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: #ad2e2e;
+  margin: 4px 2px;
+  cursor: pointer;
 }

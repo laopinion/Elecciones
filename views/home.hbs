@@ -5,6 +5,7 @@
 </script>
 <section id="home">
   <h2>Load file xml</h2>
+  <button class="logout" type="button">Cerrar sesión</button>
   <form id="loadFile" ref='uploadForm' encType="multipart/form-data" onchange="fileValidation()">
     <label for="file">Seleccione un archivo xml</label>
     <input id="file" type="file" name="fileXml" required>
@@ -13,8 +14,9 @@
       <option value="Gobernacion">Gobernacion</option>
       <option value="Asamblea">Asamblea</option>
       <option value="Concejo">Concejo</option>
+      <option value="departamentalTest">Departamental Test</option>
     </select>
-    <input id="btnLoad" type="submit" value="Load">
+    <input id="btnLoad" type="submit" value="Cargar">
   </form>
   <h3 id="message"></h3>
 </section>
@@ -50,9 +52,11 @@
     event.preventDefault();
 
     const formData = new FormData(this);
-    //console.log(formData.get('fileXml'))
+    // console.log(formData.get('fileXml'))
 
-    fetch('/api/loadfile', {
+    const urlApi = `${window.location.origin}/api/loadfile`
+
+    fetch(urlApi, {
       method: 'POST',
       headers: myHeaders,
       body: formData
@@ -135,5 +139,12 @@
       op -= op * 0.1;
     }, 50);
   }
+
+  const logOut = document.querySelector('.logout')
+  logOut.addEventListener('click', () => {
+    console.log('click')
+    localStorage.removeItem('tokenElecciones')
+    window.location.href = '/';
+  })
 
 </script>
