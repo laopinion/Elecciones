@@ -8,8 +8,8 @@ const fileCtrl = require('../controllers/loadFile')
 // const multer = require('multer')
 // const upload = multer({ dest: 'uploads/' })
 
-// Registro de un user
-api.post('/signup', userCtrl.signUp)
+// Registro de un user comentar al pasar a producción
+// api.post('/signup', userCtrl.signUp)
 
 // Iniciar seseion
 api.post('/signin', userCtrl.signIn, function (req, res) {

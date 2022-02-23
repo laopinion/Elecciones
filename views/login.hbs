@@ -13,6 +13,7 @@
     <br>
     <input type="submit" value="Login">
   </form>
+  <h3 id="message"></h3>
 </section>
 
 <script>
@@ -40,12 +41,38 @@
       })
       .then(data => {
         // Guardamos el token en localStorage
-        localStorage.setItem('tokenElecciones', `${data.token}`);
-        console.log(`Logeando -> ${data.token}`)
-        window.location.replace('/home')
+        if (data.token) {
+          localStorage.setItem('tokenElecciones', `${data.token}`);
+          console.log(`Logeando -> ${data.token}`)
+          window.location.replace('/home')
+        } else {
+          const $message = document.getElementById('message');
+          // console.log('algo salio mal' + data.message)
+          $message.style.display = 'block'
+          $message.style.opacity = 1
+          setTimeout(() => {
+            fade($message);
+          }, 3000);
+          $message
+            .textContent = 'Verifica los datos de acceso e intenta nuevamente.'
+        }
       })
       .catch(err => {
         console.log(`Algo salio mal -> ${err}`);
       })
   });
+
+  function fade(element) {
+    let op = 1;  // initial opacity
+    let timer = setInterval(function () {
+      // console.log(op)
+      if (op <= 0.1) {
+        clearInterval(timer);
+        element.style.display = 'none';
+      }
+      element.style.opacity = op;
+      element.style.filter = 'alpha(opacity=' + op * 100 + ")";
+      op -= op * 0.1;
+    }, 50);
+  }
 </script>

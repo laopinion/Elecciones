@@ -1,13 +1,9 @@
 {
-  "eslint.autoFixOnSave": true,
-  "javascript.format.enable": false,
-  "prettier.printWidth": 100,
-  "prettier.singleQuote": true,
-  "prettier.trailingComma": "es5",
-  "prettier.eslintIntegration": true,
-  "eslint.enable": true,
-  "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": false,
+  "[javascript]": {
+    "editor.formatOnSave": false
   }
 }

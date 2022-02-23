@@ -17,7 +17,7 @@ mongoose.Promise = require('bluebird')
 const opts = {
   useNewUrlParser: true,
   useUnifiedTopology: true,
-  bufferCommands: false,
+  bufferCommands: false
   // bufferMaxEntries: 0,
   // useFindAndModify: false,
   // useCreateIndex: true,

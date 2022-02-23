@@ -3,7 +3,7 @@ const path = require('path')
 const parser = require('xml2json')
 const fs = require('fs')
 
-function loadFile(req, res) {
+function loadFile (req, res) {
   // console.log(req.files)
   // console.log(req.body.option)
   if (!req.files) return res.status(400).send({ message: 'No files were uploaded.', status: '400' })
@@ -49,7 +49,7 @@ function loadFile(req, res) {
   }
 }
 
-function jsonAlcaldiaHttp(req, res) {
+function jsonAlcaldiaHttp (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileAlcaldia.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -60,7 +60,7 @@ function jsonAlcaldiaHttp(req, res) {
   })
 }
 
-function jsonGobernacionHttp(req, res) {
+function jsonGobernacionHttp (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileGobernacion.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -71,7 +71,7 @@ function jsonGobernacionHttp(req, res) {
   })
 }
 
-function jsonAsambleaHttp(req, res) {
+function jsonAsambleaHttp (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileAsamblea.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -82,7 +82,7 @@ function jsonAsambleaHttp(req, res) {
   })
 }
 
-function jsonConcejoHttp(req, res) {
+function jsonConcejoHttp (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/fileConcejo.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal' })
@@ -93,7 +93,7 @@ function jsonConcejoHttp(req, res) {
   })
 }
 
-function jsonDepartamentalHttp(req, res) {
+function jsonDepartamentalHttp (req, res) {
   fs.readFile(
     path.resolve(__dirname, '../uploads/fileDepartamentalTest.xml'),
     function (err, data) {
@@ -113,5 +113,5 @@ module.exports = {
   jsonGobernacionHttp,
   jsonAsambleaHttp,
   jsonConcejoHttp,
-  jsonDepartamentalHttp,
+  jsonDepartamentalHttp
 }
