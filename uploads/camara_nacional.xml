@@ -1,0 +1,2491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Consolidado>
+    <Boletin>
+        <Numero V="0042"/>
+        <Boletin V="0000"/>
+        <Tipo_Boletin V="NACIONAL"/>
+        <Desc_Corporacion V="CAMARA"/>
+        <Departamento V="00"/>
+        <Desc_Departamento V="NO APLICA"/>
+        <Municipio V="000"/>
+        <Desc_Municipio V="NO APLICA"/>
+        <Dia V="26"/>
+        <Mes V="02"/>
+        <Anio V="2022"/>
+        <Hora V="16"/>
+        <Minuto V="05"/>
+        <Mesas_Instaladas V="112370"/>
+        <Mesas_Informadas V="111618"/>
+        <Porc_Mesas_Informadas V="099,33"/>
+        <Potencial_Sufragantes V="38893318"/>
+        <Total_Sufragantes V="8251019"/>
+        <Porc_Sufragantes V="021,21"/>
+        <Votos_Nulos V="102380"/>
+        <Porc_Votos_Nulos V="001,24"/>
+        <Votos_No_Marcados V="101132"/>
+        <Porc_Votos_No_Marcados V="001,22"/>
+        <Detalle_Circunscripcion>
+            <lin>
+                <Circunscripcion V="1"/>
+                <Desc_Circunscripcion V="DEPARTAMENTAL"/>
+                <Numero_Curules V=" "/>
+                <Detalle_Partidos_Totales>
+                    <lin>
+                        <Partido V="0995"/>
+                        <Descripcion V="VOTOS POR LISTA O PARTIDO"/>
+                        <Votos V="7941333"/>
+                        <Porc V="098,68"/>
+                    </lin>
+                    <lin>
+                        <Partido V="0996"/>
+                        <Descripcion V="VOTOS EN BLANCO"/>
+                        <Votos V="106174"/>
+                        <Porc V="001,31"/>
+                    </lin>
+                    <lin>
+                        <Partido V="0999"/>
+                        <Descripcion V="VOTOS VÁLIDOS"/>
+                        <Votos V="8047507"/>
+                        <Porc V="097,53"/>
+                    </lin>
+                </Detalle_Partidos_Totales>
+                <Detalle_Partido>
+                    <lin>
+                        <Partido V="0001"/>
+                        <Votos V="1063449"/>
+                        <Porc V="013,21"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0011"/>
+                        <Votos V="924737"/>
+                        <Porc V="011,49"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0004"/>
+                        <Votos V="746941"/>
+                        <Porc V="009,28"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0002"/>
+                        <Votos V="709875"/>
+                        <Porc V="008,82"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0008"/>
+                        <Votos V="701564"/>
+                        <Porc V="008,71"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0003"/>
+                        <Votos V="675397"/>
+                        <Porc V="008,39"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0222"/>
+                        <Votos V="350591"/>
+                        <Porc V="004,35"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0019"/>
+                        <Votos V="328007"/>
+                        <Porc V="004,07"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0261"/>
+                        <Votos V="307228"/>
+                        <Porc V="003,81"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0202"/>
+                        <Votos V="250903"/>
+                        <Porc V="003,11"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0203"/>
+                        <Votos V="217044"/>
+                        <Porc V="002,69"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0201"/>
+                        <Votos V="212888"/>
+                        <Porc V="002,64"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0290"/>
+                        <Votos V="172842"/>
+                        <Porc V="002,14"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0273"/>
+                        <Votos V="128787"/>
+                        <Porc V="001,60"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="1077"/>
+                        <Votos V="81603"/>
+                        <Porc V="001,01"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0017"/>
+                        <Votos V="76361"/>
+                        <Porc V="000,94"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0302"/>
+                        <Votos V="74565"/>
+                        <Porc V="000,92"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0291"/>
+                        <Votos V="64123"/>
+                        <Porc V="000,79"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0007"/>
+                        <Votos V="64040"/>
+                        <Porc V="000,79"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0006"/>
+                        <Votos V="61760"/>
+                        <Porc V="000,76"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0254"/>
+                        <Votos V="53748"/>
+                        <Porc V="000,66"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0294"/>
+                        <Votos V="51611"/>
+                        <Porc V="000,64"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0281"/>
+                        <Votos V="49098"/>
+                        <Porc V="000,61"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0282"/>
+                        <Votos V="47194"/>
+                        <Porc V="000,58"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0241"/>
+                        <Votos V="41555"/>
+                        <Porc V="000,51"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0013"/>
+                        <Votos V="40751"/>
+                        <Porc V="000,50"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0251"/>
+                        <Votos V="40401"/>
+                        <Porc V="000,50"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0258"/>
+                        <Votos V="39455"/>
+                        <Porc V="000,49"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0246"/>
+                        <Votos V="25910"/>
+                        <Porc V="000,32"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0271"/>
+                        <Votos V="23234"/>
+                        <Porc V="000,28"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0227"/>
+                        <Votos V="22717"/>
+                        <Porc V="000,28"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0267"/>
+                        <Votos V="21799"/>
+                        <Porc V="000,27"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0242"/>
+                        <Votos V="19319"/>
+                        <Porc V="000,24"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0243"/>
+                        <Votos V="19106"/>
+                        <Porc V="000,23"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0265"/>
+                        <Votos V="17243"/>
+                        <Porc V="000,21"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="1051"/>
+                        <Votos V="16476"/>
+                        <Porc V="000,20"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0253"/>
+                        <Votos V="16459"/>
+                        <Porc V="000,20"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0257"/>
+                        <Votos V="16376"/>
+                        <Porc V="000,20"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0245"/>
+                        <Votos V="16214"/>
+                        <Porc V="000,20"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0244"/>
+                        <Votos V="16174"/>
+                        <Porc V="000,20"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0234"/>
+                        <Votos V="14558"/>
+                        <Porc V="000,18"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0252"/>
+                        <Votos V="13511"/>
+                        <Porc V="000,16"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0262"/>
+                        <Votos V="13060"/>
+                        <Porc V="000,16"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0264"/>
+                        <Votos V="12570"/>
+                        <Porc V="000,15"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0232"/>
+                        <Votos V="11803"/>
+                        <Porc V="000,14"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0015"/>
+                        <Votos V="11399"/>
+                        <Porc V="000,14"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0263"/>
+                        <Votos V="9992"/>
+                        <Porc V="000,12"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0226"/>
+                        <Votos V="8031"/>
+                        <Porc V="000,09"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0224"/>
+                        <Votos V="7539"/>
+                        <Porc V="000,09"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0235"/>
+                        <Votos V="6794"/>
+                        <Porc V="000,08"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="1076"/>
+                        <Votos V="6315"/>
+                        <Porc V="000,07"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0233"/>
+                        <Votos V="5015"/>
+                        <Porc V="000,06"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="1187"/>
+                        <Votos V="3458"/>
+                        <Porc V="000,04"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0266"/>
+                        <Votos V="2986"/>
+                        <Porc V="000,03"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0301"/>
+                        <Votos V="2698"/>
+                        <Porc V="000,03"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0211"/>
+                        <Votos V="1749"/>
+                        <Porc V="000,02"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0221"/>
+                        <Votos V="892"/>
+                        <Porc V="000,01"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0223"/>
+                        <Votos V="486"/>
+                        <Porc V="000,01"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0005"/>
+                        <Votos V="480"/>
+                        <Porc V="000,01"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0225"/>
+                        <Votos V="253"/>
+                        <Porc V="000,01"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0014"/>
+                        <Votos V="199"/>
+                        <Porc V="000,01"/>
+                        <Pref V="NO APLICA"/>
+                        <Curules V=" "/>
+                    </lin>
+                </Detalle_Partido>
+                <Detalle_Candidato/>
+                <Curules/>
+            </lin>
+            <lin>
+                <Circunscripcion V="4"/>
+                <Desc_Circunscripcion V="INDIGENAS"/>
+                <Numero_Curules V=" "/>
+                <Detalle_Partidos_Totales>
+                    <lin>
+                        <Partido V="0995"/>
+                        <Descripcion V="VOTOS POR LISTA O PARTIDO"/>
+                        <Votos V="1914354"/>
+                        <Porc V="094,81"/>
+                    </lin>
+                    <lin>
+                        <Partido V="0996"/>
+                        <Descripcion V="VOTOS EN BLANCO"/>
+                        <Votos V="104701"/>
+                        <Porc V="005,18"/>
+                    </lin>
+                    <lin>
+                        <Partido V="0999"/>
+                        <Descripcion V="VOTOS VÁLIDOS"/>
+                        <Votos V="2019055"/>
+                        <Porc V="090,91"/>
+                    </lin>
+                </Detalle_Partidos_Totales>
+                <Detalle_Partido>
+                    <lin>
+                        <Partido V="0156"/>
+                        <Votos V="488265"/>
+                        <Porc V="024,18"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0186"/>
+                        <Votos V="483350"/>
+                        <Porc V="023,93"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0167"/>
+                        <Votos V="242479"/>
+                        <Porc V="012,00"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0183"/>
+                        <Votos V="241699"/>
+                        <Porc V="011,97"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0177"/>
+                        <Votos V="230686"/>
+                        <Porc V="011,42"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0182"/>
+                        <Votos V="115339"/>
+                        <Porc V="005,71"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0168"/>
+                        <Votos V="112536"/>
+                        <Porc V="005,57"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                </Detalle_Partido>
+                <Detalle_Candidato>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="204"/>
+                        <Votos V="124844"/>
+                        <Porc V="006,18"/>
+                        <Partido V="0156"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="205"/>
+                        <Votos V="122448"/>
+                        <Porc V="006,06"/>
+                        <Partido V="0156"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="120704"/>
+                        <Porc V="005,97"/>
+                        <Partido V="0156"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="206"/>
+                        <Votos V="120269"/>
+                        <Porc V="005,95"/>
+                        <Partido V="0156"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="205"/>
+                        <Votos V="121822"/>
+                        <Porc V="006,03"/>
+                        <Partido V="0186"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="121493"/>
+                        <Porc V="006,01"/>
+                        <Partido V="0186"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="204"/>
+                        <Votos V="120737"/>
+                        <Porc V="005,97"/>
+                        <Partido V="0186"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="206"/>
+                        <Votos V="119298"/>
+                        <Porc V="005,90"/>
+                        <Partido V="0186"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="121440"/>
+                        <Porc V="006,01"/>
+                        <Partido V="0167"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="204"/>
+                        <Votos V="121039"/>
+                        <Porc V="005,99"/>
+                        <Partido V="0167"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="204"/>
+                        <Votos V="121867"/>
+                        <Porc V="006,03"/>
+                        <Partido V="0183"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="119832"/>
+                        <Porc V="005,93"/>
+                        <Partido V="0183"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="115807"/>
+                        <Porc V="005,73"/>
+                        <Partido V="0177"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="204"/>
+                        <Votos V="114879"/>
+                        <Porc V="005,68"/>
+                        <Partido V="0177"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="115339"/>
+                        <Porc V="005,71"/>
+                        <Partido V="0182"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="204"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0182"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="205"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0182"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112536"/>
+                        <Porc V="005,57"/>
+                        <Partido V="0168"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="204"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0168"/>
+                        <Sec V="2"/>
+                    </lin>
+                </Detalle_Candidato>
+                <Curules/>
+            </lin>
+            <lin>
+                <Circunscripcion V="5"/>
+                <Desc_Circunscripcion V="AFRO-DESCENDIENTES"/>
+                <Numero_Curules V=" "/>
+                <Detalle_Partidos_Totales>
+                    <lin>
+                        <Partido V="0995"/>
+                        <Descripcion V="VOTOS POR LISTA O PARTIDO"/>
+                        <Votos V="12213078"/>
+                        <Porc V="099,13"/>
+                    </lin>
+                    <lin>
+                        <Partido V="0996"/>
+                        <Descripcion V="VOTOS EN BLANCO"/>
+                        <Votos V="106959"/>
+                        <Porc V="000,86"/>
+                    </lin>
+                    <lin>
+                        <Partido V="0999"/>
+                        <Descripcion V="VOTOS VÁLIDOS"/>
+                        <Votos V="12320037"/>
+                        <Porc V="098,37"/>
+                    </lin>
+                </Detalle_Partidos_Totales>
+                <Detalle_Partido>
+                    <lin>
+                        <Partido V="0022"/>
+                        <Votos V="488011"/>
+                        <Porc V="003,96"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0023"/>
+                        <Votos V="487841"/>
+                        <Porc V="003,95"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0081"/>
+                        <Votos V="486079"/>
+                        <Porc V="003,94"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0092"/>
+                        <Votos V="484609"/>
+                        <Porc V="003,93"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0103"/>
+                        <Votos V="484030"/>
+                        <Porc V="003,92"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0101"/>
+                        <Votos V="483917"/>
+                        <Porc V="003,92"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0068"/>
+                        <Votos V="483502"/>
+                        <Porc V="003,92"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0100"/>
+                        <Votos V="482715"/>
+                        <Porc V="003,91"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0157"/>
+                        <Votos V="481951"/>
+                        <Porc V="003,91"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0116"/>
+                        <Votos V="481691"/>
+                        <Porc V="003,90"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0067"/>
+                        <Votos V="481243"/>
+                        <Porc V="003,90"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0021"/>
+                        <Votos V="480020"/>
+                        <Porc V="003,89"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0058"/>
+                        <Votos V="479941"/>
+                        <Porc V="003,89"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0114"/>
+                        <Votos V="479207"/>
+                        <Porc V="003,88"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0037"/>
+                        <Votos V="478289"/>
+                        <Porc V="003,88"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0087"/>
+                        <Votos V="474151"/>
+                        <Porc V="003,84"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0070"/>
+                        <Votos V="367139"/>
+                        <Porc V="002,98"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0038"/>
+                        <Votos V="363034"/>
+                        <Porc V="002,94"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0060"/>
+                        <Votos V="359773"/>
+                        <Porc V="002,92"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0099"/>
+                        <Votos V="237078"/>
+                        <Porc V="001,92"/>
+                        <Pref V="SI"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0057"/>
+                        <Votos V="115741"/>
+                        <Porc V="000,93"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0079"/>
+                        <Votos V="115451"/>
+                        <Porc V="000,93"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0069"/>
+                        <Votos V="115340"/>
+                        <Porc V="000,93"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0040"/>
+                        <Votos V="115014"/>
+                        <Porc V="000,93"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0093"/>
+                        <Votos V="114873"/>
+                        <Porc V="000,93"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0091"/>
+                        <Votos V="114780"/>
+                        <Porc V="000,93"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0085"/>
+                        <Votos V="114650"/>
+                        <Porc V="000,93"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0104"/>
+                        <Votos V="114291"/>
+                        <Porc V="000,92"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0077"/>
+                        <Votos V="113976"/>
+                        <Porc V="000,92"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0029"/>
+                        <Votos V="113845"/>
+                        <Porc V="000,92"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0059"/>
+                        <Votos V="113784"/>
+                        <Porc V="000,92"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0045"/>
+                        <Votos V="113573"/>
+                        <Porc V="000,92"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0041"/>
+                        <Votos V="113444"/>
+                        <Porc V="000,92"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0027"/>
+                        <Votos V="113344"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0042"/>
+                        <Votos V="113319"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0084"/>
+                        <Votos V="113063"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0078"/>
+                        <Votos V="112983"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0025"/>
+                        <Votos V="112894"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0039"/>
+                        <Votos V="112835"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0020"/>
+                        <Votos V="112724"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0043"/>
+                        <Votos V="112652"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0112"/>
+                        <Votos V="112504"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0102"/>
+                        <Votos V="112477"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0089"/>
+                        <Votos V="112385"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0046"/>
+                        <Votos V="112231"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0028"/>
+                        <Votos V="112151"/>
+                        <Porc V="000,91"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0097"/>
+                        <Votos V="111876"/>
+                        <Porc V="000,90"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                    <lin>
+                        <Partido V="0044"/>
+                        <Votos V="102657"/>
+                        <Porc V="000,83"/>
+                        <Pref V="NO"/>
+                        <Curules V=" "/>
+                    </lin>
+                </Detalle_Partido>
+                <Detalle_Candidato>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="122527"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0022"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="122477"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0022"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="121804"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0022"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="121203"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0022"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="123520"/>
+                        <Porc V="001,00"/>
+                        <Partido V="0023"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="122013"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0023"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="121602"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0023"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="120706"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0023"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="123903"/>
+                        <Porc V="001,00"/>
+                        <Partido V="0081"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="122884"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0081"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="120012"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0081"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="119280"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0081"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="122363"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0092"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="121707"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0092"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="120868"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0092"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="119671"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0092"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="122349"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0103"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="121613"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0103"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="121521"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0103"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="118547"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0103"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="121876"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0101"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="121195"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0101"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="120950"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0101"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="119896"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0101"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="121540"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0068"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="121431"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0068"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="121058"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0068"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="119473"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0068"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="122093"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0100"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="121709"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0100"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="120373"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0100"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="118540"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0100"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="121525"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0157"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="121296"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0157"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="121021"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0157"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="118109"/>
+                        <Porc V="000,95"/>
+                        <Partido V="0157"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="123141"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0116"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="119916"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0116"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="119698"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0116"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="118936"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0116"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="120599"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0067"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="120428"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0067"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="120111"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0067"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="120105"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0067"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="121407"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0021"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="120332"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0021"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="120175"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0021"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="118106"/>
+                        <Porc V="000,95"/>
+                        <Partido V="0021"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="121957"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0058"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="120510"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0058"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="118866"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0058"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="118608"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0058"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="120780"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0114"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="120383"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0114"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="119692"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0114"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="118352"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0114"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="120536"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0037"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="120377"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0037"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="118888"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0037"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="118488"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0037"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="120306"/>
+                        <Porc V="000,97"/>
+                        <Partido V="0087"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="119318"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0087"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="117929"/>
+                        <Porc V="000,95"/>
+                        <Partido V="0087"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="116598"/>
+                        <Porc V="000,94"/>
+                        <Partido V="0087"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="123472"/>
+                        <Porc V="001,00"/>
+                        <Partido V="0070"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="122214"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0070"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="121453"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0070"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="123790"/>
+                        <Porc V="001,00"/>
+                        <Partido V="0038"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="121470"/>
+                        <Porc V="000,98"/>
+                        <Partido V="0038"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="117774"/>
+                        <Porc V="000,95"/>
+                        <Partido V="0038"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="122467"/>
+                        <Porc V="000,99"/>
+                        <Partido V="0060"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="119122"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0060"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="118184"/>
+                        <Porc V="000,95"/>
+                        <Partido V="0060"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="118837"/>
+                        <Porc V="000,96"/>
+                        <Partido V="0099"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="118241"/>
+                        <Porc V="000,95"/>
+                        <Partido V="0099"/>
+                        <Sec V="0"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="115741"/>
+                        <Porc V="000,93"/>
+                        <Partido V="0057"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0057"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0057"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0057"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="115451"/>
+                        <Porc V="000,93"/>
+                        <Partido V="0079"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0079"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0079"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0079"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="115340"/>
+                        <Porc V="000,93"/>
+                        <Partido V="0069"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0069"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0069"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0069"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="115014"/>
+                        <Porc V="000,93"/>
+                        <Partido V="0040"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0040"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0040"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="114873"/>
+                        <Porc V="000,93"/>
+                        <Partido V="0093"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0093"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0093"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="999"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0093"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="114780"/>
+                        <Porc V="000,93"/>
+                        <Partido V="0091"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0091"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0091"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0091"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="114650"/>
+                        <Porc V="000,93"/>
+                        <Partido V="0085"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0085"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0085"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0085"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="114291"/>
+                        <Porc V="000,92"/>
+                        <Partido V="0104"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0104"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0104"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0104"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113976"/>
+                        <Porc V="000,92"/>
+                        <Partido V="0077"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0077"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0077"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0077"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113845"/>
+                        <Porc V="000,92"/>
+                        <Partido V="0029"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0029"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0029"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113784"/>
+                        <Porc V="000,92"/>
+                        <Partido V="0059"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0059"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0059"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0059"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113573"/>
+                        <Porc V="000,92"/>
+                        <Partido V="0045"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0045"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0045"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0045"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113444"/>
+                        <Porc V="000,92"/>
+                        <Partido V="0041"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0041"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113344"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0027"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0027"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0027"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0027"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113319"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0042"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0042"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0042"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="113063"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0084"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0084"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0084"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112983"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0078"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0078"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0078"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0078"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112894"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0025"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0025"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0025"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0025"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112835"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0039"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0039"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0039"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112724"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0020"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0020"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0020"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0020"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112652"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0043"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0043"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0043"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0043"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112504"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0112"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0112"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112477"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0102"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0102"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0102"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0102"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112385"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0089"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0089"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0089"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112231"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0046"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0046"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0046"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0046"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="112151"/>
+                        <Porc V="000,91"/>
+                        <Partido V="0028"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0028"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0028"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="111876"/>
+                        <Porc V="000,90"/>
+                        <Partido V="0097"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0097"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0097"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0097"/>
+                        <Sec V="4"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="000"/>
+                        <Votos V="102657"/>
+                        <Porc V="000,83"/>
+                        <Partido V="0044"/>
+                        <Sec V="1"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="301"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0044"/>
+                        <Sec V="2"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="302"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0044"/>
+                        <Sec V="3"/>
+                    </lin>
+                    <lin>
+                        <Amb_Presen V="0000000"/>
+                        <Candidato V="303"/>
+                        <Votos V="0"/>
+                        <Porc V="000,00"/>
+                        <Partido V="0044"/>
+                        <Sec V="4"/>
+                    </lin>
+                </Detalle_Candidato>
+                <Curules/>
+            </lin>
+        </Detalle_Circunscripcion>
+    </Boletin>
+</Consolidado>

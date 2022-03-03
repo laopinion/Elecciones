@@ -12,32 +12,44 @@ function loadFile (req, res) {
   const option = req.body.option
   // console.log(req.body.option)
 
-  if (option === 'Alcaldia') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/fileAlcaldia.xml'), function (err) {
+  if (option === 'camara_nacional') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/camara_nacional.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else if (option === 'Gobernacion') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/fileGobernacion.xml'), function (err) {
+  } else if (option === 'senado_nacional') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/senado_nacional.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else if (option === 'Asamblea') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/fileAsamblea.xml'), function (err) {
+  } else if (option === 'camara_departamental') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/camara_departamental.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else if (option === 'Concejo') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/fileConcejo.xml'), function (err) {
+  } else if (option === 'senado_departamental') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/senado_departamental.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else if (option === 'departamentalTest') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/fileDepartamentalTest.xml'), function (err) {
+  } else if (option === 'centro_esperanza') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/centro_esperanza.xml'), function (err) {
+      if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
+
+      return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
+    })
+  } else if (option === 'pacto_historico') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/pacto_historico.xml'), function (err) {
+      if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
+
+      return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
+    })
+  } else if (option === 'equipo_colombia') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/equipo_colombia.xml'), function (err) {
       if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
@@ -49,10 +61,10 @@ function loadFile (req, res) {
   }
 }
 
-function jsonAlcaldiaHttp (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/fileAlcaldia.xml'), function (err, data) {
+function jsonCamaraNacional (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/camara_nacional.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'algo salio mal' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal camara_nacional' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
@@ -60,10 +72,10 @@ function jsonAlcaldiaHttp (req, res) {
   })
 }
 
-function jsonGobernacionHttp (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/fileGobernacion.xml'), function (err, data) {
+function jsonSenadoNacional (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/senado_nacional.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'algo salio mal' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal senado_nacional' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
@@ -71,10 +83,10 @@ function jsonGobernacionHttp (req, res) {
   })
 }
 
-function jsonAsambleaHttp (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/fileAsamblea.xml'), function (err, data) {
+function jsonCamaraDepartamental (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/camara_departamental.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'algo salio mal' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal camara_departamental' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
@@ -82,10 +94,10 @@ function jsonAsambleaHttp (req, res) {
   })
 }
 
-function jsonConcejoHttp (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/fileConcejo.xml'), function (err, data) {
+function jsonSenadoDepartamental (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/senado_departamental.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'algo salio mal' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal senado_departamental' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
@@ -93,12 +105,40 @@ function jsonConcejoHttp (req, res) {
   })
 }
 
-function jsonDepartamentalHttp (req, res) {
+function jsonCentroEsperanza (req, res) {
   fs.readFile(
-    path.resolve(__dirname, '../uploads/fileDepartamentalTest.xml'),
+    path.resolve(__dirname, '../uploads/centro_esperanza.xml'),
     function (err, data) {
       if (err) {
-        return res.status(500).send({ status: '500', message: 'algo salio mal departamental' })
+        return res.status(500).send({ status: '500', message: 'algo salio mal centro_esperanza' })
+      }
+      const json = parser.toJson(data, { object: true })
+      // console.log('to json ->', json)
+      return res.status(200).send({ status: '200', data: json })
+    }
+  )
+}
+
+function jsonPactoHistorico (req, res) {
+  fs.readFile(
+    path.resolve(__dirname, '../uploads/pacto_historico.xml'),
+    function (err, data) {
+      if (err) {
+        return res.status(500).send({ status: '500', message: 'algo salio mal pacto_historico' })
+      }
+      const json = parser.toJson(data, { object: true })
+      // console.log('to json ->', json)
+      return res.status(200).send({ status: '200', data: json })
+    }
+  )
+}
+
+function jsonEquipoColombia (req, res) {
+  fs.readFile(
+    path.resolve(__dirname, '../uploads/equipo_colombia.xml'),
+    function (err, data) {
+      if (err) {
+        return res.status(500).send({ status: '500', message: 'algo salio mal equipo_colombia' })
       }
       const json = parser.toJson(data, { object: true })
       // console.log('to json ->', json)
@@ -109,9 +149,11 @@ function jsonDepartamentalHttp (req, res) {
 
 module.exports = {
   loadFile,
-  jsonAlcaldiaHttp,
-  jsonGobernacionHttp,
-  jsonAsambleaHttp,
-  jsonConcejoHttp,
-  jsonDepartamentalHttp
+  jsonCamaraNacional,
+  jsonCamaraDepartamental,
+  jsonSenadoNacional,
+  jsonSenadoDepartamental,
+  jsonCentroEsperanza,
+  jsonPactoHistorico,
+  jsonEquipoColombia
 }

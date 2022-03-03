@@ -24,10 +24,14 @@ api.get('/private', auth.isAuth, function (req, res, next) {
   res.json('Success! You can not see this without a token')
 })
 
-api.get('/data/alcaldia', fileCtrl.jsonAlcaldiaHttp)
-api.get('/data/gobernacion', fileCtrl.jsonGobernacionHttp)
-api.get('/data/asamblea', fileCtrl.jsonAsambleaHttp)
-api.get('/data/concejo', fileCtrl.jsonConcejoHttp)
-api.get('/data/departamental', fileCtrl.jsonDepartamentalHttp)
+api.get('/data/camara-nacional', fileCtrl.jsonCamaraNacional)
+api.get('/data/camara-departamental', fileCtrl.jsonCamaraDepartamental)
+
+api.get('/data/senado-nacional', fileCtrl.jsonCamaraNacional)
+api.get('/data/senado-departamental', fileCtrl.jsonCamaraDepartamental)
+
+api.get('/data/centro-esperanza', fileCtrl.jsonCentroEsperanza)
+api.get('/data/pacto-historico', fileCtrl.jsonPactoHistorico)
+api.get('/data/equipo-colombia', fileCtrl.jsonEquipoColombia)
 
 module.exports = api
