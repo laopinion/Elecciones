@@ -3,3 +3,4 @@ serviceAccountKey.json
 serviceAccountKeyProd.json
 .config
 .env
+uploads/
