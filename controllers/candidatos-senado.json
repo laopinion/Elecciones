@@ -1,0 +1,7370 @@
+[
+  {
+    "id_partido": "0013",
+    "id_candidato": "001",
+    "primer_nombre": "JULIAN",
+    "segundo_nombre": "GALLO",
+    "primer_apellido": "CUBILLOS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "002",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "RAMIREZ",
+    "primer_apellido": "LOBO",
+    "segundo_apellido": "SILVA"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "003",
+    "primer_nombre": "PABLO",
+    "segundo_nombre": "CATATUMBO",
+    "primer_apellido": "TORRES",
+    "segundo_apellido": "VICTORIA"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "004",
+    "primer_nombre": "IMELDA",
+    "segundo_nombre": "DAZA",
+    "primer_apellido": "COTES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "005",
+    "primer_nombre": "OMAR",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "RESTREPO"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "006",
+    "primer_nombre": "OLGA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "RICO",
+    "segundo_apellido": "SOSA"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "007",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "008",
+    "primer_nombre": "LUZ",
+    "segundo_nombre": "MARINA",
+    "primer_apellido": "GIRALDO",
+    "segundo_apellido": "MORA"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "009",
+    "primer_nombre": "RIGOBERTO",
+    "segundo_nombre": "ABELLO",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "010",
+    "primer_nombre": "ROSIRIS",
+    "segundo_nombre": "ESTHER",
+    "primer_apellido": "CHARRIS",
+    "segundo_apellido": "YANCE"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "012",
+    "primer_nombre": "NIDIA",
+    "segundo_nombre": "QUINTERO",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "013",
+    "primer_nombre": "ARQUIMEDES",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "014",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "VILORIA",
+    "segundo_apellido": "BLANCO"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "015",
+    "primer_nombre": "VLADIMIR",
+    "segundo_nombre": "VALBUENA",
+    "primer_apellido": "CASTRO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "016",
+    "primer_nombre": "YORLADIZ",
+    "segundo_nombre": "JIMENEZ",
+    "primer_apellido": "ATENCIO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "017",
+    "primer_nombre": "HERMES",
+    "segundo_nombre": "FRANCISCO",
+    "primer_apellido": "OSORIO",
+    "segundo_apellido": "REYES"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "018",
+    "primer_nombre": "MARICELA",
+    "segundo_nombre": "FLOREZ",
+    "primer_apellido": "CARO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "019",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "020",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "ELISA",
+    "primer_apellido": "AGUIRRE",
+    "segundo_apellido": "SAMACA"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "021",
+    "primer_nombre": "ERIS",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "CARDENAS",
+    "segundo_apellido": "OLIVERA"
+  },
+  {
+    "id_partido": "0013",
+    "id_candidato": "022",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "GREGORIO",
+    "primer_apellido": "CHAMARRABY",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "001",
+    "primer_nombre": "HUMBERTO",
+    "segundo_nombre": "DE",
+    "primer_apellido": "LA",
+    "segundo_apellido": "CALLE"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "002",
+    "primer_nombre": "VIVIANA",
+    "segundo_nombre": "BARBERENA",
+    "primer_apellido": "NISIMBLAT",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "003",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "LILIANA",
+    "primer_apellido": "ORTIZ",
+    "segundo_apellido": "NOVA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "004",
+    "primer_nombre": "SOR",
+    "segundo_nombre": "BERENICE",
+    "primer_apellido": "BEDOYA",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "005",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "LONDOÑO",
+    "segundo_apellido": "ULLOA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "006",
+    "primer_nombre": "JAIME",
+    "segundo_nombre": "RICARDO",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": "AMIN"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "007",
+    "primer_nombre": "IVAN",
+    "segundo_nombre": "LEONIDAS",
+    "primer_apellido": "NAME",
+    "segundo_apellido": "VASQUEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "008",
+    "primer_nombre": "LEON",
+    "segundo_nombre": "FREDY",
+    "primer_apellido": "MUÑOZ",
+    "segundo_apellido": "LOPERA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "009",
+    "primer_nombre": "EDINSON",
+    "segundo_nombre": "DELGADO",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "010",
+    "primer_nombre": "ANGELICA",
+    "segundo_nombre": "LISBETH",
+    "primer_apellido": "LOZANO",
+    "segundo_apellido": "CORREA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "011",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "FLOREZ",
+    "segundo_apellido": "ARCILA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "012",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "CAROLINA",
+    "primer_apellido": "ESPITIA",
+    "segundo_apellido": "JEREZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "013",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "SAMPER",
+    "primer_apellido": "STROUSS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "014",
+    "primer_nombre": "ANDREA",
+    "segundo_nombre": "PADILLA",
+    "primer_apellido": "VILLARRAGA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "015",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "GALLEGO"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "016",
+    "primer_nombre": "ROSA",
+    "segundo_nombre": "HELENA",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "BECERRA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "017",
+    "primer_nombre": "JULIO",
+    "segundo_nombre": "CESAR",
+    "primer_apellido": "RESTREPO",
+    "segundo_apellido": "ESCOBAR"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "018",
+    "primer_nombre": "NELSON",
+    "segundo_nombre": "JAVIER",
+    "primer_apellido": "ALARCON",
+    "segundo_apellido": "SUAREZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "019",
+    "primer_nombre": "ARMANDO",
+    "segundo_nombre": "SAAVEDRA",
+    "primer_apellido": "PERDOMO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "020",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "IVAN",
+    "primer_apellido": "MARULANDA",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "021",
+    "primer_nombre": "VICTOR",
+    "segundo_nombre": "ESTEYNER",
+    "primer_apellido": "ASPRILLA",
+    "segundo_apellido": "CUESTA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "022",
+    "primer_nombre": "ANTONIO",
+    "segundo_nombre": "ERESMID",
+    "primer_apellido": "SANGUINO",
+    "segundo_apellido": "PAEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "023",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "DOMINGO",
+    "primer_apellido": "GOYENECHE",
+    "segundo_apellido": "LANDINEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "024",
+    "primer_nombre": "TARSICIO",
+    "segundo_nombre": "MORA",
+    "primer_apellido": "GODOY",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "025",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "FRAN",
+    "primer_apellido": "PINCHAO",
+    "segundo_apellido": "BLANCO"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "026",
+    "primer_nombre": "EDWING",
+    "segundo_nombre": "FABIAN",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": "PLATA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "027",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "EMIL",
+    "primer_apellido": "SANABRIA",
+    "segundo_apellido": "DURAN"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "028",
+    "primer_nombre": "DORIS",
+    "segundo_nombre": "JOSEFINA",
+    "primer_apellido": "ORJUELA",
+    "segundo_apellido": "PEÑA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "029",
+    "primer_nombre": "DARIO",
+    "segundo_nombre": "ANGARITA",
+    "primer_apellido": "MEDELLIN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "030",
+    "primer_nombre": "LINA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "ARANGO",
+    "segundo_apellido": "DAVILA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "031",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "MICHEL",
+    "primer_apellido": "MAYA",
+    "segundo_apellido": "BEDOYA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "032",
+    "primer_nombre": "RAFAEL",
+    "segundo_nombre": "GUSTAVO",
+    "primer_apellido": "GUERRERO",
+    "segundo_apellido": "TAPIAS"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "033",
+    "primer_nombre": "NORMA",
+    "segundo_nombre": "CONSTANZA",
+    "primer_apellido": "VERA",
+    "segundo_apellido": "SALAZAR"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "034",
+    "primer_nombre": "FRANCISCO",
+    "segundo_nombre": "CANOSSA",
+    "primer_apellido": "CHAVES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "035",
+    "primer_nombre": "RAUL",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "JARAMILLO",
+    "segundo_apellido": "GUZMAN"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "036",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "SEBASTIAN",
+    "primer_apellido": "ALEJANDRO",
+    "segundo_apellido": "PERILLA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "037",
+    "primer_nombre": "SANTIAGO",
+    "segundo_nombre": "BERNARDO",
+    "primer_apellido": "MUÑOZ",
+    "segundo_apellido": "DIAZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "038",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "DANIEL",
+    "primer_apellido": "VARGAS",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "039",
+    "primer_nombre": "DANIEL",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "ZARTA",
+    "segundo_apellido": "ARIAS"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "040",
+    "primer_nombre": "DUBET",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "MUÑOZ",
+    "segundo_apellido": "BEDOYA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "041",
+    "primer_nombre": "HUGO",
+    "segundo_nombre": "PATARROYO",
+    "primer_apellido": "MURILLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "042",
+    "primer_nombre": "NELCY",
+    "segundo_nombre": "CARDENAS",
+    "primer_apellido": "MORA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "043",
+    "primer_nombre": "OMAR",
+    "segundo_nombre": "GUARIN",
+    "primer_apellido": "VILLAZON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "044",
+    "primer_nombre": "LILIA",
+    "segundo_nombre": "CLEMENCIA",
+    "primer_apellido": "SOLANO",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "045",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "NIÑO",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "046",
+    "primer_nombre": "MANUEL",
+    "segundo_nombre": "DARIO",
+    "primer_apellido": "CARVAJAL",
+    "segundo_apellido": "TRILLOS"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "047",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "VENTURA",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "048",
+    "primer_nombre": "VICTOR",
+    "segundo_nombre": "HUGO",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": "MINA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "049",
+    "primer_nombre": "NELLY",
+    "segundo_nombre": "AMPARO",
+    "primer_apellido": "FLOREZ",
+    "segundo_apellido": "VEGA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "050",
+    "primer_nombre": "JAIRO",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "CASTELLANOS",
+    "segundo_apellido": "SERRANO"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "051",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "ADOLFO",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": "HURTADO"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "052",
+    "primer_nombre": "BERTHA",
+    "segundo_nombre": "LUCIA",
+    "primer_apellido": "FRIES",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "053",
+    "primer_nombre": "JERSON",
+    "segundo_nombre": "DARIO",
+    "primer_apellido": "VILLOTA",
+    "segundo_apellido": "HUERTAS"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "054",
+    "primer_nombre": "JONATHAN",
+    "segundo_nombre": "FERNEY",
+    "primer_apellido": "PULIDO",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "055",
+    "primer_nombre": "ERIKA",
+    "segundo_nombre": "TATIANA",
+    "primer_apellido": "IBARGUEN",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "056",
+    "primer_nombre": "DALIA",
+    "segundo_nombre": "FERNANDA",
+    "primer_apellido": "PINEDA",
+    "segundo_apellido": "AGUASACO"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "057",
+    "primer_nombre": "DONALDO",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "058",
+    "primer_nombre": "HERNAN",
+    "segundo_nombre": "DARIO",
+    "primer_apellido": "ECHEVERRI",
+    "segundo_apellido": "ARBOLEDA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "059",
+    "primer_nombre": "ALVARO",
+    "segundo_nombre": "ERNESTO",
+    "primer_apellido": "PORTILLA",
+    "segundo_apellido": "MOLINA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "060",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "HEMAYR",
+    "primer_apellido": "YEPES",
+    "segundo_apellido": "CARDONA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "061",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "FRANCISCO",
+    "primer_apellido": "SALAMANCA",
+    "segundo_apellido": "ANAYA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "062",
+    "primer_nombre": "DANIEL",
+    "segundo_nombre": "GUILLERMO",
+    "primer_apellido": "TORRES",
+    "segundo_apellido": "NIÑO"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "063",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "IGNACIO",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "064",
+    "primer_nombre": "ANTONIO",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "ANDRADE",
+    "segundo_apellido": "ARRIAGA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "065",
+    "primer_nombre": "MANFRI",
+    "segundo_nombre": "PARRA",
+    "primer_apellido": "GARAY",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "067",
+    "primer_nombre": "WILLIAM",
+    "segundo_nombre": "ALFONSO",
+    "primer_apellido": "FUENTES",
+    "segundo_apellido": "MANRIQUE"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "068",
+    "primer_nombre": "GUIDO",
+    "segundo_nombre": "ECHEVERRI",
+    "primer_apellido": "PIEDRAHITA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "069",
+    "primer_nombre": "ARIEL",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "AVILA",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "070",
+    "primer_nombre": "ADRIANA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "PRIETO",
+    "segundo_apellido": "VARGAS"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "071",
+    "primer_nombre": "ROSA",
+    "segundo_nombre": "MARITZA",
+    "primer_apellido": "QUIÑONEZ",
+    "segundo_apellido": "QUIÑONEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "072",
+    "primer_nombre": "PABLO",
+    "segundo_nombre": "CRUZ",
+    "primer_apellido": "HURTADO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "073",
+    "primer_nombre": "EDUARDO",
+    "segundo_nombre": "PORTILLA",
+    "primer_apellido": "PLATA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "074",
+    "primer_nombre": "NEYS",
+    "segundo_nombre": "SANTANA",
+    "primer_apellido": "SARMIENTO",
+    "segundo_apellido": "JIMENEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "075",
+    "primer_nombre": "JESUS",
+    "segundo_nombre": "JENIS",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "076",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "WILSON",
+    "primer_apellido": "LIZARAZO",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "077",
+    "primer_nombre": "MARCO",
+    "segundo_nombre": "ALFREDO",
+    "primer_apellido": "FORERO",
+    "segundo_apellido": "PARRA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "078",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "DEL",
+    "primer_apellido": "PILAR",
+    "segundo_apellido": "PACHECO"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "079",
+    "primer_nombre": "LILIANA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "NOREÑA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "080",
+    "primer_nombre": "WILLIAM",
+    "segundo_nombre": "DAVID",
+    "primer_apellido": "MERCADO",
+    "segundo_apellido": "ECHENIQUE"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "081",
+    "primer_nombre": "JOHANNA",
+    "segundo_nombre": "CHRISTINE",
+    "primer_apellido": "PETERS",
+    "segundo_apellido": "RAUTE"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "082",
+    "primer_nombre": "JULIETH",
+    "segundo_nombre": "XIMENA",
+    "primer_apellido": "HURTADO",
+    "segundo_apellido": "PINILLA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "083",
+    "primer_nombre": "DERLY",
+    "segundo_nombre": "CATERINE",
+    "primer_apellido": "MARENTES",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "084",
+    "primer_nombre": "ALEXANDRA",
+    "segundo_nombre": "GOMEZ",
+    "primer_apellido": "VALEK",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "085",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "RAUL",
+    "primer_apellido": "BUSTAMANTE",
+    "segundo_apellido": "ROLDAN"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "086",
+    "primer_nombre": "MAURICIO",
+    "segundo_nombre": "NEISA",
+    "primer_apellido": "ALVARADO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "087",
+    "primer_nombre": "MARTHA",
+    "segundo_nombre": "CARDOZO",
+    "primer_apellido": "MEDINA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "088",
+    "primer_nombre": "MARLENE",
+    "segundo_nombre": "RESTREPO",
+    "primer_apellido": "CUERVO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "089",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "OREJARENA",
+    "segundo_apellido": "MORALES"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "090",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "GARCIA",
+    "primer_apellido": "FIGUEROA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "091",
+    "primer_nombre": "ARLEY",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "092",
+    "primer_nombre": "HUGO",
+    "segundo_nombre": "ALEJANDRO",
+    "primer_apellido": "VASQUEZ",
+    "segundo_apellido": "VARGAS"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "093",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "APARICIO",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "094",
+    "primer_nombre": "LAURA",
+    "segundo_nombre": "JOJHANNA",
+    "primer_apellido": "MUNEVAR",
+    "segundo_apellido": "CASTAÑEDA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "095",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "RODRIGUEZ",
+    "primer_apellido": "CARDENAS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "096",
+    "primer_nombre": "RODOLFO",
+    "segundo_nombre": "POILAO",
+    "primer_apellido": "POLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "097",
+    "primer_nombre": "DIONICIO",
+    "segundo_nombre": "CARRERO",
+    "primer_apellido": "CORREA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "098",
+    "primer_nombre": "ADA",
+    "segundo_nombre": "AMERICA",
+    "primer_apellido": "MILLARES",
+    "segundo_apellido": "ESCAMILLA"
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "099",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "FLOREZ",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0255",
+    "id_candidato": "100",
+    "primer_nombre": "INTI",
+    "segundo_nombre": "RAUL",
+    "primer_apellido": "ASPRILLA",
+    "segundo_apellido": "REYES"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "001",
+    "primer_nombre": "GILBERTO",
+    "segundo_nombre": "TOBON",
+    "primer_apellido": "SANIN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "002",
+    "primer_nombre": "LAURA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "GUERRERO",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "003",
+    "primer_nombre": "RAFAEL",
+    "segundo_nombre": "ALEJANDRO",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "004",
+    "primer_nombre": "TULIA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "DE",
+    "segundo_apellido": "LAS"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "005",
+    "primer_nombre": "HOLLMAN",
+    "segundo_nombre": "FELIPE",
+    "primer_apellido": "MORRIS",
+    "segundo_apellido": "RINCON"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "006",
+    "primer_nombre": "DALILA",
+    "segundo_nombre": "HERNANDEZ",
+    "primer_apellido": "PERICO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "007",
+    "primer_nombre": "RAFAEL",
+    "segundo_nombre": "MOTTA",
+    "primer_apellido": "MALDONADO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "008",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "DALILA",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "BAOS"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "009",
+    "primer_nombre": "EMIRO",
+    "segundo_nombre": "ARIAS",
+    "primer_apellido": "BUENO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "010",
+    "primer_nombre": "D'",
+    "segundo_nombre": "ANGELA",
+    "primer_apellido": "SHIRLEY",
+    "segundo_apellido": "MAESTRE"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "011",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "MIGUEL",
+    "primer_apellido": "GUEVARA",
+    "segundo_apellido": "FRAGOZO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "012",
+    "primer_nombre": "EDITH",
+    "segundo_nombre": "DAYANARA",
+    "primer_apellido": "SALAS",
+    "segundo_apellido": "MORELO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "014",
+    "primer_nombre": "PATRICIA",
+    "segundo_nombre": "LUCERO",
+    "primer_apellido": "GUZMAN",
+    "segundo_apellido": "DIAZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "015",
+    "primer_nombre": "WILBERTH",
+    "segundo_nombre": "RIVAS",
+    "primer_apellido": "HINESTROZA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "016",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "ROSA",
+    "primer_apellido": "PALOMINO",
+    "segundo_apellido": "ARBOLEDA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "017",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "RIVAS",
+    "segundo_apellido": "SEGURA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "018",
+    "primer_nombre": "DORA",
+    "segundo_nombre": "HERMINDA",
+    "primer_apellido": "DAMIAN",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "019",
+    "primer_nombre": "EDILSON",
+    "segundo_nombre": "HUERFANO",
+    "primer_apellido": "ORDOÑEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "020",
+    "primer_nombre": "EVELYN",
+    "segundo_nombre": "ALFONSO",
+    "primer_apellido": "BELLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "021",
+    "primer_nombre": "ERNESTO",
+    "segundo_nombre": "CAMILO",
+    "primer_apellido": "CUELLAR",
+    "segundo_apellido": "MELO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "022",
+    "primer_nombre": "ANGELA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "GALVEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "023",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "HERNAN",
+    "primer_apellido": "JEREZ",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "024",
+    "primer_nombre": "YOMAIRA",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "MONTENEGRO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "025",
+    "primer_nombre": "ORLANDO",
+    "segundo_nombre": "SALCEDO",
+    "primer_apellido": "MOYA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "027",
+    "primer_nombre": "EDERSON",
+    "segundo_nombre": "GARCIA",
+    "primer_apellido": "VILLAMIZAR",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "029",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "OSCAR",
+    "primer_apellido": "SALAZAR",
+    "segundo_apellido": "TABARES"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "030",
+    "primer_nombre": "VIRNA",
+    "segundo_nombre": "TERESA",
+    "primer_apellido": "FADUL",
+    "segundo_apellido": "YENIZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "031",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "NILSON",
+    "primer_apellido": "ARANA",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "032",
+    "primer_nombre": "DAYANA",
+    "segundo_nombre": "VANESSA",
+    "primer_apellido": "MEDINA",
+    "segundo_apellido": "ROMAÑA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "033",
+    "primer_nombre": "MARTIN",
+    "segundo_nombre": "ALONSO",
+    "primer_apellido": "CAICEDO",
+    "segundo_apellido": "CARABALI"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "035",
+    "primer_nombre": "FRANCISCO",
+    "segundo_nombre": "ROJAS",
+    "primer_apellido": "LEYVA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "036",
+    "primer_nombre": "GLORIA",
+    "segundo_nombre": "INES",
+    "primer_apellido": "FORERO",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "037",
+    "primer_nombre": "GABRIEL",
+    "segundo_nombre": "TARAZONA",
+    "primer_apellido": "JIMENEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "038",
+    "primer_nombre": "XIMENA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "RENGIFO",
+    "segundo_apellido": "QUINTERO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "040",
+    "primer_nombre": "CAROLINA",
+    "segundo_nombre": "MANCHOLA",
+    "primer_apellido": "GARZON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "041",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "CLAVIJO",
+    "segundo_apellido": "LUNA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "042",
+    "primer_nombre": "RAQUEL",
+    "segundo_nombre": "LIZARAZO",
+    "primer_apellido": "QUIROGA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "043",
+    "primer_nombre": "WILLIAM",
+    "segundo_nombre": "CARDONA",
+    "primer_apellido": "VELEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "044",
+    "primer_nombre": "LAURA",
+    "segundo_nombre": "JULIETH",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "MORALES"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "045",
+    "primer_nombre": "ISMAEL",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "MOLINA",
+    "segundo_apellido": "GIRALDO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "046",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "VICTORIA",
+    "primer_apellido": "TRUJILLO",
+    "segundo_apellido": "ARIAS"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "047",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "GALEANO",
+    "segundo_apellido": "HERRERA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "048",
+    "primer_nombre": "LILIBETH",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "TETE",
+    "segundo_apellido": "GUTIERREZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "050",
+    "primer_nombre": "MILENA",
+    "segundo_nombre": "SERRANO",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "051",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "LANCHEROS",
+    "segundo_apellido": "DELGADILLO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "052",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": "ROMERO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "053",
+    "primer_nombre": "REINALDO",
+    "segundo_nombre": "FRANCISCO",
+    "primer_apellido": "CORTES",
+    "segundo_apellido": "BETANCOURT"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "054",
+    "primer_nombre": "VIVIANA",
+    "segundo_nombre": "HIGUERA",
+    "primer_apellido": "AMAYA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "055",
+    "primer_nombre": "ADOLFO",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "ORDOÑEZ",
+    "segundo_apellido": "CHADID"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "056",
+    "primer_nombre": "SAUDITH",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "ZURITA",
+    "segundo_apellido": "BALTAZAR"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "057",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "YALANDA",
+    "segundo_apellido": "HURTADO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "058",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "CAROLINA",
+    "primer_apellido": "SALAS",
+    "segundo_apellido": "FRAGOSO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "059",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "AUGUSTO",
+    "primer_apellido": "GAVIRIA",
+    "segundo_apellido": "BURGOS"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "060",
+    "primer_nombre": "KEILA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": "ARAUJO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "061",
+    "primer_nombre": "WILSON",
+    "segundo_nombre": "ALZATE",
+    "primer_apellido": "PIEDRAHITA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "062",
+    "primer_nombre": "MARLYS",
+    "segundo_nombre": "JOSETH",
+    "primer_apellido": "FIGUEROA",
+    "segundo_apellido": "VASQUEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "063",
+    "primer_nombre": "ADALBERTO",
+    "segundo_nombre": "BALLESTEROS",
+    "primer_apellido": "GUAPE",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "064",
+    "primer_nombre": "ADA",
+    "segundo_nombre": "ISABEL",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "066",
+    "primer_nombre": "KAREN",
+    "segundo_nombre": "MARGARITA",
+    "primer_apellido": "ALTAMAR",
+    "segundo_apellido": "ROJAS"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "067",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "BAUTISTA",
+    "segundo_apellido": "CRUZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "069",
+    "primer_nombre": "PEDRO",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "DURAN"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "071",
+    "primer_nombre": "ABSALON",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "ARIAS"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "072",
+    "primer_nombre": "HUBER",
+    "segundo_nombre": "NELSON",
+    "primer_apellido": "GUISAO",
+    "segundo_apellido": "GUISAO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "073",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "RUBEN",
+    "primer_apellido": "FIQUITIVA",
+    "segundo_apellido": "BALCERO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "076",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "HUMBERTO",
+    "primer_apellido": "RUIZ",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "077",
+    "primer_nombre": "WILMAN",
+    "segundo_nombre": "HERRERA",
+    "primer_apellido": "IMITOLA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "078",
+    "primer_nombre": "JESUS",
+    "segundo_nombre": "AYALA",
+    "primer_apellido": "AVILA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "079",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "CHACON",
+    "segundo_apellido": "NORIEGA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "080",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "JULIO",
+    "primer_apellido": "RINCON",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "081",
+    "primer_nombre": "MARCELINO",
+    "segundo_nombre": "CARDENAS",
+    "primer_apellido": "VANEGAS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "082",
+    "primer_nombre": "MARLON",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "CANTILLO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "083",
+    "primer_nombre": "FRANCISCO",
+    "segundo_nombre": "JAVIER",
+    "primer_apellido": "PANTOJA",
+    "segundo_apellido": "PANTOJA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "084",
+    "primer_nombre": "ABELARDO",
+    "segundo_nombre": "SANCLEMENTE",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "085",
+    "primer_nombre": "MANUEL",
+    "segundo_nombre": "GARCIA",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "086",
+    "primer_nombre": "FREDY",
+    "segundo_nombre": "DUARTE",
+    "primer_apellido": "GUAYANEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "087",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "EMILIO",
+    "primer_apellido": "GALVAN",
+    "segundo_apellido": "MORELO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "088",
+    "primer_nombre": "FREDY",
+    "segundo_nombre": "PRIETO",
+    "primer_apellido": "BANGUERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "089",
+    "primer_nombre": "WILSON",
+    "segundo_nombre": "BEJARANO",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "090",
+    "primer_nombre": "GEANCARLO",
+    "segundo_nombre": "GRAVIER",
+    "primer_apellido": "SANTANA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "091",
+    "primer_nombre": "RAUL",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "VELASCO"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "092",
+    "primer_nombre": "GUILLERMO",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "BARON",
+    "segundo_apellido": "BARRERA"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "099",
+    "primer_nombre": "DIEGO",
+    "segundo_nombre": "HERNAN",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "LIZARRALDE"
+  },
+  {
+    "id_partido": "1140",
+    "id_candidato": "100",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "DAVID",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": "CHAMORRO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "001",
+    "primer_nombre": "DAVID",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "LUNA",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "002",
+    "primer_nombre": "YEFER",
+    "segundo_nombre": "YESID",
+    "primer_apellido": "VEGA",
+    "segundo_apellido": "BOBADILLA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "003",
+    "primer_nombre": "ARTURO",
+    "segundo_nombre": "CHAR",
+    "primer_apellido": "CHALJUB",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "004",
+    "primer_nombre": "DAIRA",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "GALVIS"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "005",
+    "primer_nombre": "ANTONIO",
+    "segundo_nombre": "LUIS",
+    "primer_apellido": "ZABARAIN",
+    "segundo_apellido": "GUEVARA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "006",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "AUGUSTO",
+    "primer_apellido": "LORDUY",
+    "segundo_apellido": "MALDONADO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "007",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ABRAHAM",
+    "primer_apellido": "JIMENEZ",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "008",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "LUIS",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": "OYUELA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "009",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "MARIO",
+    "primer_apellido": "FARELO",
+    "segundo_apellido": "DAZA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "010",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "MOTOA",
+    "segundo_apellido": "SOLARTE"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "011",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "CASTAÑEDA",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "012",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "BENEDETTI",
+    "segundo_apellido": "MARTELO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "013",
+    "primer_nombre": "EDGAR",
+    "segundo_nombre": "JESUS",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": "CONTRERAS"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "014",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "VICTORIA",
+    "primer_apellido": "CARRASQUILLA",
+    "segundo_apellido": "MINAMI"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "015",
+    "primer_nombre": "ARIS",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "TORRES",
+    "segundo_apellido": "DIAZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "016",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "LUIS",
+    "primer_apellido": "MIRANDA",
+    "segundo_apellido": "CERVANTES"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "017",
+    "primer_nombre": "ERIKA",
+    "segundo_nombre": "LIZETH",
+    "primer_apellido": "ESPITIA",
+    "segundo_apellido": "REALPE"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "018",
+    "primer_nombre": "DIDIER",
+    "segundo_nombre": "LOBO",
+    "primer_apellido": "CHINCHILLA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "019",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "MONTOYA",
+    "primer_apellido": "DELGADO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "020",
+    "primer_nombre": "BEATRIZ",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "RIAÑO",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "021",
+    "primer_nombre": "TEMISTOCLES",
+    "segundo_nombre": "ORTEGA",
+    "primer_apellido": "NARVAEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "022",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "CECILIA",
+    "primer_apellido": "AGUIRRE",
+    "segundo_apellido": "BUITRAGO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "023",
+    "primer_nombre": "MILTON",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "CUERVO",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "024",
+    "primer_nombre": "ISRAEL",
+    "segundo_nombre": "LONDOÑO",
+    "primer_apellido": "LONDOÑO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "026",
+    "primer_nombre": "LILIANA",
+    "segundo_nombre": "ORDOÑEZ",
+    "primer_apellido": "PEÑARANDA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "027",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "VARON",
+    "primer_apellido": "RESTREPO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "028",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "VELASQUEZ",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "029",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "LEOMAR",
+    "primer_apellido": "CORTES",
+    "segundo_apellido": "DELGADO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "030",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "QUIÑONES",
+    "segundo_apellido": "AMAYA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "031",
+    "primer_nombre": "EDGAR",
+    "segundo_nombre": "PANTALION",
+    "primer_apellido": "GUTIERREZ",
+    "segundo_apellido": "DAZA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "032",
+    "primer_nombre": "BOLIVAR",
+    "segundo_nombre": "ENELDO",
+    "primer_apellido": "ALVAREZ",
+    "segundo_apellido": "FERNANDEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "034",
+    "primer_nombre": "JUSLY",
+    "segundo_nombre": "MASSIEL",
+    "primer_apellido": "OSPINO",
+    "segundo_apellido": "MENDOZA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "035",
+    "primer_nombre": "GLADIS",
+    "segundo_nombre": "ARIAS",
+    "primer_apellido": "JIMENEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "036",
+    "primer_nombre": "AMANDA",
+    "segundo_nombre": "ROCIO",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "037",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "MILENA",
+    "primer_apellido": "TELLEZ",
+    "segundo_apellido": "CAMARGO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "038",
+    "primer_nombre": "BLANCA",
+    "segundo_nombre": "NUBIA",
+    "primer_apellido": "TAFUR",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "039",
+    "primer_nombre": "HILDA",
+    "segundo_nombre": "ROCIO",
+    "primer_apellido": "GIRALDO",
+    "segundo_apellido": "CARDONA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "040",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "EDWIN",
+    "primer_apellido": "FUENTES",
+    "segundo_apellido": "CORREA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "041",
+    "primer_nombre": "ERICA",
+    "segundo_nombre": "JUDITH",
+    "primer_apellido": "PADILLA",
+    "segundo_apellido": "HOYOS"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "042",
+    "primer_nombre": "YUCELY",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "JIMENEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "043",
+    "primer_nombre": "HEIDI",
+    "segundo_nombre": "LINETH",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "044",
+    "primer_nombre": "MARTHA",
+    "segundo_nombre": "RUTH",
+    "primer_apellido": "RIVEROS",
+    "segundo_apellido": "MONJE"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "045",
+    "primer_nombre": "EDWIN",
+    "segundo_nombre": "NEUSA",
+    "primer_apellido": "FORERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "046",
+    "primer_nombre": "MONICA",
+    "segundo_nombre": "MUÑOZ",
+    "primer_apellido": "VELASCO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "047",
+    "primer_nombre": "FREDY",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "LORDUY",
+    "segundo_apellido": "ARELLANO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "048",
+    "primer_nombre": "ELKIN",
+    "segundo_nombre": "JAVIER",
+    "primer_apellido": "LEON",
+    "segundo_apellido": "OLAYA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "049",
+    "primer_nombre": "WILLIAM",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "HENAO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "050",
+    "primer_nombre": "LAURA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": "MORA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "051",
+    "primer_nombre": "ROMAN",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "OSORIO",
+    "segundo_apellido": "CARDONA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "052",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "IBARRA",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "053",
+    "primer_nombre": "RENER",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "MIRANDA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "054",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "RAMIREZ",
+    "primer_apellido": "OROZCO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "055",
+    "primer_nombre": "FABIAN",
+    "segundo_nombre": "GERARDO",
+    "primer_apellido": "CASTILLO",
+    "segundo_apellido": "SUAREZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "056",
+    "primer_nombre": "DANIEL",
+    "segundo_nombre": "JOSUE",
+    "primer_apellido": "SALAZAR",
+    "segundo_apellido": "SANTANA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "057",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "EMILIO",
+    "primer_apellido": "FONSECA",
+    "segundo_apellido": "SANTIAGO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "058",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "MELENDEZ",
+    "segundo_apellido": "AGUIRRE"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "059",
+    "primer_nombre": "ERIKA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "BERNAL",
+    "segundo_apellido": "CASTRO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "060",
+    "primer_nombre": "SAMARA",
+    "segundo_nombre": "ZABALA",
+    "primer_apellido": "RICO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "061",
+    "primer_nombre": "SONIA",
+    "segundo_nombre": "ZULEIMA",
+    "primer_apellido": "BONILLA",
+    "segundo_apellido": "BONILLA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "062",
+    "primer_nombre": "JAIRO",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "ORTEGON",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "063",
+    "primer_nombre": "GLORIA",
+    "segundo_nombre": "ESPERANZA",
+    "primer_apellido": "LEITON",
+    "segundo_apellido": "SALCEDO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "064",
+    "primer_nombre": "REINALDO",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "SIERRA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "066",
+    "primer_nombre": "LEONOR",
+    "segundo_nombre": "SAA",
+    "primer_apellido": "PARRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "068",
+    "primer_nombre": "FERNANDO",
+    "segundo_nombre": "PALACIOS",
+    "primer_apellido": "VEGA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "069",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "MARIO",
+    "primer_apellido": "NARANJO",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "070",
+    "primer_nombre": "AURA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "REYES",
+    "segundo_apellido": "ENCISO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "071",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "CLEMENCIA",
+    "primer_apellido": "ARIAS",
+    "segundo_apellido": "CORTES"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "072",
+    "primer_nombre": "CARMEN",
+    "segundo_nombre": "HERNANDEZ",
+    "primer_apellido": "MENDIVELSO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "073",
+    "primer_nombre": "GLORIA",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "CASTRO",
+    "segundo_apellido": "PEÑA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "074",
+    "primer_nombre": "MANUEL",
+    "segundo_nombre": "ARTURO",
+    "primer_apellido": "AVILA",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "075",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "HERNANDO",
+    "primer_apellido": "MARIN",
+    "segundo_apellido": "REYES"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "076",
+    "primer_nombre": "JAMES",
+    "segundo_nombre": "RICHARD",
+    "primer_apellido": "WIEDMAN",
+    "segundo_apellido": "AMAYA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "077",
+    "primer_nombre": "FLOR",
+    "segundo_nombre": "MIREYA",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": "RICO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "078",
+    "primer_nombre": "ONOFRE",
+    "segundo_nombre": "JIMENEZ",
+    "primer_apellido": "FLOREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "079",
+    "primer_nombre": "JOHAN",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "CAÑON",
+    "segundo_apellido": "PALENCIA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "080",
+    "primer_nombre": "VIVIANA",
+    "segundo_nombre": "PAOLA",
+    "primer_apellido": "CASTILLO",
+    "segundo_apellido": "MORENO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "081",
+    "primer_nombre": "LORENZO",
+    "segundo_nombre": "ARBOLEDA",
+    "primer_apellido": "LONDOÑO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "082",
+    "primer_nombre": "NILSA",
+    "segundo_nombre": "NARDEY",
+    "primer_apellido": "BENITES",
+    "segundo_apellido": "CAÑON"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "083",
+    "primer_nombre": "IRMA",
+    "segundo_nombre": "IDALY",
+    "primer_apellido": "CABEZAS",
+    "segundo_apellido": "VARON"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "084",
+    "primer_nombre": "WILLIAN",
+    "segundo_nombre": "CORDOBA",
+    "primer_apellido": "TOLEDO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "085",
+    "primer_nombre": "LILIANA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "BALLESTEROS",
+    "segundo_apellido": "OCAMPO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "086",
+    "primer_nombre": "NATALIA",
+    "segundo_nombre": "ISABEL",
+    "primer_apellido": "RINCON",
+    "segundo_apellido": "GALVAN"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "087",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ERNESTO",
+    "primer_apellido": "TOVAR",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "088",
+    "primer_nombre": "ROSA",
+    "segundo_nombre": "TULIA",
+    "primer_apellido": "CAÑON",
+    "segundo_apellido": "LEIVA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "089",
+    "primer_nombre": "ADRIANA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "VELEZ",
+    "segundo_apellido": "DUQUE"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "090",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "ALONSO",
+    "primer_apellido": "COLMENARES",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "091",
+    "primer_nombre": "GERMAN",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "BOJACA",
+    "segundo_apellido": "GARAVITO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "093",
+    "primer_nombre": "NELLY",
+    "segundo_nombre": "ARGELIA",
+    "primer_apellido": "PINZON",
+    "segundo_apellido": "BARRETO"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "094",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "CONSUELO",
+    "primer_apellido": "TOVAR",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "095",
+    "primer_nombre": "JEINMY",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "TENJO",
+    "segundo_apellido": "LUENGAS"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "096",
+    "primer_nombre": "GEORGINA",
+    "segundo_nombre": "RIVERA",
+    "primer_apellido": "TORRES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "097",
+    "primer_nombre": "NUBIA",
+    "segundo_nombre": "CLEMENCIA",
+    "primer_apellido": "ARIAS",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "098",
+    "primer_nombre": "LUZ",
+    "segundo_nombre": "HELENA",
+    "primer_apellido": "PARRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "099",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "JULIO",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": "VILLA"
+  },
+  {
+    "id_partido": "0003",
+    "id_candidato": "100",
+    "primer_nombre": "CAMILO",
+    "segundo_nombre": "TRUJILLO",
+    "primer_apellido": "SAAVEDRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "001",
+    "primer_nombre": "CAROLINA",
+    "segundo_nombre": "MCCORMICK",
+    "primer_apellido": "SANDOVAL",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "002",
+    "primer_nombre": "WILDER",
+    "segundo_nombre": "RENE",
+    "primer_apellido": "CASTIBLANCO",
+    "segundo_apellido": "MANDON"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "003",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "MEZA",
+    "segundo_apellido": "VALENCIA"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "004",
+    "primer_nombre": "ROBERTO",
+    "segundo_nombre": "DIAZ",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "005",
+    "primer_nombre": "BEATRIZ",
+    "segundo_nombre": "ALICIA",
+    "primer_apellido": "GIL",
+    "segundo_apellido": "CORREA"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "006",
+    "primer_nombre": "PEDRO",
+    "segundo_nombre": "DIXON",
+    "primer_apellido": "CAHUACHE",
+    "segundo_apellido": "RIVERA"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "007",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "ROJANO",
+    "segundo_apellido": "AMADOR"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "008",
+    "primer_nombre": "GINNA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "QUIROZ",
+    "segundo_apellido": "AGUAS"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "009",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "CONSUELO",
+    "primer_apellido": "CAÑON",
+    "segundo_apellido": "VELASQUEZ"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "010",
+    "primer_nombre": "JHON",
+    "segundo_nombre": "FREDY",
+    "primer_apellido": "CORREA",
+    "segundo_apellido": "BUITRAGO"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "011",
+    "primer_nombre": "JAVIER",
+    "segundo_nombre": "ALONSO",
+    "primer_apellido": "CASTRO",
+    "segundo_apellido": "SOLIS"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "012",
+    "primer_nombre": "MATIAS",
+    "segundo_nombre": "RODOLFO",
+    "primer_apellido": "ROBAYO",
+    "segundo_apellido": "MARQUEZ"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "013",
+    "primer_nombre": "ILDA",
+    "segundo_nombre": "ESPERANZA",
+    "primer_apellido": "JAIMES",
+    "segundo_apellido": "PABON"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "014",
+    "primer_nombre": "TERESA",
+    "segundo_nombre": "BAUTISTA",
+    "primer_apellido": "DUQUE",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "015",
+    "primer_nombre": "GUILLERMO",
+    "segundo_nombre": "ALZATE",
+    "primer_apellido": "PARRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "016",
+    "primer_nombre": "JAVIER",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "GUERRERO",
+    "segundo_apellido": "MOSQUERA"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "017",
+    "primer_nombre": "LEONARDO",
+    "segundo_nombre": "DARIO",
+    "primer_apellido": "RAMIREZ",
+    "segundo_apellido": "DAVID"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "018",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "BRAY",
+    "segundo_apellido": "TOVAR"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "019",
+    "primer_nombre": "NORIDA",
+    "segundo_nombre": "ESPERANZA",
+    "primer_apellido": "JACOME",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "020",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "JUNIOR",
+    "primer_apellido": "CASTAÑEDA",
+    "segundo_apellido": "AREVALO"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "021",
+    "primer_nombre": "WILMER",
+    "segundo_nombre": "GERMAN",
+    "primer_apellido": "NARVAEZ",
+    "segundo_apellido": "DURAN"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "022",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "RENE",
+    "primer_apellido": "MORA",
+    "segundo_apellido": "ROCHA"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "028",
+    "primer_nombre": "DEISSY",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "ESTRADA"
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "029",
+    "primer_nombre": "FELICIA",
+    "segundo_nombre": "BLANCO",
+    "primer_apellido": "CANTILLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1073",
+    "id_candidato": "036",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "AUGUSTO",
+    "primer_apellido": "CADENA",
+    "segundo_apellido": "SOLANO"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "001",
+    "primer_nombre": "MABEL",
+    "segundo_nombre": "LORENA",
+    "primer_apellido": "LARA",
+    "segundo_apellido": "DINAS"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "002",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ALFONSO",
+    "primer_apellido": "NEGRET",
+    "segundo_apellido": "MOSQUERA"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "003",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "BORDA",
+    "segundo_apellido": "GUZMAN"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "004",
+    "primer_nombre": "GUILLERMO",
+    "segundo_nombre": "PEREZ",
+    "primer_apellido": "FLOREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "005",
+    "primer_nombre": "YOLANDA",
+    "segundo_nombre": "PEREA",
+    "primer_apellido": "MOSQUERA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "006",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "GALAN",
+    "segundo_apellido": "PACHON"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "007",
+    "primer_nombre": "VIVIANA",
+    "segundo_nombre": "CAROLINA",
+    "primer_apellido": "VARGAS",
+    "segundo_apellido": "VIVES"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "008",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "DAVID",
+    "primer_apellido": "CASTELLANOS",
+    "segundo_apellido": "ORJUELA"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "009",
+    "primer_nombre": "YERLY",
+    "segundo_nombre": "DEL",
+    "primer_apellido": "PILAR",
+    "segundo_apellido": "MOZO"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "010",
+    "primer_nombre": "HUGO",
+    "segundo_nombre": "ORLANDO",
+    "primer_apellido": "VELASQUEZ",
+    "segundo_apellido": "JARAMILLO"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "011",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "GECHEM",
+    "segundo_apellido": "SARMIENTO"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "012",
+    "primer_nombre": "ANGELICA",
+    "segundo_nombre": "ROCIO",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "013",
+    "primer_nombre": "BERNARDO",
+    "segundo_nombre": "LEON",
+    "primer_apellido": "ORDOÑEZ",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "014",
+    "primer_nombre": "OMAR",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "HOYOS"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "015",
+    "primer_nombre": "JENNIFER",
+    "segundo_nombre": "CAÑAVERAL",
+    "primer_apellido": "GUZMAN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "016",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "NICOLAS",
+    "primer_apellido": "PINZON",
+    "segundo_apellido": "GUEVARA"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "017",
+    "primer_nombre": "ALBERTO",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "LIZCANO",
+    "segundo_apellido": "OROZCO"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "018",
+    "primer_nombre": "NASLY",
+    "segundo_nombre": "YUCELY",
+    "primer_apellido": "QUINTERO",
+    "segundo_apellido": "PERDOMO"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "019",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ANIBAL",
+    "primer_apellido": "LOZANO",
+    "segundo_apellido": "LOZANO"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "020",
+    "primer_nombre": "EDGAR",
+    "segundo_nombre": "PABON",
+    "primer_apellido": "CARVAJAL",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "021",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "LUCIA",
+    "primer_apellido": "MORA",
+    "segundo_apellido": "RINCON"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "022",
+    "primer_nombre": "FABIO",
+    "segundo_nombre": "PERDOMO",
+    "primer_apellido": "ALMEIDA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "023",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ARTURO",
+    "primer_apellido": "MONTENEGRO",
+    "segundo_apellido": "MORA"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "024",
+    "primer_nombre": "HORACIO",
+    "segundo_nombre": "RODRIGUEZ",
+    "primer_apellido": "ALVAREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "025",
+    "primer_nombre": "JESUS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "MORA",
+    "segundo_apellido": "PINZA"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "026",
+    "primer_nombre": "LINDA",
+    "segundo_nombre": "MARITZA",
+    "primer_apellido": "FARFAN",
+    "segundo_apellido": "ORTEGA"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "027",
+    "primer_nombre": "ERNESTO",
+    "segundo_nombre": "MACIAS",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "028",
+    "primer_nombre": "NANCY",
+    "segundo_nombre": "SOFIA",
+    "primer_apellido": "PACHECO",
+    "segundo_apellido": "MEZA"
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "029",
+    "primer_nombre": "FABIOLA",
+    "segundo_nombre": "CASTILLO",
+    "primer_apellido": "REINA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0019",
+    "id_candidato": "030",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "CUBILLOS",
+    "primer_apellido": "GUTIERREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "001",
+    "primer_nombre": "ELIZABETH",
+    "segundo_nombre": "GIRALDO",
+    "primer_apellido": "GIRALDO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "002",
+    "primer_nombre": "LIZA",
+    "segundo_nombre": "YOMARA",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "REYES"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "003",
+    "primer_nombre": "JESSICA",
+    "segundo_nombre": "VIVIANA",
+    "primer_apellido": "OBANDO",
+    "segundo_apellido": "CORREAL"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "004",
+    "primer_nombre": "JESSICA",
+    "segundo_nombre": "SAMANTHA",
+    "primer_apellido": "PEREIRA",
+    "segundo_apellido": "HOOKER"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "005",
+    "primer_nombre": "MAGANY",
+    "segundo_nombre": "DEL",
+    "primer_apellido": "CARMEN",
+    "segundo_apellido": "BELALCAZAR"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "006",
+    "primer_nombre": "LORENA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "BAUTISTA",
+    "segundo_apellido": "RIQUETT"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "007",
+    "primer_nombre": "LADY",
+    "segundo_nombre": "LORENA",
+    "primer_apellido": "ROBAYO",
+    "segundo_apellido": "CARDENAS"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "008",
+    "primer_nombre": "JURY",
+    "segundo_nombre": "CONSUELO",
+    "primer_apellido": "ESPITIA",
+    "segundo_apellido": "ALARCON"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "009",
+    "primer_nombre": "MAYRA",
+    "segundo_nombre": "INGRID",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "CASTAÑEDA"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "010",
+    "primer_nombre": "ROCIO",
+    "segundo_nombre": "NIETO",
+    "primer_apellido": "ALARCON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "011",
+    "primer_nombre": "CINDY",
+    "segundo_nombre": "CAROLINA",
+    "primer_apellido": "NAVARRO",
+    "segundo_apellido": "ARZUZA"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "012",
+    "primer_nombre": "MEDARDO",
+    "segundo_nombre": "ALONSO",
+    "primer_apellido": "PATIÑO",
+    "segundo_apellido": "PATIÑO"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "013",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "DAVID",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "014",
+    "primer_nombre": "GABRIEL",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "MEJIA",
+    "segundo_apellido": "OROZCO"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "015",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "JACOBO",
+    "primer_apellido": "AGUDELO",
+    "segundo_apellido": "GALEANO"
+  },
+  {
+    "id_partido": "1130",
+    "id_candidato": "016",
+    "primer_nombre": "ANDRES",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "MARIN",
+    "segundo_apellido": "CORREA"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "001",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "ALEJANDRO",
+    "primer_apellido": "GUZMAN",
+    "segundo_apellido": "LOZANO"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "002",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "GIL",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "003",
+    "primer_nombre": "ROBERTO",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "SUAREZ"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "004",
+    "primer_nombre": "DORA",
+    "segundo_nombre": "CECILIA",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": "OROZCO"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "009",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "ELODIA",
+    "primer_apellido": "VIRGUEZ",
+    "segundo_apellido": "LIEVANO"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "011",
+    "primer_nombre": "MARIO",
+    "segundo_nombre": "AREVALO",
+    "primer_apellido": "ALVAREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "012",
+    "primer_nombre": "DIEGO",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "PINILLA",
+    "segundo_apellido": "MORA"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "014",
+    "primer_nombre": "YINA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "RIVERA",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "015",
+    "primer_nombre": "HELEN",
+    "segundo_nombre": "GIZZELLE",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "HERRERA"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "017",
+    "primer_nombre": "LILIAN",
+    "segundo_nombre": "YANET",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "1039",
+    "id_candidato": "020",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "EUGENIA",
+    "primer_apellido": "ARROYAVE",
+    "segundo_apellido": "ESPINAL"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "001",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "PAOLA",
+    "primer_apellido": "AGUDELO",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "002",
+    "primer_nombre": "EDUARDO",
+    "segundo_nombre": "EMILIO",
+    "primer_apellido": "PACHECO",
+    "segundo_apellido": "CUELLO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "003",
+    "primer_nombre": "MANUEL",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "VIRGUEZ",
+    "segundo_apellido": "PIRAQUIVE"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "004",
+    "primer_nombre": "BEATRIZ",
+    "segundo_nombre": "LORENA",
+    "primer_apellido": "RIOS",
+    "segundo_apellido": "CUELLAR"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "005",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "GUEVARA",
+    "segundo_apellido": "VILLABON"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "006",
+    "primer_nombre": "RICARDO",
+    "segundo_nombre": "MOLINA",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "007",
+    "primer_nombre": "LESLY",
+    "segundo_nombre": "NATALIA",
+    "primer_apellido": "TOVAR",
+    "segundo_apellido": "FARFAN"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "008",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "ARIAS",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "009",
+    "primer_nombre": "GABRIEL",
+    "segundo_nombre": "ALEXANDER",
+    "primer_apellido": "BELTRAN",
+    "segundo_apellido": "LEGUIZAMON"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "010",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "ACOSTA",
+    "segundo_apellido": "LOZANO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "011",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "TRUJILLO",
+    "segundo_apellido": "SARMIENTO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "012",
+    "primer_nombre": "DAVID",
+    "segundo_nombre": "RICARDO",
+    "primer_apellido": "REYES",
+    "segundo_apellido": "CASTRO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "013",
+    "primer_nombre": "SAMUEL",
+    "segundo_nombre": "DIAZ",
+    "primer_apellido": "ESCANDON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "014",
+    "primer_nombre": "ANIBAL",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "ARANGO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "015",
+    "primer_nombre": "ALEJANDRO",
+    "segundo_nombre": "OSPINA",
+    "primer_apellido": "ANGARITA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "017",
+    "primer_nombre": "GIUSEPPE",
+    "segundo_nombre": "A",
+    "primer_apellido": "NNUNZIATO",
+    "segundo_apellido": "CREAZZO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "018",
+    "primer_nombre": "BRAYAN",
+    "segundo_nombre": "GENARO",
+    "primer_apellido": "MOSQUERA",
+    "segundo_apellido": "SALAS"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "019",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "EVELIO",
+    "primer_apellido": "PALOMINO",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "020",
+    "primer_nombre": "OLGUIN",
+    "segundo_nombre": "MAYORGA",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "021",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "MARIN",
+    "segundo_apellido": "RIOS"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "022",
+    "primer_nombre": "GILBERTO",
+    "segundo_nombre": "FORERO",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "023",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ARTURO",
+    "primer_apellido": "CHALARCA",
+    "segundo_apellido": "PALOMINO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "024",
+    "primer_nombre": "CLARIZA",
+    "segundo_nombre": "CHAVARRO",
+    "primer_apellido": "RIVERA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "025",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "026",
+    "primer_nombre": "EVERLIDES",
+    "segundo_nombre": "PALOMINO",
+    "primer_apellido": "ALVAREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "027",
+    "primer_nombre": "HILBER",
+    "segundo_nombre": "OSWALDO",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "DELGADO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "029",
+    "primer_nombre": "EDUARD",
+    "segundo_nombre": "BUITRAGO",
+    "primer_apellido": "ACERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "030",
+    "primer_nombre": "GUILLERMO",
+    "segundo_nombre": "ABRIL",
+    "primer_apellido": "ABRIL",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "031",
+    "primer_nombre": "ALVARO",
+    "segundo_nombre": "CAMILO",
+    "primer_apellido": "FLORIDO",
+    "segundo_apellido": "PERDOMO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "033",
+    "primer_nombre": "DORA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "TOBAR"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "035",
+    "primer_nombre": "MANUEL",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "HENRIQUEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "036",
+    "primer_nombre": "TATIANA",
+    "segundo_nombre": "BELISA",
+    "primer_apellido": "SERNA",
+    "segundo_apellido": "BALANTA"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "037",
+    "primer_nombre": "MAURICIO",
+    "segundo_nombre": "BEJARANO",
+    "primer_apellido": "ARANGO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "038",
+    "primer_nombre": "YERIS",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "OLIVELLA",
+    "segundo_apellido": "PLATA"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "039",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "FORERO",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "040",
+    "primer_nombre": "GERMAN",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "MUÑOZ",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "041",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "CASTAÑEDA"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "043",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "ACUÑA",
+    "segundo_apellido": "COLPAS"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "045",
+    "primer_nombre": "CRISTOBAL",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "CASTAÑO",
+    "segundo_apellido": "ACOSTA"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "047",
+    "primer_nombre": "JULIO",
+    "segundo_nombre": "CESAR",
+    "primer_apellido": "CORTES",
+    "segundo_apellido": "ARENAS"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "049",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "DONATO",
+    "segundo_apellido": "SOGAMOSO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "050",
+    "primer_nombre": "SERGIO",
+    "segundo_nombre": "RAMON",
+    "primer_apellido": "MEDINA",
+    "segundo_apellido": "JAIMES"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "051",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "GREGORIO",
+    "primer_apellido": "SOTELO",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "053",
+    "primer_nombre": "RAFAEL",
+    "segundo_nombre": "RODRIGUEZ",
+    "primer_apellido": "PATARROYO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "055",
+    "primer_nombre": "RAFAEL",
+    "segundo_nombre": "TORRES",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "057",
+    "primer_nombre": "DANIEL",
+    "segundo_nombre": "BALLEN",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "059",
+    "primer_nombre": "HUMBERTO",
+    "segundo_nombre": "SUAREZ",
+    "primer_apellido": "MOTTA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "061",
+    "primer_nombre": "ROBERSON",
+    "segundo_nombre": "OSTIA",
+    "primer_apellido": "SERNA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "063",
+    "primer_nombre": "CELIA",
+    "segundo_nombre": "ALDANA",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "065",
+    "primer_nombre": "JOHANNA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "PUENTES",
+    "segundo_apellido": "LOAIZA"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "067",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "ALEXANDRA",
+    "primer_apellido": "CUEVAS",
+    "segundo_apellido": "NARANJO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "069",
+    "primer_nombre": "ALEXI",
+    "segundo_nombre": "LOPEZ",
+    "primer_apellido": "BROCHERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "070",
+    "primer_nombre": "DIDIER",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "CARRILLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "071",
+    "primer_nombre": "FANERY",
+    "segundo_nombre": "ASTRID",
+    "primer_apellido": "BARRIOS",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "073",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "CRISTINA",
+    "primer_apellido": "CUERVO",
+    "segundo_apellido": "FLOREZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "075",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "DUVA",
+    "segundo_apellido": "SILVESTRE"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "077",
+    "primer_nombre": "PAOLA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": "VARGAS"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "079",
+    "primer_nombre": "SOLEDAD",
+    "segundo_nombre": "GONZALEZ",
+    "primer_apellido": "STYLES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "081",
+    "primer_nombre": "ANGELICA",
+    "segundo_nombre": "ASTIASUAINZARRA",
+    "primer_apellido": "GAITAN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "083",
+    "primer_nombre": "VIVIANA",
+    "segundo_nombre": "MARITZA",
+    "primer_apellido": "NIÑO",
+    "segundo_apellido": "MOLANO"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "090",
+    "primer_nombre": "SERGIO",
+    "segundo_nombre": "GIOVANNY",
+    "primer_apellido": "ALZATE",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0231",
+    "id_candidato": "100",
+    "primer_nombre": "JONN",
+    "segundo_nombre": "HERMAN",
+    "primer_apellido": "QUINTERO",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "001",
+    "primer_nombre": "LIDIO",
+    "segundo_nombre": "ARTURO",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "TURBAY"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "002",
+    "primer_nombre": "FABIO",
+    "segundo_nombre": "RAUL",
+    "primer_apellido": "AMIN",
+    "segundo_apellido": "SALEME"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "003",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "ANGEL",
+    "primer_apellido": "PINTO",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "004",
+    "primer_nombre": "ALEJANDRO",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "CHACON",
+    "segundo_apellido": "CAMARGO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "005",
+    "primer_nombre": "IVAN",
+    "segundo_nombre": "DARIO",
+    "primer_apellido": "AGUDELO",
+    "segundo_apellido": "ZAPATA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "006",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "ROJANO",
+    "segundo_apellido": "LLINAS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "007",
+    "primer_nombre": "LAURA",
+    "segundo_nombre": "ESTER",
+    "primer_apellido": "FORTICH",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "008",
+    "primer_nombre": "KARINA",
+    "segundo_nombre": "ESPINOSA",
+    "primer_apellido": "OLIVER",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "009",
+    "primer_nombre": "MARIO",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "CASTAÑO",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "010",
+    "primer_nombre": "MAURICIO",
+    "segundo_nombre": "GOMEZ",
+    "primer_apellido": "AMIN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "011",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "JAIRO",
+    "primer_apellido": "ROLDAN",
+    "segundo_apellido": "AVENDAÑO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "012",
+    "primer_nombre": "SARA",
+    "segundo_nombre": "JIMENA",
+    "primer_apellido": "CASTELLANOS",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "013",
+    "primer_nombre": "JAIME",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "DURAN",
+    "segundo_apellido": "BARRERA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "014",
+    "primer_nombre": "JULIO",
+    "segundo_nombre": "CESAR",
+    "primer_apellido": "TURBAY",
+    "segundo_apellido": "NOGUERA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "015",
+    "primer_nombre": "FRANCISCO",
+    "segundo_nombre": "ALFONSO",
+    "primer_apellido": "FERNANDO",
+    "segundo_apellido": "PAREJA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "016",
+    "primer_nombre": "MANUEL",
+    "segundo_nombre": "ANCIZAR",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": "DURAN"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "017",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "DIEGO",
+    "primer_apellido": "ECHAVARRIA",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "018",
+    "primer_nombre": "FIDELIA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "SUAREZ",
+    "segundo_apellido": "TIRADO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "019",
+    "primer_nombre": "ALMA",
+    "segundo_nombre": "ROSA",
+    "primer_apellido": "RASGO",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "021",
+    "primer_nombre": "CELINA",
+    "segundo_nombre": "TORRES",
+    "primer_apellido": "REYES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "022",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "LUIS",
+    "primer_apellido": "CORREA",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "023",
+    "primer_nombre": "KATHERINE",
+    "segundo_nombre": "JULIETH",
+    "primer_apellido": "MORA",
+    "segundo_apellido": "JEREZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "024",
+    "primer_nombre": "MARIANA",
+    "segundo_nombre": "AYALA",
+    "primer_apellido": "PONTE",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "025",
+    "primer_nombre": "MARTHA",
+    "segundo_nombre": "MARIN",
+    "primer_apellido": "SUAREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "026",
+    "primer_nombre": "FRANK",
+    "segundo_nombre": "ARLEY",
+    "primer_apellido": "GUZMAN",
+    "segundo_apellido": "DAZA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "027",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "REGINA",
+    "primer_apellido": "STUMMO",
+    "segundo_apellido": "VILLAR"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "028",
+    "primer_nombre": "EUGENIA",
+    "segundo_nombre": "SERRANO",
+    "primer_apellido": "PRADA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "029",
+    "primer_nombre": "JENNY",
+    "segundo_nombre": "KATHERINE",
+    "primer_apellido": "NIÑO",
+    "segundo_apellido": "BAEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "030",
+    "primer_nombre": "ALBERTO",
+    "segundo_nombre": "PALMA",
+    "primer_apellido": "CUERVO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "031",
+    "primer_nombre": "JAIME",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "BEDOYA",
+    "segundo_apellido": "MONTOYA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "032",
+    "primer_nombre": "SERGIO",
+    "segundo_nombre": "HUEPO",
+    "primer_apellido": "BELTRAN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "033",
+    "primer_nombre": "WILFRAND",
+    "segundo_nombre": "CUENCA",
+    "primer_apellido": "ZULETA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "034",
+    "primer_nombre": "WILLIAM",
+    "segundo_nombre": "GUZMAN",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "035",
+    "primer_nombre": "JACQUELIN",
+    "segundo_nombre": "QUESADA",
+    "primer_apellido": "MONTIEL",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "036",
+    "primer_nombre": "JESUS",
+    "segundo_nombre": "CORRALES",
+    "primer_apellido": "CANO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "037",
+    "primer_nombre": "GLORIA",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "MESA",
+    "segundo_apellido": "CEBALLOS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "038",
+    "primer_nombre": "MARYI",
+    "segundo_nombre": "ALEJANDRA",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "FONSECA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "039",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "EVARISTO",
+    "primer_apellido": "CRUZ",
+    "segundo_apellido": "ALFONSO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "040",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "DOMINGO",
+    "primer_apellido": "CASTILLO",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "041",
+    "primer_nombre": "ERWIN",
+    "segundo_nombre": "JESUS",
+    "primer_apellido": "LECHUGA",
+    "segundo_apellido": "HEREDIA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "042",
+    "primer_nombre": "ANLET",
+    "segundo_nombre": "JAQUELINE",
+    "primer_apellido": "BENT",
+    "segundo_apellido": "ARCHBOLD"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "043",
+    "primer_nombre": "EDGAR",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "CONDE",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "044",
+    "primer_nombre": "EDITH",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "TOVAR"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "045",
+    "primer_nombre": "HERNAN",
+    "segundo_nombre": "CASTELLANOS",
+    "primer_apellido": "FORIGUA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "046",
+    "primer_nombre": "LEONARDO",
+    "segundo_nombre": "FABIO",
+    "primer_apellido": "ROMERO",
+    "segundo_apellido": "MIRANDA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "047",
+    "primer_nombre": "MARIELA",
+    "segundo_nombre": "MARTINEZ",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "048",
+    "primer_nombre": "FABIO",
+    "segundo_nombre": "CIFUENTES",
+    "primer_apellido": "CERON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "049",
+    "primer_nombre": "JINNA",
+    "segundo_nombre": "PAOLA",
+    "primer_apellido": "ENCISO",
+    "segundo_apellido": "BRAVO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "050",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "COPETE",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "051",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "CRUZ",
+    "segundo_apellido": "BANOY"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "052",
+    "primer_nombre": "NANCY",
+    "segundo_nombre": "YASMIN",
+    "primer_apellido": "CANIZALES",
+    "segundo_apellido": "JIMENEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "053",
+    "primer_nombre": "YURIS",
+    "segundo_nombre": "MARINA",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "GRANADOS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "054",
+    "primer_nombre": "HERBIN",
+    "segundo_nombre": "JANDRY",
+    "primer_apellido": "AMU",
+    "segundo_apellido": "DIAZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "055",
+    "primer_nombre": "CAROLINA",
+    "segundo_nombre": "PULIDO",
+    "primer_apellido": "RINCON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "056",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": "ABAUNZA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "057",
+    "primer_nombre": "GENNY",
+    "segundo_nombre": "TATIANA",
+    "primer_apellido": "SOLANO",
+    "segundo_apellido": "RINCON"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "058",
+    "primer_nombre": "NHORA",
+    "segundo_nombre": "RAMIREZ",
+    "primer_apellido": "SIERRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "059",
+    "primer_nombre": "PAULINO",
+    "segundo_nombre": "OCORO",
+    "primer_apellido": "RUIZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "060",
+    "primer_nombre": "GERSON",
+    "segundo_nombre": "ROBAYO",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "061",
+    "primer_nombre": "LUZ",
+    "segundo_nombre": "STELLA",
+    "primer_apellido": "NAVARRO",
+    "segundo_apellido": "CORREA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "062",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "ROJAS",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "063",
+    "primer_nombre": "SALLE",
+    "segundo_nombre": "LILIANA",
+    "primer_apellido": "PEÑA",
+    "segundo_apellido": "VALBUENA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "064",
+    "primer_nombre": "ANDREA",
+    "segundo_nombre": "JISELA",
+    "primer_apellido": "OLIVEROS",
+    "segundo_apellido": "CARDENAS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "065",
+    "primer_nombre": "ARTURO",
+    "segundo_nombre": "PALACIOS",
+    "primer_apellido": "ORTEGA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "066",
+    "primer_nombre": "NATALY",
+    "segundo_nombre": "BUITRAGO",
+    "primer_apellido": "RUIZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "067",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "YURANI",
+    "primer_apellido": "CARRILLO",
+    "segundo_apellido": "PARDO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "068",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "ROCIO",
+    "primer_apellido": "GUERRERO",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "069",
+    "primer_nombre": "HUGO",
+    "segundo_nombre": "ARMANDO",
+    "primer_apellido": "RICO",
+    "segundo_apellido": "GUTIERREZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "070",
+    "primer_nombre": "AFIFE",
+    "segundo_nombre": "SANTANDER",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "071",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "MARTINEZ",
+    "primer_apellido": "LEGUIZAMON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "072",
+    "primer_nombre": "NELSON",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "ANGEL"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "073",
+    "primer_nombre": "ALIX",
+    "segundo_nombre": "ALFONSO",
+    "primer_apellido": "PABON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "074",
+    "primer_nombre": "DEISY",
+    "segundo_nombre": "JOHANNA",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "ROJAS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "075",
+    "primer_nombre": "LIZETH",
+    "segundo_nombre": "KATERINE",
+    "primer_apellido": "ARCHILA",
+    "segundo_apellido": "SUAREZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "076",
+    "primer_nombre": "NANCY",
+    "segundo_nombre": "AMOROCHO",
+    "primer_apellido": "QUIÑONEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "077",
+    "primer_nombre": "JEDSENIA",
+    "segundo_nombre": "AMARIZ",
+    "primer_apellido": "PACHECO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "078",
+    "primer_nombre": "SILVIA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "BARRIOS",
+    "segundo_apellido": "CARREÑO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "079",
+    "primer_nombre": "MIRIAM",
+    "segundo_nombre": "PLATA",
+    "primer_apellido": "VELASQUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "080",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": "GIRALDO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "081",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ABIGAIL",
+    "primer_apellido": "MIRANDA",
+    "segundo_apellido": "VIRGUEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "082",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "MERCADO",
+    "segundo_apellido": "VILLARREAL"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "083",
+    "primer_nombre": "RUBEN",
+    "segundo_nombre": "DANILO",
+    "primer_apellido": "YANDUN",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "084",
+    "primer_nombre": "JULIAN",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "REYES",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "085",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ALFONSO",
+    "primer_apellido": "AREVALO",
+    "segundo_apellido": "ROJAS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "086",
+    "primer_nombre": "WILMAR",
+    "segundo_nombre": "HERNAN",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": "VASQUEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "087",
+    "primer_nombre": "GLORIA",
+    "segundo_nombre": "JANETH",
+    "primer_apellido": "BECERRA",
+    "segundo_apellido": "ROJAS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "088",
+    "primer_nombre": "GERARDO",
+    "segundo_nombre": "ARTURO",
+    "primer_apellido": "RINCON",
+    "segundo_apellido": "OBANDO"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "089",
+    "primer_nombre": "MARLENE",
+    "segundo_nombre": "RUEDA",
+    "primer_apellido": "ACEVEDO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "090",
+    "primer_nombre": "NILTON",
+    "segundo_nombre": "CORDOBA",
+    "primer_apellido": "MANYOMA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "091",
+    "primer_nombre": "SONIA",
+    "segundo_nombre": "EDITH",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": "LEON"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "092",
+    "primer_nombre": "DEIXI",
+    "segundo_nombre": "RODRIGUEZ",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "093",
+    "primer_nombre": "PAOLA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "ROMAN",
+    "segundo_apellido": "BOBADILLA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "094",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "CRISTANCHO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "095",
+    "primer_nombre": "YULIA",
+    "segundo_nombre": "CAROLINA",
+    "primer_apellido": "MARIÑO",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "096",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "LUDY",
+    "primer_apellido": "MARQUEZ",
+    "segundo_apellido": "RIOS"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "097",
+    "primer_nombre": "OLGA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "TARAZONA",
+    "segundo_apellido": "MEDINA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "098",
+    "primer_nombre": "DARY",
+    "segundo_nombre": "YANETH",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": "RIVERA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "099",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "PABLO",
+    "primer_apellido": "GALLO",
+    "segundo_apellido": "MAYA"
+  },
+  {
+    "id_partido": "0001",
+    "id_candidato": "100",
+    "primer_nombre": "ALEJANDRO",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "VEGA",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "001",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "DE",
+    "segundo_apellido": "LA"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "002",
+    "primer_nombre": "EDGAR",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "SALDARRIAGA",
+    "segundo_apellido": "CANO"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "003",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "NORBERTO",
+    "primer_apellido": "BARRERA",
+    "segundo_apellido": "AVILA"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "004",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "ANGEL",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "NOSSA"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "005",
+    "primer_nombre": "RICARDO",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "ESPAÑOL",
+    "segundo_apellido": "SUAREZ"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "006",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "ALEJANDRO",
+    "primer_apellido": "VILLATE",
+    "segundo_apellido": "CONTRERAS"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "007",
+    "primer_nombre": "GERARDO",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "BURITICA"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "008",
+    "primer_nombre": "MAIRA",
+    "segundo_nombre": "ALEJANDRA",
+    "primer_apellido": "GUTIERREZ",
+    "segundo_apellido": "OCHOA"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "009",
+    "primer_nombre": "YOHANA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "CALDERON",
+    "segundo_apellido": "PEÑA"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "010",
+    "primer_nombre": "PAOLA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "SAMUDIO",
+    "segundo_apellido": "LIZCANO"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "011",
+    "primer_nombre": "CIRO",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "DE",
+    "segundo_apellido": "LEON"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "012",
+    "primer_nombre": "LIBARDO",
+    "segundo_nombre": "AREIZA",
+    "primer_apellido": "MOSQUERA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "014",
+    "primer_nombre": "PAOLA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "MATIZ",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "015",
+    "primer_nombre": "LEIDY",
+    "segundo_nombre": "KATHERINE",
+    "primer_apellido": "JIMENEZ",
+    "segundo_apellido": "BALLESTEROS"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "016",
+    "primer_nombre": "DIDIER",
+    "segundo_nombre": "ANDREY",
+    "primer_apellido": "MARTIN",
+    "segundo_apellido": "VILLAMIL"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "017",
+    "primer_nombre": "NESTOR",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": "PEREA"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "018",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "VANNESA",
+    "primer_apellido": "CUESTA",
+    "segundo_apellido": "ASTUDILLO"
+  },
+  {
+    "id_partido": "1186",
+    "id_candidato": "020",
+    "primer_nombre": "GLORIA",
+    "segundo_nombre": "SOFIA",
+    "primer_apellido": "PATIÑO",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "001",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "MIGUEL",
+    "primer_apellido": "SANTAMARIA",
+    "segundo_apellido": "URIBE"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "002",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "IGNACIO",
+    "primer_apellido": "CUERVO",
+    "segundo_apellido": "VALENCIA"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "003",
+    "primer_nombre": "ANGELA",
+    "segundo_nombre": "VELEZ",
+    "primer_apellido": "ESCALLON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "004",
+    "primer_nombre": "FERNANDO",
+    "segundo_nombre": "TOLOZA",
+    "primer_apellido": "COLORADO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "005",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "CUARTAS",
+    "segundo_apellido": "QUICENO"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "006",
+    "primer_nombre": "MARTHA",
+    "segundo_nombre": "ISABEL",
+    "primer_apellido": "CETINA",
+    "segundo_apellido": "CUELLAR"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "007",
+    "primer_nombre": "GABRIEL",
+    "segundo_nombre": "JAIME",
+    "primer_apellido": "HURTADO",
+    "segundo_apellido": "RESTREPO"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "008",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "HERNAN",
+    "primer_apellido": "URREA",
+    "segundo_apellido": "ARISTIZABAL"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "009",
+    "primer_nombre": "FRANCISCO",
+    "segundo_nombre": "ARISTIDES",
+    "primer_apellido": "NOGUERA",
+    "segundo_apellido": "ROCHA"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "011",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "ORLANDO",
+    "primer_apellido": "BONILLA",
+    "segundo_apellido": "TOCORA"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "012",
+    "primer_nombre": "D'HUBERTHY",
+    "segundo_nombre": "CARDONA",
+    "primer_apellido": "LONDOÑO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "014",
+    "primer_nombre": "LIDA",
+    "segundo_nombre": "BEATRIZ",
+    "primer_apellido": "SALAZAR",
+    "segundo_apellido": "MORENO"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "015",
+    "primer_nombre": "ERIKA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "PIEDRAHITA",
+    "segundo_apellido": "PINEDA"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "017",
+    "primer_nombre": "NOHORA",
+    "segundo_nombre": "ELVIRA",
+    "primer_apellido": "PINZON",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "018",
+    "primer_nombre": "LUCIANO",
+    "segundo_nombre": "ALEJANDRO",
+    "primer_apellido": "VELEZ",
+    "segundo_apellido": "ARROYAVE"
+  },
+  {
+    "id_partido": "0302",
+    "id_candidato": "019",
+    "primer_nombre": "JACIBE",
+    "segundo_nombre": "CHAPARRO",
+    "primer_apellido": "MONTOYA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "001",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "URIBE",
+    "primer_apellido": "TURBAY",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "002",
+    "primer_nombre": "JOSUE",
+    "segundo_nombre": "ALIRIO",
+    "primer_apellido": "BARRERA",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "003",
+    "primer_nombre": "MILLA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "ROMERO",
+    "segundo_apellido": "SOTO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "004",
+    "primer_nombre": "ENRIQUE",
+    "segundo_nombre": "CABRALES",
+    "primer_apellido": "BAQUERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "005",
+    "primer_nombre": "EDWARD",
+    "segundo_nombre": "DAVID",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "006",
+    "primer_nombre": "PAOLA",
+    "segundo_nombre": "ANDREA",
+    "primer_apellido": "HOLGUIN",
+    "segundo_apellido": "MORENO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "007",
+    "primer_nombre": "HONORIO",
+    "segundo_nombre": "MIGUEL",
+    "primer_apellido": "HENRIQUEZ",
+    "segundo_apellido": "PINEDO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "008",
+    "primer_nombre": "SANTIAGO",
+    "segundo_nombre": "VALENCIA",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "009",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "MEISEL",
+    "segundo_apellido": "VERGARA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "010",
+    "primer_nombre": "PALOMA",
+    "segundo_nombre": "SUSANA",
+    "primer_apellido": "VALENCIA",
+    "segundo_apellido": "LASERNA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "011",
+    "primer_nombre": "CIRO",
+    "segundo_nombre": "ALEJANDRO",
+    "primer_apellido": "RAMIREZ",
+    "segundo_apellido": "CORTES"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "012",
+    "primer_nombre": "JONATAN",
+    "segundo_nombre": "TAMAYO",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "013",
+    "primer_nombre": "GABRIEL",
+    "segundo_nombre": "JAIME",
+    "primer_apellido": "VELASCO",
+    "segundo_apellido": "OCAMPO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "014",
+    "primer_nombre": "JAIME",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "MOTTA",
+    "segundo_apellido": "LARA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "015",
+    "primer_nombre": "YENNY",
+    "segundo_nombre": "ESPERANZA",
+    "primer_apellido": "ROZO",
+    "segundo_apellido": "ZAMBRANO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "016",
+    "primer_nombre": "JULIA",
+    "segundo_nombre": "CORREA",
+    "primer_apellido": "NUTTIN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "017",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "VICENTE",
+    "primer_apellido": "CARREÑO",
+    "segundo_apellido": "CASTRO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "018",
+    "primer_nombre": "MILLER",
+    "segundo_nombre": "JESUS",
+    "primer_apellido": "SOTO",
+    "segundo_apellido": "SOLANO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "019",
+    "primer_nombre": "NELLY",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "MOSQUERA",
+    "segundo_apellido": "MURCIA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "020",
+    "primer_nombre": "ALVARO",
+    "segundo_nombre": "HERNAN",
+    "primer_apellido": "PRADA",
+    "segundo_apellido": "ARTUNDUAGA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "021",
+    "primer_nombre": "LIZ",
+    "segundo_nombre": "GERALDINE",
+    "primer_apellido": "ROBAYO",
+    "segundo_apellido": "GUTIERREZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "022",
+    "primer_nombre": "RICARDO",
+    "segundo_nombre": "ALFONSO",
+    "primer_apellido": "FERRO",
+    "segundo_apellido": "LOZANO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "023",
+    "primer_nombre": "ESTEBAN",
+    "segundo_nombre": "QUINTERO",
+    "primer_apellido": "CARDONA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "025",
+    "primer_nombre": "OSWALDO",
+    "segundo_nombre": "FERRI",
+    "primer_apellido": "ORTIZ",
+    "segundo_apellido": "RAMOS"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "026",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "HERLINDO",
+    "primer_apellido": "MENDIETA",
+    "segundo_apellido": "OVALLE"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "027",
+    "primer_nombre": "ALVARO",
+    "segundo_nombre": "FRANCISCO",
+    "primer_apellido": "HERRERA",
+    "segundo_apellido": "SEQUERA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "028",
+    "primer_nombre": "VANESSA",
+    "segundo_nombre": "ALEXANDRA",
+    "primer_apellido": "MENDOZA",
+    "segundo_apellido": "BUSTOS"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "029",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "JANETH",
+    "primer_apellido": "HERRERA",
+    "segundo_apellido": "VILLARREAL"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "030",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "DAZA",
+    "segundo_apellido": "IGUARAN"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "031",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "LUCIA",
+    "primer_apellido": "VIDAL",
+    "segundo_apellido": "CAICEDO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "032",
+    "primer_nombre": "ALEJANDRO",
+    "segundo_nombre": "CORRALES",
+    "primer_apellido": "ESCOBAR",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "033",
+    "primer_nombre": "INDALECIO",
+    "segundo_nombre": "DANGOND",
+    "primer_apellido": "BAQUERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "034",
+    "primer_nombre": "HELGA",
+    "segundo_nombre": "LORENA",
+    "primer_apellido": "ANGARITA",
+    "segundo_apellido": "CROSWAYTHE"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "035",
+    "primer_nombre": "SIMON",
+    "segundo_nombre": "ALFREDO",
+    "primer_apellido": "GAMBOA",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "036",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "VITONAS",
+    "segundo_apellido": "YATACUE"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "037",
+    "primer_nombre": "YIMMY",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "BURBANO",
+    "segundo_apellido": "ALVAREZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "038",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "RESTREPO",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "040",
+    "primer_nombre": "NESTOR",
+    "segundo_nombre": "DIAZ",
+    "primer_apellido": "SAAVEDRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "042",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "HAROLD",
+    "primer_apellido": "SUAREZ",
+    "segundo_apellido": "VARGAS"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "043",
+    "primer_nombre": "MAX",
+    "segundo_nombre": "PLANCK",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "044",
+    "primer_nombre": "YOHANA",
+    "segundo_nombre": "SALAMANCA",
+    "primer_apellido": "JIMENEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "045",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "EUGENIA",
+    "primer_apellido": "CUELLAR",
+    "segundo_apellido": "REINA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "047",
+    "primer_nombre": "RAUL",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "BELTRAN",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "048",
+    "primer_nombre": "DIEGO",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "TOBON",
+    "segundo_apellido": "ECHEVERRI"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "049",
+    "primer_nombre": "JAYSON",
+    "segundo_nombre": "JACOB",
+    "primer_apellido": "TAYLOR",
+    "segundo_apellido": "DAVIS"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "050",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "ANGELICA",
+    "primer_apellido": "GUERRA",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "052",
+    "primer_nombre": "JIMENA",
+    "segundo_nombre": "ALEXANDRA",
+    "primer_apellido": "ORJUELA",
+    "segundo_apellido": "AVENDAÑO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "053",
+    "primer_nombre": "GINNA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "CASTILLO",
+    "segundo_apellido": "GUTIERREZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "054",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "VEGA",
+    "primer_apellido": "RINCON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "055",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "AUGUSTO",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "CASTAÑEDA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "058",
+    "primer_nombre": "MONICA",
+    "segundo_nombre": "ALEJANDRA",
+    "primer_apellido": "CERVERA",
+    "segundo_apellido": "MURILLAS"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "059",
+    "primer_nombre": "JEHPHIR",
+    "segundo_nombre": "EDGAR",
+    "primer_apellido": "VILLARREAL",
+    "segundo_apellido": "SERRANO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "060",
+    "primer_nombre": "EDWARD",
+    "segundo_nombre": "GARNICA",
+    "primer_apellido": "MONTAÑEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "061",
+    "primer_nombre": "SUSANA",
+    "segundo_nombre": "ANGELICA",
+    "primer_apellido": "CRUZ",
+    "segundo_apellido": "ZAPATA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "062",
+    "primer_nombre": "ANIER",
+    "segundo_nombre": "AUGUSTO",
+    "primer_apellido": "MARIN",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "063",
+    "primer_nombre": "EMPERATRIZ",
+    "segundo_nombre": "RODRIGUEZ",
+    "primer_apellido": "SUAREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "065",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "RIAÑO",
+    "segundo_apellido": "JIMENEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "066",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "ADOLFO",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "SIERRA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "067",
+    "primer_nombre": "CIDENIA",
+    "segundo_nombre": "ROVIRA",
+    "primer_apellido": "ROJAS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "068",
+    "primer_nombre": "ALFONSO",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "ARROYO",
+    "segundo_apellido": "NAVARRO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "069",
+    "primer_nombre": "ANDRES",
+    "segundo_nombre": "FELIPE",
+    "primer_apellido": "GUERRA",
+    "segundo_apellido": "HOYOS"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "070",
+    "primer_nombre": "VIRGINIA",
+    "segundo_nombre": "SEGUNDA",
+    "primer_apellido": "NAVARRO",
+    "segundo_apellido": "LAMADRID"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "071",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "VICTOR",
+    "primer_apellido": "HERRERA",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "074",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "ESCOBAR",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "075",
+    "primer_nombre": "ETHEL",
+    "segundo_nombre": "MARITZA",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": "PULGAR"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "077",
+    "primer_nombre": "ALICIA",
+    "segundo_nombre": "FRANCO",
+    "primer_apellido": "FERNANDEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "080",
+    "primer_nombre": "HUGO",
+    "segundo_nombre": "FERNEY",
+    "primer_apellido": "BOLAÑOS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "086",
+    "primer_nombre": "ASTRID",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "BUITRAGO",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "087",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "TORRES",
+    "segundo_apellido": "SERRATO"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "088",
+    "primer_nombre": "ALVARO",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "SEQUERA",
+    "segundo_apellido": "DUARTE"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "089",
+    "primer_nombre": "JAIRO",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "ZARAMA",
+    "segundo_apellido": "VENEGAS"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "090",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "PABLO",
+    "primer_apellido": "CELIS",
+    "segundo_apellido": "VERGEL"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "098",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "LORENA",
+    "primer_apellido": "GOMEZ",
+    "segundo_apellido": "ZULUAGA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "099",
+    "primer_nombre": "DANIEL",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "ARIZABALETA"
+  },
+  {
+    "id_partido": "0011",
+    "id_candidato": "100",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "FERNANDA",
+    "primer_apellido": "CABAL",
+    "segundo_apellido": "MOLINA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "001",
+    "primer_nombre": "EFRAIN",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "CEPEDA",
+    "segundo_apellido": "SARABIA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "002",
+    "primer_nombre": "NADYA",
+    "segundo_nombre": "GEORGETTE",
+    "primer_apellido": "BLEL",
+    "segundo_apellido": "SCAFF"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "003",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "ANGEL",
+    "primer_apellido": "BARRETO",
+    "segundo_apellido": "CASTILLO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "004",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "TRUJILLO",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "005",
+    "primer_nombre": "GERMAN",
+    "segundo_nombre": "ALCIDES",
+    "primer_apellido": "BLANCO",
+    "segundo_apellido": "ALVAREZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "006",
+    "primer_nombre": "SOLEDAD",
+    "segundo_nombre": "TAMAYO",
+    "primer_apellido": "TAMAYO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "007",
+    "primer_nombre": "MARCOS",
+    "segundo_nombre": "DANIEL",
+    "primer_apellido": "PINEDA",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "008",
+    "primer_nombre": "NICOLAS",
+    "segundo_nombre": "ALBEIRO",
+    "primer_apellido": "ECHEVERRY",
+    "segundo_apellido": "ALVARAN"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "009",
+    "primer_nombre": "ESPERANZA",
+    "segundo_nombre": "ANDRADE",
+    "primer_apellido": "SERRANO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "010",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "GARCIA",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "011",
+    "primer_nombre": "LILIANA",
+    "segundo_nombre": "ESTHER",
+    "primer_apellido": "BITAR",
+    "segundo_apellido": "CASTILLA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "012",
+    "primer_nombre": "DIELA",
+    "segundo_nombre": "LILIANA",
+    "primer_apellido": "BENAVIDES",
+    "segundo_apellido": "SOLARTE"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "013",
+    "primer_nombre": "UBEIMAR",
+    "segundo_nombre": "DELGADO",
+    "primer_apellido": "BLANDON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "014",
+    "primer_nombre": "ALBERTO",
+    "segundo_nombre": "DEVIA",
+    "primer_apellido": "ESCOBAR",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "015",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CAMILO",
+    "primer_apellido": "OSTOS",
+    "segundo_apellido": "ROMERO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "016",
+    "primer_nombre": "GLADYS",
+    "segundo_nombre": "HELENA",
+    "primer_apellido": "ORTIZ",
+    "segundo_apellido": "FLOREZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "017",
+    "primer_nombre": "EDWAR",
+    "segundo_nombre": "JALABE",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "018",
+    "primer_nombre": "ALDEMAR",
+    "segundo_nombre": "NARVAEZ",
+    "primer_apellido": "SERRATO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "019",
+    "primer_nombre": "PABLO",
+    "segundo_nombre": "EMILIO",
+    "primer_apellido": "BARRETO",
+    "segundo_apellido": "GAITAN"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "020",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ALFREDO",
+    "primer_apellido": "MARIN",
+    "segundo_apellido": "LOZANO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "021",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "ALCIBIADES",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": "CASTELLANOS"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "022",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "JAIRO",
+    "primer_apellido": "CORREA",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "023",
+    "primer_nombre": "MARIANELA",
+    "segundo_nombre": "CAMELO",
+    "primer_apellido": "LEON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "024",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "BARRUETO",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "025",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "BARRETO",
+    "primer_apellido": "QUIROGA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "027",
+    "primer_nombre": "ESTEBAN",
+    "segundo_nombre": "LLEWELING",
+    "primer_apellido": "CAICEDO",
+    "segundo_apellido": "CORDOBA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "028",
+    "primer_nombre": "NEHEMIAS",
+    "segundo_nombre": "CORDOBA",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "029",
+    "primer_nombre": "IVAN",
+    "segundo_nombre": "GUTIERREZ",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "030",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "RINCON",
+    "primer_apellido": "RIVERA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "031",
+    "primer_nombre": "LUISA",
+    "segundo_nombre": "MATILDE",
+    "primer_apellido": "ECHEVERRIA",
+    "segundo_apellido": "ARTETA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "032",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "ROMERO",
+    "segundo_apellido": "LAGO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "033",
+    "primer_nombre": "ANDRES",
+    "segundo_nombre": "ALIRIO",
+    "primer_apellido": "CORREDOR",
+    "segundo_apellido": "CORREDOR"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "034",
+    "primer_nombre": "MARLENY",
+    "segundo_nombre": "MONDRAGON",
+    "primer_apellido": "PIÑEROS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "035",
+    "primer_nombre": "LAUREANO",
+    "segundo_nombre": "AUGUSTO",
+    "primer_apellido": "ACUÑA",
+    "segundo_apellido": "DIAZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "036",
+    "primer_nombre": "ALAIN",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": "ORTEGA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "037",
+    "primer_nombre": "TATIANA",
+    "segundo_nombre": "DEL",
+    "primer_apellido": "PILAR",
+    "segundo_apellido": "CALDERON"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "040",
+    "primer_nombre": "JOHON",
+    "segundo_nombre": "ORLANDO",
+    "primer_apellido": "GARZON",
+    "segundo_apellido": "ACOSTA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "042",
+    "primer_nombre": "RODOLFO",
+    "segundo_nombre": "RINCON",
+    "primer_apellido": "SOSA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "043",
+    "primer_nombre": "ASTRID",
+    "segundo_nombre": "SOLANO",
+    "primer_apellido": "MONTIEL",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "045",
+    "primer_nombre": "RUBEN",
+    "segundo_nombre": "DARIO",
+    "primer_apellido": "GIRALDO",
+    "segundo_apellido": "CARVAJAL"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "046",
+    "primer_nombre": "PABLO",
+    "segundo_nombre": "EUGENIO",
+    "primer_apellido": "RINCON",
+    "segundo_apellido": "ARDILA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "047",
+    "primer_nombre": "HENRY",
+    "segundo_nombre": "GOMEZ",
+    "primer_apellido": "NIETO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "049",
+    "primer_nombre": "NARLLY",
+    "segundo_nombre": "YESSENYA",
+    "primer_apellido": "BEDOYA",
+    "segundo_apellido": "GALLEGO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "050",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "MILTON",
+    "primer_apellido": "CASTILLO",
+    "segundo_apellido": "QUIÑONEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "051",
+    "primer_nombre": "JOHANNA",
+    "segundo_nombre": "YAMILE",
+    "primer_apellido": "GAITAN",
+    "segundo_apellido": "RINCON"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "052",
+    "primer_nombre": "RODRIGO",
+    "segundo_nombre": "GRAJALES",
+    "primer_apellido": "VALENCIA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "054",
+    "primer_nombre": "OMAR",
+    "segundo_nombre": "SALAMANCA",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "055",
+    "primer_nombre": "JESUS",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "GALLEGO",
+    "segundo_apellido": "LEON"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "056",
+    "primer_nombre": "ADRIANA",
+    "segundo_nombre": "LORENA",
+    "primer_apellido": "GONZALES",
+    "segundo_apellido": "QUIÑONES"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "057",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "GIRALDO",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "058",
+    "primer_nombre": "MARCO",
+    "segundo_nombre": "AURELIO",
+    "primer_apellido": "QUIROGA",
+    "segundo_apellido": "VELASCO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "059",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "HERNAN",
+    "primer_apellido": "MARIN",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "060",
+    "primer_nombre": "HANS",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "POSADA",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "062",
+    "primer_nombre": "BEATRIZ",
+    "segundo_nombre": "VICTORIA",
+    "primer_apellido": "HINESTROZA",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "065",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "QUIÑONES",
+    "primer_apellido": "VILLARREAL",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "068",
+    "primer_nombre": "CONRADO",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "ROJAS"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "069",
+    "primer_nombre": "VLADIMIR",
+    "segundo_nombre": "ILICH",
+    "primer_apellido": "CLAVIJO",
+    "segundo_apellido": "GALDINO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "070",
+    "primer_nombre": "GERMAN",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "CASTILLO",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "074",
+    "primer_nombre": "ALBERTO",
+    "segundo_nombre": "ESTEBAN",
+    "primer_apellido": "RAMIREZ",
+    "segundo_apellido": "ALFONSO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "077",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "OLGA",
+    "primer_apellido": "AGUIRRE",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "078",
+    "primer_nombre": "RICHARD",
+    "segundo_nombre": "SOTO",
+    "primer_apellido": "GELVES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "079",
+    "primer_nombre": "LINA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "080",
+    "primer_nombre": "LENA",
+    "segundo_nombre": "CATALINA",
+    "primer_apellido": "LIZARAZO",
+    "segundo_apellido": "SIZA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "081",
+    "primer_nombre": "JAIRO",
+    "segundo_nombre": "HERNANDO",
+    "primer_apellido": "SALAZAR",
+    "segundo_apellido": "MORENO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "082",
+    "primer_nombre": "JESSICA",
+    "segundo_nombre": "MARCELA",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": "PRADILLA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "083",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ABEL",
+    "primer_apellido": "PAZ",
+    "segundo_apellido": "JULICUE"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "084",
+    "primer_nombre": "RICARDO",
+    "segundo_nombre": "HUERTAS",
+    "primer_apellido": "CARDENAS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "085",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "MARINO",
+    "primer_apellido": "ANGULO",
+    "segundo_apellido": "CAICEDO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "086",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "EUGENIA",
+    "primer_apellido": "NIEVES",
+    "segundo_apellido": "MONTEZUMA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "087",
+    "primer_nombre": "ZULMA",
+    "segundo_nombre": "LILIANA",
+    "primer_apellido": "TORRES",
+    "segundo_apellido": "MENDIVELSO"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "088",
+    "primer_nombre": "LAUREANO",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "MEZA",
+    "segundo_apellido": "DAZA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "090",
+    "primer_nombre": "JAVIER",
+    "segundo_nombre": "MEJIA",
+    "primer_apellido": "ARIAS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "091",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "HORACIO",
+    "primer_apellido": "VARGAS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "093",
+    "primer_nombre": "NANCY",
+    "segundo_nombre": "STELLA",
+    "primer_apellido": "VERGARA",
+    "segundo_apellido": "MUÑOZ"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "095",
+    "primer_nombre": "DIANA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": "TRIANA"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "096",
+    "primer_nombre": "HAROLD",
+    "segundo_nombre": "MILTON",
+    "primer_apellido": "VALENCIA",
+    "segundo_apellido": "RUGE"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "097",
+    "primer_nombre": "NOLKA",
+    "segundo_nombre": "CECILIA",
+    "primer_apellido": "COBO",
+    "segundo_apellido": "REALES"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "100",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "SAMY",
+    "primer_apellido": "MERHEG",
+    "segundo_apellido": "MARUN"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "001",
+    "primer_nombre": "CATERINE",
+    "segundo_nombre": "IBARGUEN",
+    "primer_apellido": "MENA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "002",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "DAVID",
+    "primer_apellido": "NAME",
+    "segundo_apellido": "CARDOZO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "003",
+    "primer_nombre": "ALFREDO",
+    "segundo_nombre": "RAFAEL",
+    "primer_apellido": "DELUQUE",
+    "segundo_apellido": "ZULETA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "004",
+    "primer_nombre": "FRANCISCO",
+    "segundo_nombre": "JAVIER",
+    "primer_apellido": "BELLO",
+    "segundo_apellido": "DURAN"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "005",
+    "primer_nombre": "JULIO",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "ELIAS",
+    "segundo_apellido": "VIDAL"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "006",
+    "primer_nombre": "ANTONIO",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "CORREA",
+    "segundo_apellido": "JIMENEZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "007",
+    "primer_nombre": "LUZ",
+    "segundo_nombre": "MARGOTH",
+    "primer_apellido": "ROJAS",
+    "segundo_apellido": "ABAUNZA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "008",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "MOISES",
+    "primer_apellido": "BESAILE",
+    "segundo_apellido": "FAYAD"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "009",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "FELIPE",
+    "primer_apellido": "LEMOS",
+    "segundo_apellido": "URIBE"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "010",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "JAIRO",
+    "primer_apellido": "CARDENAS",
+    "segundo_apellido": "MORAN"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "011",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "APOLINAR",
+    "segundo_apellido": "MARTINEZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "012",
+    "primer_nombre": "MOISES",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "VILLAFAÑA",
+    "segundo_apellido": "IZQUIERDO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "013",
+    "primer_nombre": "NORMA",
+    "segundo_nombre": "HURTADO",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "014",
+    "primer_nombre": "JULIO",
+    "segundo_nombre": "ELIAS",
+    "primer_apellido": "CHAGUI",
+    "segundo_apellido": "FLOREZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "015",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "AMIN",
+    "primer_apellido": "ESCAF",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "016",
+    "primer_nombre": "TANIA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "MOLINA",
+    "segundo_apellido": "FERNANDEZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "017",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "ALFREDO",
+    "primer_apellido": "GNECCO",
+    "segundo_apellido": "ZULETA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "018",
+    "primer_nombre": "ALVY",
+    "segundo_nombre": "LUZ",
+    "primer_apellido": "ORTIZ",
+    "segundo_apellido": "ROCHA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "019",
+    "primer_nombre": "JOHN",
+    "segundo_nombre": "JAIRO",
+    "primer_apellido": "HOYOS",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "020",
+    "primer_nombre": "VLADIMIR",
+    "segundo_nombre": "PEÑA",
+    "primer_apellido": "ALTAMAR",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "021",
+    "primer_nombre": "MARTHA",
+    "segundo_nombre": "ELIZABETH",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": "ROSAS"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "022",
+    "primer_nombre": "JHON",
+    "segundo_nombre": "ALEXANDER",
+    "primer_apellido": "RAMIREZ",
+    "segundo_apellido": "GUZMAN"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "023",
+    "primer_nombre": "DAVID",
+    "segundo_nombre": "ESQUIAQUI",
+    "primer_apellido": "CAICEDO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "024",
+    "primer_nombre": "MAGDALENA",
+    "segundo_nombre": "GONZALEZ",
+    "primer_apellido": "CARDALES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "025",
+    "primer_nombre": "NOELLY",
+    "segundo_nombre": "QUITIAN",
+    "primer_apellido": "MAYOR",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "026",
+    "primer_nombre": "NARA",
+    "segundo_nombre": "ESTHER",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "JIMENEZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "027",
+    "primer_nombre": "ANGELICA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "PEREIRA",
+    "segundo_apellido": "MUÑOZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "028",
+    "primer_nombre": "DANNY",
+    "segundo_nombre": "SEQUEDA",
+    "primer_apellido": "BECERRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "029",
+    "primer_nombre": "ALONSO",
+    "segundo_nombre": "CAICEDO",
+    "primer_apellido": "MONTANO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "030",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "CASALINS",
+    "segundo_apellido": "TELLO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "031",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "ALMANZA",
+    "segundo_apellido": "SALGADO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "033",
+    "primer_nombre": "EDGAR",
+    "segundo_nombre": "ESPINDOLA",
+    "primer_apellido": "NIÑO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "034",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "AMEZQUITA",
+    "segundo_apellido": "SOTO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "035",
+    "primer_nombre": "ELEAZALDE",
+    "segundo_nombre": "SEGUNDO",
+    "primer_apellido": "SALCEDO",
+    "segundo_apellido": "ARROYO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "036",
+    "primer_nombre": "YURANI",
+    "segundo_nombre": "SCARPETTA",
+    "primer_apellido": "BEDOYA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "037",
+    "primer_nombre": "FABIAN",
+    "segundo_nombre": "ORLANDO",
+    "primer_apellido": "RIVERA",
+    "segundo_apellido": "CARRILLO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "038",
+    "primer_nombre": "FERNANDO",
+    "segundo_nombre": "ZORNOSA",
+    "primer_apellido": "GALOFRE",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "039",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "CASTRO",
+    "segundo_apellido": "RIOS"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "040",
+    "primer_nombre": "LEIDY",
+    "segundo_nombre": "TATIANA",
+    "primer_apellido": "PALACIOS",
+    "segundo_apellido": "MAYORGA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "041",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "ELIZABETH",
+    "primer_apellido": "ANGULO",
+    "segundo_apellido": "ACEVEDO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "042",
+    "primer_nombre": "ISAIAS",
+    "segundo_nombre": "CHALA",
+    "primer_apellido": "IBARGUEN",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "043",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "CORDOBA",
+    "segundo_apellido": "PEÑATE"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "044",
+    "primer_nombre": "CANDELARIA",
+    "segundo_nombre": "PATRICIA",
+    "primer_apellido": "ROJAS",
+    "segundo_apellido": "VERGARA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "045",
+    "primer_nombre": "JULIO",
+    "segundo_nombre": "CESAR",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "PUENTES"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "046",
+    "primer_nombre": "SAMUEL",
+    "segundo_nombre": "ARTURO",
+    "primer_apellido": "FRANCO",
+    "segundo_apellido": "CARDONA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "047",
+    "primer_nombre": "LEDA",
+    "segundo_nombre": "PAOLA",
+    "primer_apellido": "MOSQUERA",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "048",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "JAIME",
+    "primer_apellido": "CARDOZO",
+    "segundo_apellido": "ESTRADA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "049",
+    "primer_nombre": "ILIA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "QUINTERO",
+    "segundo_apellido": "MELECIO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "050",
+    "primer_nombre": "ALFREDO",
+    "segundo_nombre": "GUILLERMO",
+    "primer_apellido": "MOLINA",
+    "segundo_apellido": "TRIANA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "051",
+    "primer_nombre": "ANDRES",
+    "segundo_nombre": "FELIPE",
+    "primer_apellido": "ORTIZ",
+    "segundo_apellido": "SUAREZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "052",
+    "primer_nombre": "VICTOR",
+    "segundo_nombre": "TORRES",
+    "primer_apellido": "BLANCO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "053",
+    "primer_nombre": "ANDRES",
+    "segundo_nombre": "MAURICIO",
+    "primer_apellido": "ROZO",
+    "segundo_apellido": "MURCIA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "054",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "JULIO",
+    "primer_apellido": "CARRILLO",
+    "segundo_apellido": "COLMENARES"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "055",
+    "primer_nombre": "HUGO",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "OSPINA",
+    "segundo_apellido": "AGUDELO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "056",
+    "primer_nombre": "FREDY",
+    "segundo_nombre": "ALEXANDER",
+    "primer_apellido": "MUÑOZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "057",
+    "primer_nombre": "ROLAN",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "GUZMAN",
+    "segundo_apellido": "DIAZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "058",
+    "primer_nombre": "DEYBIS",
+    "segundo_nombre": "MARTINEZ",
+    "primer_apellido": "GUERRA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "059",
+    "primer_nombre": "LEONARDO",
+    "segundo_nombre": "VALVERDE",
+    "primer_apellido": "CEBALLOS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "060",
+    "primer_nombre": "ESAUD",
+    "segundo_nombre": "URRUTIA",
+    "primer_apellido": "NOEL",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "061",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "BIOJO",
+    "segundo_apellido": "CASTILLO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "062",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "ROCIO",
+    "primer_apellido": "ROZO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "063",
+    "primer_nombre": "SONIA",
+    "segundo_nombre": "ELIZABETH",
+    "primer_apellido": "MALAGON",
+    "segundo_apellido": "VELOZA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "064",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "PABLO",
+    "primer_apellido": "VIAFARA",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "065",
+    "primer_nombre": "ARGEMIRO",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "AGAMEZ",
+    "segundo_apellido": "PALACIO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "066",
+    "primer_nombre": "CARMEN",
+    "segundo_nombre": "SOFIA",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "PORTILLO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "067",
+    "primer_nombre": "MADELEINE",
+    "segundo_nombre": "LASCARRO",
+    "primer_apellido": "RODRIGUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "068",
+    "primer_nombre": "BRICEIDA",
+    "segundo_nombre": "MARIA",
+    "primer_apellido": "BOLIVAR",
+    "segundo_apellido": "OROZCO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "069",
+    "primer_nombre": "HECTOR",
+    "segundo_nombre": "HERNAN",
+    "primer_apellido": "CHARRY",
+    "segundo_apellido": "RUJANA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "070",
+    "primer_nombre": "GEORGE",
+    "segundo_nombre": "HAMILTON",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "MORENO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "071",
+    "primer_nombre": "LENAN",
+    "segundo_nombre": "JISELL",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": "IGUARAN"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "072",
+    "primer_nombre": "LIBARDO",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "LUNA",
+    "segundo_apellido": "LUNA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "073",
+    "primer_nombre": "GELMAN",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "MUNERA",
+    "segundo_apellido": "PUERTA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "074",
+    "primer_nombre": "MIREYA",
+    "segundo_nombre": "NELSY",
+    "primer_apellido": "PATIÑO",
+    "segundo_apellido": "ARIZA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "075",
+    "primer_nombre": "FREDY",
+    "segundo_nombre": "VALENCIA",
+    "primer_apellido": "ACOSTA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "076",
+    "primer_nombre": "HAROLD",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "VALENCIA",
+    "segundo_apellido": "PINO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "077",
+    "primer_nombre": "ALBA",
+    "segundo_nombre": "LUZ",
+    "primer_apellido": "MONTALVO",
+    "segundo_apellido": "VALDERRAMA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "078",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ALI",
+    "primer_apellido": "MURILLO",
+    "segundo_apellido": "AGUILAR"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "079",
+    "primer_nombre": "CAROLINA",
+    "segundo_nombre": "BUSTAMANTE",
+    "primer_apellido": "ZULUAGA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "080",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "SOFIA",
+    "primer_apellido": "LEMOS",
+    "segundo_apellido": "LEMOS"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "081",
+    "primer_nombre": "OMAR",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "SILVA",
+    "segundo_apellido": "JIMENEZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "082",
+    "primer_nombre": "PABLO",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "BUSTACARA",
+    "segundo_apellido": "LARGO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "083",
+    "primer_nombre": "GENTIL",
+    "segundo_nombre": "FAJARDO",
+    "primer_apellido": "MOLINA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "084",
+    "primer_nombre": "HUMBERTO",
+    "segundo_nombre": "SANCHEZ",
+    "primer_apellido": "",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "085",
+    "primer_nombre": "RUBIEL",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "CELIS",
+    "segundo_apellido": "NOREÑA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "086",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": "SILVA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "087",
+    "primer_nombre": "CLARA",
+    "segundo_nombre": "STEFANIA",
+    "primer_apellido": "PAREDES",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "088",
+    "primer_nombre": "GIOVANNI",
+    "segundo_nombre": "ROSENTHAL",
+    "primer_apellido": "SERRANO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "089",
+    "primer_nombre": "HERNANDO",
+    "segundo_nombre": "MUNEVAR",
+    "primer_apellido": "CABALLERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "090",
+    "primer_nombre": "WASLDISTRUDIS",
+    "segundo_nombre": "HURTADO",
+    "primer_apellido": "MINOTTA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "091",
+    "primer_nombre": "MAGDA",
+    "segundo_nombre": "BEATRIZ",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "VERGEL"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "092",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "ELIZABETH",
+    "primer_apellido": "SANDOVAL",
+    "segundo_apellido": "MOJICA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "093",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "MILENA",
+    "primer_apellido": "CASTRO",
+    "segundo_apellido": "MEJIA"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "094",
+    "primer_nombre": "GABRIEL",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "RUBIANO",
+    "segundo_apellido": "PIÑEROS"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "095",
+    "primer_nombre": "MARTHA",
+    "segundo_nombre": "DEBBIE",
+    "primer_apellido": "AGUILAR",
+    "segundo_apellido": "COBO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "096",
+    "primer_nombre": "CAROLINA",
+    "segundo_nombre": "FRANCO",
+    "primer_apellido": "CUELLAR",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "097",
+    "primer_nombre": "EDIBERTO",
+    "segundo_nombre": "MURILLO",
+    "primer_apellido": "TELLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "098",
+    "primer_nombre": "SERVULO",
+    "segundo_nombre": "EFRAIN",
+    "primer_apellido": "GANCINO",
+    "segundo_apellido": "RAMIREZ"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "099",
+    "primer_nombre": "BERNER",
+    "segundo_nombre": "LEON",
+    "primer_apellido": "ZAMBRANO",
+    "segundo_apellido": "ERASO"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "100",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "CARLOS",
+    "primer_apellido": "GARCES",
+    "segundo_apellido": "ROJAS"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "001",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "BOLIVAR",
+    "primer_apellido": "MORENO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "002",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "PIZARRO",
+    "segundo_apellido": "RODRIGUEZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "003",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "LOPEZ",
+    "primer_apellido": "MAYA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "004",
+    "primer_nombre": "AIDA",
+    "segundo_nombre": "YOLANDA",
+    "primer_apellido": "AVELLA",
+    "segundo_apellido": "ESQUIVEL"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "005",
+    "primer_nombre": "ROY",
+    "segundo_nombre": "LEONARDO",
+    "primer_apellido": "BARRERAS",
+    "segundo_apellido": "MONTEALEGRE"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "006",
+    "primer_nombre": "MARTHA",
+    "segundo_nombre": "ISABEL",
+    "primer_apellido": "PERALTA",
+    "segundo_apellido": "EPIEYU"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "007",
+    "primer_nombre": "IVAN",
+    "segundo_nombre": "CEPEDA",
+    "primer_apellido": "CASTRO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "008",
+    "primer_nombre": "PIEDAD",
+    "segundo_nombre": "ESNEDA",
+    "primer_apellido": "CORDOBA",
+    "segundo_apellido": "RUIZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "009",
+    "primer_nombre": "PEDRO",
+    "segundo_nombre": "HERNANDO",
+    "primer_apellido": "FLOREZ",
+    "segundo_apellido": "PORRAS"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "010",
+    "primer_nombre": "ISABEL",
+    "segundo_nombre": "CRISTINA",
+    "primer_apellido": "ZULETA",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "011",
+    "primer_nombre": "ALEX",
+    "segundo_nombre": "XAVIER",
+    "primer_apellido": "FLOREZ",
+    "segundo_apellido": "HERNANDEZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "012",
+    "primer_nombre": "CLARA",
+    "segundo_nombre": "EUGENIA",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": "OBREGON"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "013",
+    "primer_nombre": "ROBERT",
+    "segundo_nombre": "DAZA",
+    "primer_apellido": "GUEVARA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "014",
+    "primer_nombre": "YULY",
+    "segundo_nombre": "ESMERALDA",
+    "primer_apellido": "HERNANDEZ",
+    "segundo_apellido": "SILVA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "015",
+    "primer_nombre": "WILSON",
+    "segundo_nombre": "NEBER",
+    "primer_apellido": "ARIAS",
+    "segundo_apellido": "CASTILLO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "016",
+    "primer_nombre": "GLORIA",
+    "segundo_nombre": "INES",
+    "primer_apellido": "FLOREZ",
+    "segundo_apellido": "SCHNEIDER"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "017",
+    "primer_nombre": "CESAR",
+    "segundo_nombre": "AUGUSTO",
+    "primer_apellido": "PACHON",
+    "segundo_apellido": "ACHURY"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "018",
+    "primer_nombre": "SANDRA",
+    "segundo_nombre": "YANETH",
+    "primer_apellido": "JAIMES",
+    "segundo_apellido": "CRUZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "019",
+    "primer_nombre": "PAULINO",
+    "segundo_nombre": "RIASCOS",
+    "primer_apellido": "RIASCOS",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "020",
+    "primer_nombre": "JAEL",
+    "segundo_nombre": "QUIROGA",
+    "primer_apellido": "CARRILLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "021",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "ALBERTO",
+    "primer_apellido": "BENAVIDES",
+    "segundo_apellido": "MORA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "022",
+    "primer_nombre": "CATALINA",
+    "segundo_nombre": "DEL",
+    "primer_apellido": "SOCORRO",
+    "segundo_apellido": "PEREZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "023",
+    "primer_nombre": "JULIO",
+    "segundo_nombre": "CESAR",
+    "primer_apellido": "ESTRADA",
+    "segundo_apellido": "CORDERO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "024",
+    "primer_nombre": "FERNEY",
+    "segundo_nombre": "SILVA",
+    "primer_apellido": "IDROBO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "025",
+    "primer_nombre": "EDWIN",
+    "segundo_nombre": "PALMA",
+    "primer_apellido": "EGEA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "026",
+    "primer_nombre": "SONIA",
+    "segundo_nombre": "SHIRLEY",
+    "primer_apellido": "BERNAL",
+    "segundo_apellido": "SANCHEZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "027",
+    "primer_nombre": "NIKA",
+    "segundo_nombre": "DUNIEZHKA",
+    "primer_apellido": "CUELLAR",
+    "segundo_apellido": "CUENCA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "028",
+    "primer_nombre": "ANGELICA",
+    "segundo_nombre": "VERBEL",
+    "primer_apellido": "LOPEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "029",
+    "primer_nombre": "DOMINGO",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "AYALA",
+    "segundo_apellido": "ESPITIA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "030",
+    "primer_nombre": "ALEXANDER",
+    "segundo_nombre": "CHALA",
+    "primer_apellido": "SAENZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "031",
+    "primer_nombre": "LUZ",
+    "segundo_nombre": "MARINA",
+    "primer_apellido": "BERNAL",
+    "segundo_apellido": "PARRA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "032",
+    "primer_nombre": "MARY",
+    "segundo_nombre": "LUZ",
+    "primer_apellido": "HERRAN",
+    "segundo_apellido": "CARDENAS"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "033",
+    "primer_nombre": "EDWARD",
+    "segundo_nombre": "STEVEN",
+    "primer_apellido": "LIBREROS",
+    "segundo_apellido": "MAMBY"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "034",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "CONSUELO",
+    "primer_apellido": "AHUMADA",
+    "segundo_apellido": "BELTRAN"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "035",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "EDUARDO",
+    "primer_apellido": "TORO",
+    "segundo_apellido": "AVILA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "036",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "CONSTANZA",
+    "primer_apellido": "OSPINA",
+    "segundo_apellido": "GIRALDO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "037",
+    "primer_nombre": "ELSI",
+    "segundo_nombre": "GABRIELA",
+    "primer_apellido": "ANGULO",
+    "segundo_apellido": "ESPAÑA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "038",
+    "primer_nombre": "ALVARO",
+    "segundo_nombre": "LEON",
+    "primer_apellido": "CARDONA",
+    "segundo_apellido": "SALDARRIAGA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "040",
+    "primer_nombre": "GENER",
+    "segundo_nombre": "ALEXANDER",
+    "primer_apellido": "USUGA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "041",
+    "primer_nombre": "JOAQUIN",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "BAENA",
+    "segundo_apellido": "AREVALO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "042",
+    "primer_nombre": "BELEN",
+    "segundo_nombre": "ALARCON",
+    "primer_apellido": "ALARCON",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "043",
+    "primer_nombre": "ALFREDO",
+    "segundo_nombre": "ACOSTA",
+    "primer_apellido": "ZAPATA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "044",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "EUGENIA",
+    "primer_apellido": "RIVERA",
+    "segundo_apellido": "CARMONA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "045",
+    "primer_nombre": "ALVARO",
+    "segundo_nombre": "VILLARRAGA",
+    "primer_apellido": "SARMIENTO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "046",
+    "primer_nombre": "MARGARITA",
+    "segundo_nombre": "CECILIA",
+    "primer_apellido": "GULFO",
+    "segundo_apellido": "SUAREZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "047",
+    "primer_nombre": "LUIS",
+    "segundo_nombre": "FERNANDO",
+    "primer_apellido": "RENDON",
+    "segundo_apellido": "MERINO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "048",
+    "primer_nombre": "JACQUELINE",
+    "segundo_nombre": "CASTILLO",
+    "primer_apellido": "PEÑA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "049",
+    "primer_nombre": "NEMIAS",
+    "segundo_nombre": "GOMEZ",
+    "primer_apellido": "PEREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "050",
+    "primer_nombre": "EVA",
+    "segundo_nombre": "CAROLINA",
+    "primer_apellido": "MADRID",
+    "segundo_apellido": "TORRES"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "051",
+    "primer_nombre": "FERNANDO",
+    "segundo_nombre": "JOSE",
+    "primer_apellido": "FONSECA",
+    "segundo_apellido": "SIERRA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "052",
+    "primer_nombre": "TERESA",
+    "segundo_nombre": "CONSUELO",
+    "primer_apellido": "CARDONA",
+    "segundo_apellido": "GUERRERO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "053",
+    "primer_nombre": "FABIO",
+    "segundo_nombre": "IVAN",
+    "primer_apellido": "DIAZ",
+    "segundo_apellido": "GONZALEZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "054",
+    "primer_nombre": "NORMA",
+    "segundo_nombre": "LILIANA",
+    "primer_apellido": "PILLIMUE",
+    "segundo_apellido": "SALAMANCA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "055",
+    "primer_nombre": "OSCAR",
+    "segundo_nombre": "GERARDO",
+    "primer_apellido": "SALAZAR",
+    "segundo_apellido": "MUÑOZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "056",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "FREDDY",
+    "primer_apellido": "MOSQUERA",
+    "segundo_apellido": "YEPEZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "057",
+    "primer_nombre": "STALIN",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "BALLESTEROS",
+    "segundo_apellido": "GARCIA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "059",
+    "primer_nombre": "PEDRO",
+    "segundo_nombre": "JOSSE",
+    "primer_apellido": "VELASCO",
+    "segundo_apellido": "TUMIÑA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "060",
+    "primer_nombre": "ALBERTO",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "GASCON",
+    "segundo_apellido": "GIRALDO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "061",
+    "primer_nombre": "GALA",
+    "segundo_nombre": "YOLANDA",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "ACOSTA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "062",
+    "primer_nombre": "WILDER",
+    "segundo_nombre": "NAVARRO",
+    "primer_apellido": "QUINTERO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "063",
+    "primer_nombre": "ALHENA",
+    "segundo_nombre": "CAICEDO",
+    "primer_apellido": "FERNANDEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "064",
+    "primer_nombre": "VICTOR",
+    "segundo_nombre": "ELIAS",
+    "primer_apellido": "COPETE",
+    "segundo_apellido": "QUINTO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "065",
+    "primer_nombre": "JESUS",
+    "segundo_nombre": "LACIDES",
+    "primer_apellido": "MOSQUERA",
+    "segundo_apellido": "ANDRADE"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "066",
+    "primer_nombre": "CLAUDIA",
+    "segundo_nombre": "BIBIANA",
+    "primer_apellido": "CABRERA",
+    "segundo_apellido": "ROBERTO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "067",
+    "primer_nombre": "EMIRO",
+    "segundo_nombre": "DEL",
+    "primer_apellido": "CARMEN",
+    "segundo_apellido": "ROPERO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "068",
+    "primer_nombre": "MARY",
+    "segundo_nombre": "JURADO",
+    "primer_apellido": "PALOMINO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "069",
+    "primer_nombre": "HEMELSON",
+    "segundo_nombre": "MAYO",
+    "primer_apellido": "LOZANO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "071",
+    "primer_nombre": "RAFAEL",
+    "segundo_nombre": "ANTONIO",
+    "primer_apellido": "BALLEN",
+    "segundo_apellido": "MOLINA"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "081",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ANDRES",
+    "primer_apellido": "CHARRY",
+    "segundo_apellido": "GOMEZ"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "087",
+    "primer_nombre": "JOSE",
+    "segundo_nombre": "LEONIDAS",
+    "primer_apellido": "VALENZUELA",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "089",
+    "primer_nombre": "JHON",
+    "segundo_nombre": "HENRY",
+    "primer_apellido": "SANCHEZ",
+    "segundo_apellido": "CHAPARRO"
+  },
+  {
+    "id_partido": "0292",
+    "id_candidato": "092",
+    "primer_nombre": "ANA",
+    "segundo_nombre": "CRISTINA",
+    "primer_apellido": "MUÑOZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0184",
+    "id_candidato": "201",
+    "primer_nombre": "LOT",
+    "segundo_nombre": "USIEL",
+    "primer_apellido": "VILLAZON",
+    "segundo_apellido": "ARIAS"
+  },
+  {
+    "id_partido": "0184",
+    "id_candidato": "202",
+    "primer_nombre": "MARIA",
+    "segundo_nombre": "DE",
+    "primer_apellido": "LOS",
+    "segundo_apellido": "ANGELES"
+  },
+  {
+    "id_partido": "0184",
+    "id_candidato": "203",
+    "primer_nombre": "DIEGO",
+    "segundo_nombre": "EDINSON",
+    "primer_apellido": "DAGUA",
+    "segundo_apellido": "IPIA"
+  },
+  {
+    "id_partido": "0151",
+    "id_candidato": "201",
+    "primer_nombre": "LUZ",
+    "segundo_nombre": "MARINA",
+    "primer_apellido": "MORONBIA",
+    "segundo_apellido": "DUQUERESAMA"
+  },
+  {
+    "id_partido": "0177",
+    "id_candidato": "201",
+    "primer_nombre": "MARCELINO",
+    "segundo_nombre": "CHINDOY",
+    "primer_apellido": "CHICUNQUE",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0177",
+    "id_candidato": "202",
+    "primer_nombre": "ANDRES",
+    "segundo_nombre": "AGREDA",
+    "primer_apellido": "CHICUNQUE",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0177",
+    "id_candidato": "203",
+    "primer_nombre": "OSWALDO",
+    "segundo_nombre": "WILFREDO",
+    "primer_apellido": "HUETIO",
+    "segundo_apellido": "PRIETO"
+  },
+  {
+    "id_partido": "0156",
+    "id_candidato": "201",
+    "primer_nombre": "AIDA",
+    "segundo_nombre": "MARINA",
+    "primer_apellido": "QUILCUE",
+    "segundo_apellido": "VIVAS"
+  },
+  {
+    "id_partido": "0156",
+    "id_candidato": "202",
+    "primer_nombre": "DORIS",
+    "segundo_nombre": "ELENA",
+    "primer_apellido": "JACANAMIJOY",
+    "segundo_apellido": "JACANAMIJOY"
+  },
+  {
+    "id_partido": "0156",
+    "id_candidato": "203",
+    "primer_nombre": "HIGINIO",
+    "segundo_nombre": "OBISPO",
+    "primer_apellido": "GONZALEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0166",
+    "id_candidato": "201",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "FRANCISCO",
+    "primer_apellido": "ALMENDRA",
+    "segundo_apellido": "VELASCO"
+  },
+  {
+    "id_partido": "0166",
+    "id_candidato": "202",
+    "primer_nombre": "MIGUEL",
+    "segundo_nombre": "CHINDOY",
+    "primer_apellido": "BUESAQUILLO",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0166",
+    "id_candidato": "203",
+    "primer_nombre": "NINFA",
+    "segundo_nombre": "HERRERA",
+    "primer_apellido": "DOMINGUEZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0167",
+    "id_candidato": "201",
+    "primer_nombre": "JHONY",
+    "segundo_nombre": "APARICIO",
+    "primer_apellido": "RAMIREZ",
+    "segundo_apellido": ""
+  },
+  {
+    "id_partido": "0167",
+    "id_candidato": "202",
+    "primer_nombre": "KAREN",
+    "segundo_nombre": "ELIZABETH",
+    "primer_apellido": "BONILLA",
+    "segundo_apellido": "LAGUNA"
+  },
+  {
+    "id_partido": "0181",
+    "id_candidato": "201",
+    "primer_nombre": "NELSON",
+    "segundo_nombre": "DE",
+    "primer_apellido": "JESUS",
+    "segundo_apellido": "LOPEZ"
+  },
+  {
+    "id_partido": "0186",
+    "id_candidato": "201",
+    "primer_nombre": "POLIVIO",
+    "segundo_nombre": "LEANDRO",
+    "primer_apellido": "ROSALES",
+    "segundo_apellido": "CADENA"
+  },
+  {
+    "id_partido": "0186",
+    "id_candidato": "202",
+    "primer_nombre": "RICHARD",
+    "segundo_nombre": "HUMBERTO",
+    "primer_apellido": "FUELANTALA",
+    "segundo_apellido": "DELGADO"
+  },
+  {
+    "id_partido": "0186",
+    "id_candidato": "203",
+    "primer_nombre": "JAIFER",
+    "segundo_nombre": "PAUL",
+    "primer_apellido": "SIERRA",
+    "segundo_apellido": "MOREU"
+  },
+  {
+    "id_partido": "0026",
+    "id_candidato": "201",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "ADOLFO",
+    "primer_apellido": "MARTINEZ",
+    "segundo_apellido": "ARCOS"
+  },
+  {
+    "id_partido": "0026",
+    "id_candidato": "202",
+    "primer_nombre": "JIMMY",
+    "segundo_nombre": "JEOVANY",
+    "primer_apellido": "POLINDARA",
+    "segundo_apellido": "VELASCO"
+  },
+  {
+    "id_partido": "0026",
+    "id_candidato": "203",
+    "primer_nombre": "EGLENIS",
+    "segundo_nombre": "SARELA",
+    "primer_apellido": "HUAMAN",
+    "segundo_apellido": ""
+  }
+]

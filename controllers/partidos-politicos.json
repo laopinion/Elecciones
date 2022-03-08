@@ -1,0 +1,1370 @@
+[
+  {
+    "id_partido": "0001",
+    "nombre": "PARTIDO LIBERAL COLOMBIANO"
+  },
+  {
+    "id_partido": "0002",
+    "nombre": "PARTIDO CONSERVADOR COLOMBIANO"
+  },
+  {
+    "id_partido": "0003",
+    "nombre": "PARTIDO CAMBIO RADICAL"
+  },
+  {
+    "id_partido": "0004",
+    "nombre": "PARTIDO ALIANZA VERDE"
+  },
+  {
+    "id_partido": "0005",
+    "nombre": "MOVIMIENTO AUTORIDADES INDIGENAS DE COLOMBIA \"AICO"
+  },
+  {
+    "id_partido": "0006",
+    "nombre": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI"
+  },
+  {
+    "id_partido": "0007",
+    "nombre": "PARTIDO POLITICO MIRA"
+  },
+  {
+    "id_partido": "0008",
+    "nombre": "PARTIDO DE LA UNION POR LA GENTE \"PARTIDO DE LA U"
+  },
+  {
+    "id_partido": "0009",
+    "nombre": "PARTIDO POLO DEMOCRATICO ALTERNATIVO"
+  },
+  {
+    "id_partido": "0011",
+    "nombre": "PARTIDO CENTRO DEMOCRATICO"
+  },
+  {
+    "id_partido": "0013",
+    "nombre": "PARTIDO COMUNES"
+  },
+  {
+    "id_partido": "0014",
+    "nombre": "PARTIDO COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0015",
+    "nombre": "PARTIDO COLOMBIA RENACIENTE"
+  },
+  {
+    "id_partido": "0016",
+    "nombre": "ALIANZA DEMOCR?TICA AMPLIA \"ADA"
+  },
+  {
+    "id_partido": "0017",
+    "nombre": "PARTIDO POLITICO DIGNIDAD"
+  },
+  {
+    "id_partido": "0019",
+    "nombre": "PARTIDO NUEVO LIBERALISMO"
+  },
+  {
+    "id_partido": "0020",
+    "nombre": "ALIANZA NACIONAL AFROCOLOMBIANA"
+  },
+  {
+    "id_partido": "0021",
+    "nombre": "PALENQUE DE LA VEREDA LAS TRECIENTAS Y DEL MUNICIPIO DE GALAPA"
+  },
+  {
+    "id_partido": "0022",
+    "nombre": "CONSEJO COMUNITARIO UNI�N PATIA VIEJO"
+  },
+  {
+    "id_partido": "0023",
+    "nombre": "CONSEJO COMUNITARIO MAYOR DE CERTEGUI"
+  },
+  {
+    "id_partido": "0025",
+    "nombre": "CONSEJO COMUNITARIO DE COMUNIDADES NEGRAS DE CAMPO HERMOSO"
+  },
+  {
+    "id_partido": "0026",
+    "nombre": "O.S.A ORGANIZACION SOCIO-POLITICA ANCESTRAL"
+  },
+  {
+    "id_partido": "0027",
+    "nombre": "CONSEJO COMUNITARIO BOCAS DEL ATRATO Y LEONCITO"
+  },
+  {
+    "id_partido": "0028",
+    "nombre": "ASOCIACION AFRODESCENDIENTES DE ARBOLETES \"AFRODESAR"
+  },
+  {
+    "id_partido": "0029",
+    "nombre": "AFROMUTATA"
+  },
+  {
+    "id_partido": "0037",
+    "nombre": "CONSEJO COMUNITARIO DE LA COSTA PACIFICA \"CONCOSTA"
+  },
+  {
+    "id_partido": "0038",
+    "nombre": "CONSEJO COMUNITARIO VEREDAS UNIDAS UN BIEN COMUN"
+  },
+  {
+    "id_partido": "0039",
+    "nombre": "CONSEJO MAYOR CONDOTO IRO"
+  },
+  {
+    "id_partido": "0040",
+    "nombre": "CONSEJO COMUNITARIO INTEGRAL DE LLORO"
+  },
+  {
+    "id_partido": "0041",
+    "nombre": "CONSEJO COMUNITARIO LA VOZ DE LOS NEGROS"
+  },
+  {
+    "id_partido": "0042",
+    "nombre": "CONSEJO COMUNITARIO ALTO PARAISO"
+  },
+  {
+    "id_partido": "0043",
+    "nombre": "ORGANIZACION ETNICA DE COMUNIDADES AFROS LOS PALENKES"
+  },
+  {
+    "id_partido": "0044",
+    "nombre": "CONSEJO COMUNITARIO RIO-CURBARADO"
+  },
+  {
+    "id_partido": "0045",
+    "nombre": "CONSEJO COMUNIT. RECUERDO DE NUESTROS ANCESTROS RIO MEJICANO"
+  },
+  {
+    "id_partido": "0046",
+    "nombre": "CONSEJO COMUNITARIO DE COMUNIDADES NEGRAS DE GUAYABAL"
+  },
+  {
+    "id_partido": "0057",
+    "nombre": "PARTIDO COLOMBIA RENACIENTE"
+  },
+  {
+    "id_partido": "0058",
+    "nombre": "CONSEJO COMUNITARIO MANUEL ZAPATA OLIVELLA DE SAN ANTERO"
+  },
+  {
+    "id_partido": "0059",
+    "nombre": "CONSEJO COMUNIT. PIEDRAS BACHICHI CORREG. SANTA CECILIA"
+  },
+  {
+    "id_partido": "0060",
+    "nombre": "CONSEJO COMUNITARIO PUERTO GIRON"
+  },
+  {
+    "id_partido": "0067",
+    "nombre": "C.C LA TOMA"
+  },
+  {
+    "id_partido": "0068",
+    "nombre": "CONSEJO COMUNITARIO DEL RIO GUAJUI"
+  },
+  {
+    "id_partido": "0069",
+    "nombre": "FERNANDO RIOS HIDALGO"
+  },
+  {
+    "id_partido": "0070",
+    "nombre": "FUNDACION PARA EL DESARROLLO SOCIAL DE COMUNIDADES NEGRAS"
+  },
+  {
+    "id_partido": "0077",
+    "nombre": "CONSEJO COMUNITARIO DE LA COMUNIDAD NEGRA DE VILLA GLORIA"
+  },
+  {
+    "id_partido": "0078",
+    "nombre": "MOVIMIENTO ALIANZA DEMOCRATICA AMPLIA"
+  },
+  {
+    "id_partido": "0079",
+    "nombre": "CONSEJO COMUNITARIO BOCAS DE TAPARAL"
+  },
+  {
+    "id_partido": "0081",
+    "nombre": "CONSEJO COMUNITARIO DE FLAMENCO - MUNICIPIO DE MARIA LA BAJA"
+  },
+  {
+    "id_partido": "0084",
+    "nombre": "ODEPRIVICOR"
+  },
+  {
+    "id_partido": "0085",
+    "nombre": "FUNDACION SOCIAL MAGENDE MI"
+  },
+  {
+    "id_partido": "0087",
+    "nombre": "CONSEJO COMUNITARIO ARCILLA, CARDON Y TUNA"
+  },
+  {
+    "id_partido": "0089",
+    "nombre": "COACNEJA"
+  },
+  {
+    "id_partido": "0091",
+    "nombre": "CONMOGUZ"
+  },
+  {
+    "id_partido": "0092",
+    "nombre": "CONSEJO COMUNITARIO DE COMUNIDADES NEGRAS SOCOLANDO"
+  },
+  {
+    "id_partido": "0093",
+    "nombre": "COMUNIDAD DE NEGROS DE AGUAS BLANCAS"
+  },
+  {
+    "id_partido": "0097",
+    "nombre": "CONSEJO COMUNITARIO DE LA COMUNIDAD NEGRA LIMONES"
+  },
+  {
+    "id_partido": "0099",
+    "nombre": "CONSEJO COMUNITARIO AFROZABALETAS"
+  },
+  {
+    "id_partido": "0100",
+    "nombre": "CORPORACION DE EDUCADORES DEL LITORAL PACIFICO CORELIPA"
+  },
+  {
+    "id_partido": "0101",
+    "nombre": "ASOC. AFROCOL. DESPLAZADOS MCPIO. GUACARI VALLE DEL CAUCA \"ADAG"
+  },
+  {
+    "id_partido": "0102",
+    "nombre": "SOMOS IDENTIDAD"
+  },
+  {
+    "id_partido": "0103",
+    "nombre": "CONSEJO COMUNITARIO DE LOS CORREGIMIENTOS DE SAN ANTONIO Y EL CASTILLO MUNICIPIO DE EL CERRITO"
+  },
+  {
+    "id_partido": "0104",
+    "nombre": "CONSEJO COMUNITARIO DEL GUABAL"
+  },
+  {
+    "id_partido": "0112",
+    "nombre": "CONSEJO COMUNITARIO RESCATE LAS VARAS"
+  },
+  {
+    "id_partido": "0114",
+    "nombre": "CONSEJO COMUNITARIO DE VUELTA MANZA"
+  },
+  {
+    "id_partido": "0116",
+    "nombre": "CORPORACION KOFI ANNAN"
+  },
+  {
+    "id_partido": "0151",
+    "nombre": "DEMOCRACIA DESDE ABAJO LA  PALMA"
+  },
+  {
+    "id_partido": "0156",
+    "nombre": "MOVIMIENTO ALTERNATIVO INDIGENA SOCIAL \"MAIS"
+  },
+  {
+    "id_partido": "0157",
+    "nombre": "CONSEJO COMUNITARIO MAYOR DE CASIMIRO"
+  },
+  {
+    "id_partido": "0166",
+    "nombre": "MANDATO AMBIENTAL"
+  },
+  {
+    "id_partido": "0167",
+    "nombre": "ASOCIACION NACIONAL DE CABILDOS Y AUTORIDADES INDIGENAS EN COLOMBIA ANICOL"
+  },
+  {
+    "id_partido": "0168",
+    "nombre": "RESGUARDO INDIGENA ALTA Y MEDIA GUAJIRA"
+  },
+  {
+    "id_partido": "0177",
+    "nombre": "PARTIDO INDIGENA COLOMBIANO P.I.C"
+  },
+  {
+    "id_partido": "0181",
+    "nombre": "RESGUARDO CAMPO ALEGRE"
+  },
+  {
+    "id_partido": "0182",
+    "nombre": "RESGUARDO INDIGENA ZEN DEL ALTO SAN JORGE"
+  },
+  {
+    "id_partido": "0183",
+    "nombre": "CABILDO INDIGENA AYWJAWASHI"
+  },
+  {
+    "id_partido": "0184",
+    "nombre": "ASOCIACION DE CABILDOS INDIGENAS POR COLOMBIA"
+  },
+  {
+    "id_partido": "0186",
+    "nombre": "MOVIMIENTO AUTORIDADES IND?GENAS DE COLOMBIA \"AICO"
+  },
+  {
+    "id_partido": "0201",
+    "nombre": "COALICION PARTIDOS CAMBIO RADICAL - COLOMBIA JUSTA LIBRES - MIRA"
+  },
+  {
+    "id_partido": "0202",
+    "nombre": "COALICION PARTIDO CONSERVADOR COLOMBIANO Y PARTIDO DE LA \"U"
+  },
+  {
+    "id_partido": "0203",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0211",
+    "nombre": "PACTO HISTORICO"
+  },
+  {
+    "id_partido": "0221",
+    "nombre": "COALICION PARTIDO DE LA U Y PARTIDO COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0222",
+    "nombre": "COALICION MIRA - COLOMBIA JUSTA LIBRES."
+  },
+  {
+    "id_partido": "0223",
+    "nombre": "COALICION PARTIDO LIBERAL COLOMBIANO - PARTIDO ASI"
+  },
+  {
+    "id_partido": "0224",
+    "nombre": "COALICION MIRA- COLOMBIA JUSTA LIBRES - SALVACION NACIONAL"
+  },
+  {
+    "id_partido": "0225",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0226",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0227",
+    "nombre": "COALICION ALIANZA VERDE CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0231",
+    "nombre": "COALICION MIRA -  COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0232",
+    "nombre": "COALICION PARTIDO CONSERVADOR COLOMBIANO Y PARTIDO CENTRO DEMOCRATICO"
+  },
+  {
+    "id_partido": "0233",
+    "nombre": "COAL. PARTS. DE LA U. MIRA Y CAMBIO RADICAL"
+  },
+  {
+    "id_partido": "0234",
+    "nombre": "ALTERNATIVOS"
+  },
+  {
+    "id_partido": "0235",
+    "nombre": "COALICION MOVIMIENTO SALVACION NACIONAL Y COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0241",
+    "nombre": "COAL. PARTIDOS CAMBIO RADICAL Y COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0242",
+    "nombre": "COALICION PARTIDO CAMBIO RADICAL Y PARTIDO POLITICO MIRA"
+  },
+  {
+    "id_partido": "0243",
+    "nombre": "COALICION PARTIDOS CONSERVADOR COLOMBIANO - COLOMBIA JUSTA LIBRES - PARTIDO SALVACION NACIONAL"
+  },
+  {
+    "id_partido": "0244",
+    "nombre": "PACTO HISTORICO Y VERDES"
+  },
+  {
+    "id_partido": "0245",
+    "nombre": "COALICION JUNTOS POR CALDAS"
+  },
+  {
+    "id_partido": "0246",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0251",
+    "nombre": "COAL. PARTS. DE LA U - MIRA Y COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0252",
+    "nombre": "FUERZA COLOMBIA"
+  },
+  {
+    "id_partido": "0253",
+    "nombre": "COALICION PARTIDO LIBERAL COLOMBIANO - COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0254",
+    "nombre": "COALICION MIRA-CENTRO DEMOCRATICO-COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0255",
+    "nombre": "COALICION ALIANZA VERDE Y CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0257",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0258",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0261",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0262",
+    "nombre": "COALICION PARTIDOS CONSERVADOR COLOMBIANO - COLOMBIA JUSTA  LIBRES - PARTIDO POLITICO MIRA"
+  },
+  {
+    "id_partido": "0263",
+    "nombre": "COALICION PARTIDO POLITICO MIRA- PARTIDO POLITICO CENTRO DEMOCRATICO"
+  },
+  {
+    "id_partido": "0264",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0265",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0266",
+    "nombre": "PACTO HISTORICO"
+  },
+  {
+    "id_partido": "0267",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0271",
+    "nombre": "COALICION PARTIDOS DE LA U - MIRA - COLOMBIA JUSTA LIBRES - ASI"
+  },
+  {
+    "id_partido": "0273",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0281",
+    "nombre": "COALICION PARTIDOS CAMBIO RADICAL - COLOMBIA JUSTA LIBRES - MIRA - DE LA U"
+  },
+  {
+    "id_partido": "0282",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0290",
+    "nombre": "PACTO HISTORICO"
+  },
+  {
+    "id_partido": "0291",
+    "nombre": "PACTO HISTO?RICO ALIANZA VERDE"
+  },
+  {
+    "id_partido": "0292",
+    "nombre": "PACTO HISTORICO"
+  },
+  {
+    "id_partido": "0294",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0301",
+    "nombre": "MOVIMIENTO POLITICO COLOMBIA HUMANA"
+  },
+  {
+    "id_partido": "0302",
+    "nombre": "MOVIMIENTO DE SALVACION NACIONAL"
+  },
+  {
+    "id_partido": "0303",
+    "nombre": "ASOC. VICTIMAS DESPLAZADOS CONFLICTO ARMADO DE SANTA ROSA (ADESAN)"
+  },
+  {
+    "id_partido": "0304",
+    "nombre": "ASOCIACION VICTIMAS DE CRIMENES DEL ESTADO ASORVIMM"
+  },
+  {
+    "id_partido": "0305",
+    "nombre": "ASOCIACION DE VICTIMAS MILITARES ASOVIMIL"
+  },
+  {
+    "id_partido": "0306",
+    "nombre": "MUDEVISA"
+  },
+  {
+    "id_partido": "0307",
+    "nombre": "ASOCIACION CONSEJO DE AUTORIDADES WOUNDEKO"
+  },
+  {
+    "id_partido": "0308",
+    "nombre": "REVIVIR SIPI"
+  },
+  {
+    "id_partido": "0309",
+    "nombre": "ASOMEVICTIMAS"
+  },
+  {
+    "id_partido": "0310",
+    "nombre": "ASOCIACION DE VICTIMAS CAMINOS DE ESPERANZA LAS MERCEDES"
+  },
+  {
+    "id_partido": "0311",
+    "nombre": "ASOCIACION DE FAMILIAS DESPLAZADAS DE HACARI - ASOFADHACA"
+  },
+  {
+    "id_partido": "0312",
+    "nombre": "TEJIENDO SUE�OS"
+  },
+  {
+    "id_partido": "0313",
+    "nombre": "ASOCIACION DE MUJERES VICTIMAS DE VILLAGARZON ADMUVIV"
+  },
+  {
+    "id_partido": "0314",
+    "nombre": "ASOCIACION DE JUVENTUD EMPRENDEDORA Y VICTIMA DEL CONFLICTO"
+  },
+  {
+    "id_partido": "0315",
+    "nombre": "POR UN MA�ANA MEJOR"
+  },
+  {
+    "id_partido": "0316",
+    "nombre": "ASOC. RETORNO RENACIENDO EL CAMPO SANTA RITA Y BALSILLAS DE ATACO"
+  },
+  {
+    "id_partido": "0317",
+    "nombre": "FUNDACION VICTIMAS CON FUTURO CIERTO FUNVICIERTO"
+  },
+  {
+    "id_partido": "0318",
+    "nombre": "FUNDACION DESPLAZADOS VICTIMAS DE LA VIOLENCIA DEL TOLIMA"
+  },
+  {
+    "id_partido": "0319",
+    "nombre": "ASOCIACION VICTIMAS NUCLEO SANTIAGO PEREZ ASVICNUSAPER"
+  },
+  {
+    "id_partido": "0320",
+    "nombre": "ASOLIVIPAZ"
+  },
+  {
+    "id_partido": "0321",
+    "nombre": "COMUPAZ"
+  },
+  {
+    "id_partido": "0322",
+    "nombre": "ASOCIACION DE DESPLAZADOS DE NECOCLI- ASODENE"
+  },
+  {
+    "id_partido": "0323",
+    "nombre": "ASOCIACION DE DESPLAZADOS DEL MUNICIPIO DE BRICE�O"
+  },
+  {
+    "id_partido": "0324",
+    "nombre": "CREDHOS"
+  },
+  {
+    "id_partido": "0325",
+    "nombre": "ASOCIACION DE DESPLAZADOS Y MUJERES DE ANTIOQUIA \"ADMA"
+  },
+  {
+    "id_partido": "0326",
+    "nombre": "CORPORACION AMBIENTAL Y SOCIAL CONSTRUYENDO PAZ - COAPAZ"
+  },
+  {
+    "id_partido": "0328",
+    "nombre": "ASOCIACION DE DESPLAZADOS DEL MUNICIPIO DE EL DONCELLO"
+  },
+  {
+    "id_partido": "0329",
+    "nombre": "COMITE DE VICTIMAS, RESTITUCION DE TIERRA VIDA SAN VICENTE DEL CAGUAN"
+  },
+  {
+    "id_partido": "0330",
+    "nombre": "ASOCIACION DE DESPLAZADOS DE PE�AS COLORADAS FLORENCIA"
+  },
+  {
+    "id_partido": "0331",
+    "nombre": "ASOC. POR LA DIGNIDAD DE LAS VICTIMAS SOVIPM?                                                                                                                                                        N"
+  },
+  {
+    "id_partido": "0332",
+    "nombre": "ASOC. AGROPECUARIA MUJERES VICTIMAS DE JERICO - ASOMUVIJ"
+  },
+  {
+    "id_partido": "0333",
+    "nombre": "RED DE VICTIMAS TEJEDORAS DE LA MEMORIA"
+  },
+  {
+    "id_partido": "0334",
+    "nombre": "ASOCIACION COLOMBIA PROFUNDA"
+  },
+  {
+    "id_partido": "0335",
+    "nombre": "ASOCIACION DE VICTIMAS DEL CESAR ASOVICE"
+  },
+  {
+    "id_partido": "0336",
+    "nombre": "ASOCIACION MARIA MECHE"
+  },
+  {
+    "id_partido": "0337",
+    "nombre": "FUNDACION DE VICTIMAS DEL CESAR - FUNDAVICE"
+  },
+  {
+    "id_partido": "0338",
+    "nombre": "ASOCIACION DE ASPIRANTES AL RETORNO DEL PREDIO \"RENACER"
+  },
+  {
+    "id_partido": "0339",
+    "nombre": "ASOCIACION DE VICTIMAS INTERCULTURAL Y REGIONAL"
+  },
+  {
+    "id_partido": "0340",
+    "nombre": "CORPORACION AMBIENTAL Y SOCIAL CONSTRUYENDO PAZ - COAPAZ"
+  },
+  {
+    "id_partido": "0341",
+    "nombre": "ASOCIACION DE SOBREVIVIENTES DE MINAS ANTIPERSONAL LUCHANDO POR LA DIGNIDAD Y LA PAZ"
+  },
+  {
+    "id_partido": "0342",
+    "nombre": "COMITE PERMANENTE POR LA DEFENSA DE LOS DERECHOS HUMANOS ARAUCA"
+  },
+  {
+    "id_partido": "0343",
+    "nombre": "GRUPO ASOCIADOS AGROPECUARIOS SANTO DOMINGO"
+  },
+  {
+    "id_partido": "0344",
+    "nombre": "ASOCIACION GRANJA INTEGRAL TAMARINDO \"GRANITA"
+  },
+  {
+    "id_partido": "0345",
+    "nombre": "FUNDACION PARA EL DESARROLLO SOCIAL DE LA ORINOQUIA"
+  },
+  {
+    "id_partido": "0346",
+    "nombre": "ASOCIACION DE PRODUCTORES AGROINDUSTRIALES DE MONTERREY SUR"
+  },
+  {
+    "id_partido": "0347",
+    "nombre": "FEDERACION AGROMINERA DEL SUR DE BOLIVAR FEDEAGROMISBOL"
+  },
+  {
+    "id_partido": "0348",
+    "nombre": "ASOCIACION DE HOMBRES DE MI TIERRA"
+  },
+  {
+    "id_partido": "0350",
+    "nombre": "MUJERES VISIONARIAS"
+  },
+  {
+    "id_partido": "0351",
+    "nombre": "ASOCIACI?N DE PEQUE�OS PRODUCTORES AFRODESCENDIENTE DE LA ZONA PLATANERA DE SAN ONOFRE"
+  },
+  {
+    "id_partido": "0352",
+    "nombre": "CORPORACION INTERETNICA Y ECUM?NICA POR EL DESARROLLO, LA RECONCILIACI?N Y LA PAZ TERRITORIAL"
+  },
+  {
+    "id_partido": "0353",
+    "nombre": "COMITE 2 DE MAYO"
+  },
+  {
+    "id_partido": "0354",
+    "nombre": "ASOCIACION DE AFROCOLOMBIANOS DEL GUAVIARE"
+  },
+  {
+    "id_partido": "0355",
+    "nombre": "CORP. MESA  FORTALECIMIENTO DE ORG. POBLACION DESPLAZADA NORTE DE SANTANDER"
+  },
+  {
+    "id_partido": "0356",
+    "nombre": "CORPORACION RED DEPARTAMENTAL DE DEFENSORES DE DERECHOS HUMANOS"
+  },
+  {
+    "id_partido": "0357",
+    "nombre": "ASOCIACION EL PROGRESO"
+  },
+  {
+    "id_partido": "0358",
+    "nombre": "AFRO CIMARRON PUTUMAYO"
+  },
+  {
+    "id_partido": "0359",
+    "nombre": "FUNDACION GRUPO AMIGOS DE LA BIBLIOTECA"
+  },
+  {
+    "id_partido": "0360",
+    "nombre": "FUNDACION PARA EL DESARROLLO SOCIAL Y EMPRESARIAL FUNDESOE"
+  },
+  {
+    "id_partido": "0361",
+    "nombre": "FUNDACION MIL JOVENES POR EL PROGRESO DE UN PUEBLO"
+  },
+  {
+    "id_partido": "0362",
+    "nombre": "ASOCIACION DE DESPLAZADOS DEL SUR DEL TOLIMA"
+  },
+  {
+    "id_partido": "0363",
+    "nombre": "FUNVISOC"
+  },
+  {
+    "id_partido": "0364",
+    "nombre": "FUNDACIO?N COMUNIDAD TERAPEUTICA FUERZA Y VOLUNTAD"
+  },
+  {
+    "id_partido": "0365",
+    "nombre": "COOP. SOCIAL MULTIACTIVA TRABAJANDO JUNTOS - COOSOCIALTJ"
+  },
+  {
+    "id_partido": "0366",
+    "nombre": "FUNDACION PARA EL DESARROLLO INTEGRAL DE VICTIMAS Y DISCAPACITADOS FUNDAMASVIDA"
+  },
+  {
+    "id_partido": "0367",
+    "nombre": "CORPORACION CORAZONES VERDES"
+  },
+  {
+    "id_partido": "0368",
+    "nombre": "CORPORACION REDESC"
+  },
+  {
+    "id_partido": "0369",
+    "nombre": "ASOCIACION DE VICTIMAS DE LA VIOLENCIA EN RIOSUCIO CLAMORES"
+  },
+  {
+    "id_partido": "0370",
+    "nombre": "GENTEYBOSQUES"
+  },
+  {
+    "id_partido": "0371",
+    "nombre": "ASOCIACION FAMILIAR Y AMIGOS DEL CHOCO - ASFACHOCO"
+  },
+  {
+    "id_partido": "0372",
+    "nombre": "ASOCIACION LA MESA MINERA SEGOVIA- REMEDIOS"
+  },
+  {
+    "id_partido": "0373",
+    "nombre": "ASOCIACION COMITE DE DESPLAZADOS MANO DE DIOS NUEVO AMANECER (ASOCODEMAN)"
+  },
+  {
+    "id_partido": "0374",
+    "nombre": "CORPORACION FELICIDAD COMPARTIDA"
+  },
+  {
+    "id_partido": "0375",
+    "nombre": "ASOGRECAN"
+  },
+  {
+    "id_partido": "0376",
+    "nombre": "CORPORACION SOCIAL Y DEPORTIVA COMUNIDADES NEGRAS AFRODECENDIENTES DE TURBO HARAMBE"
+  },
+  {
+    "id_partido": "0377",
+    "nombre": "CORPORACION CREAMOS URAB.- CORPOCREAMOS"
+  },
+  {
+    "id_partido": "0378",
+    "nombre": "ASOC.  PROD. AGROPECUARIOS  VEREDA LA ESPERANZA- ASPROAGES"
+  },
+  {
+    "id_partido": "0379",
+    "nombre": "CORPORACION VISION GENTE CORPOVIGENTE"
+  },
+  {
+    "id_partido": "0380",
+    "nombre": "OBSERVATORIO DE MOVS. SOC. PACES Y CONFLICTOS WRAMBA FXIW"
+  },
+  {
+    "id_partido": "0381",
+    "nombre": "ASOCIACION DE VICTIMAS RENACER SIGLO XXI"
+  },
+  {
+    "id_partido": "0382",
+    "nombre": "ASOCIACION PROTEGER"
+  },
+  {
+    "id_partido": "0383",
+    "nombre": "ASOINTEC"
+  },
+  {
+    "id_partido": "0384",
+    "nombre": "FUNDACION ESPERANZA M?DICA"
+  },
+  {
+    "id_partido": "0385",
+    "nombre": "ASOCIACION DE PRODUCTORES PARA LA GESTION Y DESARROLLO COMUNITARIO"
+  },
+  {
+    "id_partido": "0386",
+    "nombre": "UNION DE ORGS. SOCIALES, AGRARIAS Y AMBIENTALES (UNIOS)"
+  },
+  {
+    "id_partido": "0387",
+    "nombre": "FUNDACION IGUALDAD SOCIAL"
+  },
+  {
+    "id_partido": "0388",
+    "nombre": "FUNDACION ALCATRAZ"
+  },
+  {
+    "id_partido": "0389",
+    "nombre": "VICTIMAS"
+  },
+  {
+    "id_partido": "0390",
+    "nombre": "CORPORACION DE DESPLAZADOS MI CONSUELO CAMPESINO \"MICONCAMP"
+  },
+  {
+    "id_partido": "0391",
+    "nombre": "ASOCIACION DE MUJERES DESPLAZADAS DEL META \"ASOMUDEM"
+  },
+  {
+    "id_partido": "0392",
+    "nombre": "ASOCIACION DE VICTIMAS FORJANDO FUTURO \"FORFUR"
+  },
+  {
+    "id_partido": "0393",
+    "nombre": "ASOCIACION AFRODESCENDIENTES DE NUEVO TAY - AFRODENUTAY"
+  },
+  {
+    "id_partido": "0394",
+    "nombre": "FUNAFROPECOR"
+  },
+  {
+    "id_partido": "0395",
+    "nombre": "FUNDACION SOLUCIONES SOCIALES Y EMPRESARIALES - SOCIEM"
+  },
+  {
+    "id_partido": "0396",
+    "nombre": "ORGANIZACION DE ETNIAS AFRODESCENDIENTES DE NUEVO TAY MUNICIPIO DE TIERRALTA CORDOBA - AFROTAY"
+  },
+  {
+    "id_partido": "0397",
+    "nombre": "ORGANIZACIN SOCIAL  NEGRITUDES UNIDAS NEGRIHUMA"
+  },
+  {
+    "id_partido": "0398",
+    "nombre": "ASOENTORNO"
+  },
+  {
+    "id_partido": "0399",
+    "nombre": "CORPORACION PARA EL DESARROLLO COMUNITARIO RINCON DEL MAR"
+  },
+  {
+    "id_partido": "0400",
+    "nombre": "ASOCIACION DE APICULTORES DE COLOSO"
+  },
+  {
+    "id_partido": "0401",
+    "nombre": "FUNDACION AMIGOS POR UN MEJOR FUTURO"
+  },
+  {
+    "id_partido": "0402",
+    "nombre": "FUNDACION FESTIVAL NACIONAL DEL BULLERENGUE"
+  },
+  {
+    "id_partido": "0403",
+    "nombre": "ASOCIACION UNIDOS LA SIBERIA"
+  },
+  {
+    "id_partido": "0404",
+    "nombre": "FUNDACION NI�OS Y NI�AS Y ADOLESCENTES DE COLOMBIA"
+  },
+  {
+    "id_partido": "0405",
+    "nombre": "ASOCIACION PARA EL DESARROLLO CULTURAL Y EDUCATIVO"
+  },
+  {
+    "id_partido": "0406",
+    "nombre": "FUNDACION PARA EL DESARROLLO ECOLOGICO Y LA CONSTRUCCION FUNDACON"
+  },
+  {
+    "id_partido": "0407",
+    "nombre": "FUNDACION LA NUEVA COLONIA UNIDA"
+  },
+  {
+    "id_partido": "0408",
+    "nombre": "FUNDACION PARA EL DESARROLLO ALTERNATIVO AMBIENTAL TURUSTICO"
+  },
+  {
+    "id_partido": "0409",
+    "nombre": "FUNDACION SOCIAL AFROCOLOMBIANOS DEL PACIFICO"
+  },
+  {
+    "id_partido": "0410",
+    "nombre": "ORGANIZACION ETNICA CULTURAL PLAN DE VIDA"
+  },
+  {
+    "id_partido": "0411",
+    "nombre": "FUNDACION PROGRESEMOS PACIFICO (FUNDAPROPA)"
+  },
+  {
+    "id_partido": "0412",
+    "nombre": "FUNDACION ETNO EDUCATIVA EMPRESARIAL (FUNDEE)"
+  },
+  {
+    "id_partido": "0413",
+    "nombre": "FUNDACION RENACER SOCIAL DEL PACIFICO COLOMBIANO"
+  },
+  {
+    "id_partido": "0414",
+    "nombre": "ASOCIACION DE DESPLAZADOS FUTUROS DEL MA�ANA"
+  },
+  {
+    "id_partido": "0415",
+    "nombre": "AFRODES CAPITULO TUMACO ETNICO"
+  },
+  {
+    "id_partido": "0416",
+    "nombre": "ASOCIACION DE CONSEJOS COMUNITARIOS Y ORGANIZACIONES ETNICO TERRITORIALES EN NARI�O"
+  },
+  {
+    "id_partido": "0417",
+    "nombre": "ASOCIACION MUNICIPAL DE PESCADORES ARTESANALES DEL MUNICIPIO DE TUMACO NARI�O LOS FAENEROS DEL MAR"
+  },
+  {
+    "id_partido": "0418",
+    "nombre": "ASOCIACION COMUNITARIA DE POBLACION DESPLAZADA DEL MUNICIPIO DEL CHARCO NARI�O LA MINGA"
+  },
+  {
+    "id_partido": "0419",
+    "nombre": "CORPORACION RED DE CONSEJOS COMUNITARIOS DEL PACIFICO SUR RECOMPAS"
+  },
+  {
+    "id_partido": "0420",
+    "nombre": "FUNDACION AFRODESCENDIENTE GENTE ACTIVA"
+  },
+  {
+    "id_partido": "0421",
+    "nombre": "ASOCIACION DE CAMPESINOS Y POBLACION DESPLAZADA Y COMUNIDADES NEGRAS EN VALLEDUPAR - CAMPODES"
+  },
+  {
+    "id_partido": "0422",
+    "nombre": "FUNDACION POR UN VIVIR MEJOR - FUNVIMEJOR"
+  },
+  {
+    "id_partido": "0423",
+    "nombre": "ASOCIACION NACIONAL DE DESPLAZADOS UNIDOS DE COLOMBIA"
+  },
+  {
+    "id_partido": "0424",
+    "nombre": "ANDEMVI"
+  },
+  {
+    "id_partido": "0425",
+    "nombre": "ASOC. DESPLAZADOS POR VIOLENCIA RADICADOS EN AGUSTIN CODAZZI"
+  },
+  {
+    "id_partido": "0426",
+    "nombre": "CORPORACION CONSTRUCTORES DE PAZ Y DESARROLLO SOSTENIBLE"
+  },
+  {
+    "id_partido": "0427",
+    "nombre": "FUNDACION PROCRECER"
+  },
+  {
+    "id_partido": "0428",
+    "nombre": "ASOCIACION PAZ ES VIDA (PA-VIDA)"
+  },
+  {
+    "id_partido": "0429",
+    "nombre": "ASOCIACION ALIANZA POR LA VIDA"
+  },
+  {
+    "id_partido": "0430",
+    "nombre": "ASOC. USUARIOS HOSPITAL ROSARIO PUMAREJO DE LOPEZ"
+  },
+  {
+    "id_partido": "0431",
+    "nombre": "PAIS DE POCABUY"
+  },
+  {
+    "id_partido": "0432",
+    "nombre": "FUNDACION DE DESPLAZADOS DE ARACATACA"
+  },
+  {
+    "id_partido": "0433",
+    "nombre": "FUNDACION PESCAITO"
+  },
+  {
+    "id_partido": "0434",
+    "nombre": "FUNDACION HUELLA NATIVA"
+  },
+  {
+    "id_partido": "0435",
+    "nombre": "FUNDACION MVC"
+  },
+  {
+    "id_partido": "0436",
+    "nombre": "FUNDACION AYUDAMOSNOS"
+  },
+  {
+    "id_partido": "0437",
+    "nombre": "FUNDACION DE MUJERES DESPLAZADAS Y VICTIMAS POR EL CONFLICTO"
+  },
+  {
+    "id_partido": "0438",
+    "nombre": "FUNDACION DIOCESANA COMPARTIR"
+  },
+  {
+    "id_partido": "0439",
+    "nombre": "GRUPO EMPRESARIAL AFROCOLOMBIANO FEDEAFRO"
+  },
+  {
+    "id_partido": "0440",
+    "nombre": "ASPRO?AME"
+  },
+  {
+    "id_partido": "0441",
+    "nombre": "ASOCIACION DE PRODUCTORES DE CACAO APROCASUR"
+  },
+  {
+    "id_partido": "0442",
+    "nombre": "ASOC. PRODUCTORES CAMPESINOS Y V?CTIMAS DEL SUR BOLIVAR"
+  },
+  {
+    "id_partido": "0443",
+    "nombre": "ASOC. CAMPESINA PARA EL DESARROLLO AGROPECUARIO DE SIMIT"
+  },
+  {
+    "id_partido": "0444",
+    "nombre": "CORPORACION MUNICIPAL AGROECOLOGICA DE ALGECIRAS \"COMUNAS"
+  },
+  {
+    "id_partido": "0445",
+    "nombre": "ASOCIACION DE PRODUCTORES DE MESALLANA"
+  },
+  {
+    "id_partido": "0446",
+    "nombre": "ASOCIACION DE CAMPESINOS DE URABA"
+  },
+  {
+    "id_partido": "0447",
+    "nombre": "ASOCIACION DE CAMPESINOS UNIDOS DE CAUCASIA- ASOCAMUC"
+  },
+  {
+    "id_partido": "0448",
+    "nombre": "CRECIENDO JUNTO AL RIO"
+  },
+  {
+    "id_partido": "0449",
+    "nombre": "ASOCCOR"
+  },
+  {
+    "id_partido": "0450",
+    "nombre": "ASOCIACION MUNICIPAL DE USUARIOS CAMPESINOS DE TIMBIQUI"
+  },
+  {
+    "id_partido": "0451",
+    "nombre": "COORD. DEPTAL  ORG. SOC. AMBIENTALES CAMPESINAS  CAQUETA (COORDOSAC)"
+  },
+  {
+    "id_partido": "0452",
+    "nombre": "ASOCAMPROARIARI"
+  },
+  {
+    "id_partido": "0453",
+    "nombre": "ASOCIACION CAMPESINA DE PRODUCTORES AGROPECUARIOS DEL DIVISO \"ACAPRADIV"
+  },
+  {
+    "id_partido": "0454",
+    "nombre": "ASOCIACION AGROPECUARIA DEL CUNIMIA \"AGROCUM"
+  },
+  {
+    "id_partido": "0455",
+    "nombre": "ASOCIACION DE CAMPESINOS DEL SUR DE CORDOBA - ASCSUCOR"
+  },
+  {
+    "id_partido": "0456",
+    "nombre": "ASPROPISAT"
+  },
+  {
+    "id_partido": "0457",
+    "nombre": "ASOCIACION AGROPECUARIA MIXTA MARIA LA ALTA"
+  },
+  {
+    "id_partido": "0458",
+    "nombre": "ASOCIACION ORGANIZADA DE CAMPESINOS PRODUCTIVOS ASOCAMPRO"
+  },
+  {
+    "id_partido": "0459",
+    "nombre": "ASOCIACION AGROPECUARIOS TRONCAL DEL CARIBE"
+  },
+  {
+    "id_partido": "0460",
+    "nombre": "CONSEJO COMUNITARIO PANAMA DE ARAUCA"
+  },
+  {
+    "id_partido": "0461",
+    "nombre": "CONSEJO COMUNITARIO PEDEGUITA Y MANCILLA"
+  },
+  {
+    "id_partido": "0462",
+    "nombre": "CONSEJO COMUNITARIO RIO CURBARADO"
+  },
+  {
+    "id_partido": "0463",
+    "nombre": "CONSEJO COMUNITARIO MAYOR CONDOTO RIO IRO"
+  },
+  {
+    "id_partido": "0464",
+    "nombre": "CONSEJO COMUNITARIO RIO JIGUAMIANDO"
+  },
+  {
+    "id_partido": "0465",
+    "nombre": "ASOCIACION AFROCOLOMBIANA SER NEGRO ES MAS SABROSO"
+  },
+  {
+    "id_partido": "0466",
+    "nombre": "CONSEJO COMUNITARIO LOS ANDES"
+  },
+  {
+    "id_partido": "0467",
+    "nombre": "CONSEJO COMUNITARIO DE LOS RIOS LA LARGA Y TUMARADO"
+  },
+  {
+    "id_partido": "0468",
+    "nombre": "CONSEJO COMUNITARIO MAYOR DE NOVITA OCOMAN?                                                                                                                                                          N"
+  },
+  {
+    "id_partido": "0469",
+    "nombre": "CONSEJO COMUNITARIO DE PORCE MEDIO"
+  },
+  {
+    "id_partido": "0470",
+    "nombre": "ZANJON DE GARRAPATERO"
+  },
+  {
+    "id_partido": "0471",
+    "nombre": "ASOCIACION AGROPECUARIA DE AFRODESCENDIENTES DESPLAZADOS"
+  },
+  {
+    "id_partido": "0472",
+    "nombre": "CONSEJO COMUNITARIO DE LA COMUNIDAD NEGRA DE AGUA CLARA"
+  },
+  {
+    "id_partido": "0473",
+    "nombre": "CONSEJO COMUNITARIO DEL RIO YURUMANGUI"
+  },
+  {
+    "id_partido": "0474",
+    "nombre": "CONSEJO COMUNITARIO DEL RIO NAYA"
+  },
+  {
+    "id_partido": "0475",
+    "nombre": "CONSEJO COMUNITARIO DE LA PLATA BAHIA MALAGA"
+  },
+  {
+    "id_partido": "0476",
+    "nombre": "CONSEJO COMUNITARIO AGRICULTORES DEL PATIA GRANDE"
+  },
+  {
+    "id_partido": "0477",
+    "nombre": "CONSEJO COMUNITARIO TABLON SALADO"
+  },
+  {
+    "id_partido": "0478",
+    "nombre": "CONSEJO COMUNITARIO VERDE MANDELA"
+  },
+  {
+    "id_partido": "0479",
+    "nombre": "CONSEJO COMUNITARIO BAJO MIRA Y FRONTERA"
+  },
+  {
+    "id_partido": "0480",
+    "nombre": "CONSEJO COMUNIT. CMUDS. NEGRAS GUACOCHE - LOS CARDONALES"
+  },
+  {
+    "id_partido": "0481",
+    "nombre": "CON. COMUNIT. CMUDS. NEGRAS LA JAGUA DE IBIRICO"
+  },
+  {
+    "id_partido": "0482",
+    "nombre": "CON. COMUNIT. AFROCOL. MARCELINO OCHOA ALVAREZ \"CATELO"
+  },
+  {
+    "id_partido": "0490",
+    "nombre": "RESGUARDO INDIGENA GABARRA CATALAURA"
+  },
+  {
+    "id_partido": "0491",
+    "nombre": "RESGUARDO INDIGENA PIEZ DE GAITANIA"
+  },
+  {
+    "id_partido": "0492",
+    "nombre": "COMUNIDAD INDIGENA AMOYA LA VIRGINIA"
+  },
+  {
+    "id_partido": "0493",
+    "nombre": "RESGUARDO INDIGENA ZEN. EL VOLAO"
+  },
+  {
+    "id_partido": "0494",
+    "nombre": "RESGUARDO INDIGENA PIOYA"
+  },
+  {
+    "id_partido": "0495",
+    "nombre": "COMUNIDAD INDIGENA SAN LUIS"
+  },
+  {
+    "id_partido": "0496",
+    "nombre": "CABILDO DE RESGUARDO  IND?GENA  MAYABANGLOMA"
+  },
+  {
+    "id_partido": "0497",
+    "nombre": "RESGUARDO INDIGENA CAMPO ALEGRE"
+  },
+  {
+    "id_partido": "0498",
+    "nombre": "RESGUARDO INDIGENA ZEN. DEL ALTO SAN JORGE"
+  },
+  {
+    "id_partido": "0499",
+    "nombre": "CABILDO MENOR INDIGENA DE MEDIA SOMBRA"
+  },
+  {
+    "id_partido": "0500",
+    "nombre": "COMUNIDAD INDIGENA ZEN? DE GALAPA"
+  },
+  {
+    "id_partido": "0501",
+    "nombre": "RESGUARDO INDIGENA IROKA"
+  },
+  {
+    "id_partido": "0502",
+    "nombre": "ORGANIZACION DE LA ETNIA AFROCOLOMBIANA - OEAP"
+  },
+  {
+    "id_partido": "0503",
+    "nombre": "YO SOY URABA"
+  },
+  {
+    "id_partido": "0504",
+    "nombre": "CORPORACION NARRAR PARA VIVIR"
+  },
+  {
+    "id_partido": "0505",
+    "nombre": "ASOC. COM. MUJERES V?CTIMAS CONFLICTO ARMADO CHARCO NARI�O"
+  },
+  {
+    "id_partido": "0506",
+    "nombre": "ASOCIACION DE MUJERES DIOS ES AMOR"
+  },
+  {
+    "id_partido": "0507",
+    "nombre": "ASOCIACION MUJER Y TERRITORIO"
+  },
+  {
+    "id_partido": "0508",
+    "nombre": "ASOCIACION DE MUJERES PRODUCTORAS DE CARNICOS DEL CAQUETA"
+  },
+  {
+    "id_partido": "0509",
+    "nombre": "ASOCIACION INTEGRAL CAMPESINOS ASICAC"
+  },
+  {
+    "id_partido": "0510",
+    "nombre": "ASOVCOMPARTIR-ASOCIACI?N DE VICTIMAS DEL CONFLICTO"
+  },
+  {
+    "id_partido": "0511",
+    "nombre": "COMITE DE GANADEROS DE LA MONTA�ITA"
+  },
+  {
+    "id_partido": "0512",
+    "nombre": "FUNDACION MODERNO SIGLO XXI"
+  },
+  {
+    "id_partido": "0513",
+    "nombre": "FUND. D.D.H.H. Y D.I.H ARTE, MEDIO AMB., CULTURA PAZ Y RECREACION"
+  },
+  {
+    "id_partido": "0514",
+    "nombre": "FUNDACION DE DESPLAZADOS CAMPESINOS DEL PACIFICO SUR DE ESCAPADA"
+  },
+  {
+    "id_partido": "0516",
+    "nombre": "GSC COLOMBIA TIENE FUTURO"
+  },
+  {
+    "id_partido": "0517",
+    "nombre": "GSC PAIS DE OPORTUNIDADES"
+  },
+  {
+    "id_partido": "0518",
+    "nombre": "GSC CREEMOS COLOMBIA"
+  },
+  {
+    "id_partido": "0522",
+    "nombre": "MOVIMIENTO ALTERNATIVO INDIGENA Y SOCIAL \"MAIS"
+  },
+  {
+    "id_partido": "0524",
+    "nombre": "PARTIDO POLITICO DIGNIDAD-PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI"
+  },
+  {
+    "id_partido": "0526",
+    "nombre": "COALICION PARTIDO UNION PATRIOTICA \"UP\" Y ALIANZA DEMOCRATICA AMPLIA \"ADA"
+  },
+  {
+    "id_partido": "0527",
+    "nombre": "MOVIMIENTO POLITICO COLOMBIA HUMANA-UNION PATRIOTICA"
+  },
+  {
+    "id_partido": 1039,
+    "nombre": "MOVIMIENTO UNITARIO METAPOLITICO"
+  },
+  {
+    "id_partido": 1051,
+    "nombre": "GENTE EN MOVIMIENTO"
+  },
+  {
+    "id_partido": 1073,
+    "nombre": "MOVIMIENTO NACIONAL SECTOR ORGANIZADO DE LA SALUD SOS COLOMBIA"
+  },
+  {
+    "id_partido": 1076,
+    "nombre": "LIGA DE GOBERNANTES ANTICORRUPCION"
+  },
+  {
+    "id_partido": 1077,
+    "nombre": "EL CAMBIO SOY YO MOVIMIENTO DIGITAL"
+  },
+  {
+    "id_partido": 1130,
+    "nombre": "ESTAMOS LISTAS COLOMBIA"
+  },
+  {
+    "id_partido": 1140,
+    "nombre": "FUERZA CIUDADANA LA FUERZA DEL CAMBIO"
+  },
+  {
+    "id_partido": 1186,
+    "nombre": "MOVIMIENTO GENTE NUEVA"
+  },
+  {
+    "id_partido": 1187,
+    "nombre": "FUERZA CIUDADANA LA FUERZA DEL CAMBIO MAGDALENA"
+  },
+  {
+    "id_partido": 1232,
+    "nombre": "PACTO HISTORICO"
+  }
+]
