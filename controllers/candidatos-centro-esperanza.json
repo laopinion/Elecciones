@@ -1,0 +1,37 @@
+[
+  {
+    "id_partido": "0019",
+    "id_candidato": "001",
+    "primer_nombre": "JUAN",
+    "segundo_nombre": "MANUEL",
+    "primer_apellido": "GALÁN"
+  },
+  {
+    "id_partido": "0006",
+    "id_candidato": "002",
+    "primer_nombre": "SERGIO",
+    "segundo_nombre": "FAJARDO",
+    "primer_apellido": ""
+  },
+  {
+    "id_partido": "0017",
+    "id_candidato": "003",
+    "primer_nombre": "JORGE",
+    "segundo_nombre": "ENRIQUE",
+    "primer_apellido": "ROBLEDO"
+  },
+  {
+    "id_partido": "0524",
+    "id_candidato": "004",
+    "primer_nombre": "CARLOS",
+    "segundo_nombre": "AMAYA",
+    "primer_apellido": ""
+  },
+  {
+    "id_partido": "0516",
+    "id_candidato": "005",
+    "primer_nombre": "ALEJANDRO",
+    "segundo_nombre": "GAVIRIA",
+    "primer_apellido": ""
+  }
+]
