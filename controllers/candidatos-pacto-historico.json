@@ -1,0 +1,32 @@
+[
+  {
+    "id_partido": "0527",
+    "id_candidato": "001",
+    "primer_nombre": "GUSTAVO",
+    "segundo_nombre": "PETRO"
+  },
+  {
+    "id_partido": "0009",
+    "id_candidato": "002",
+    "primer_nombre": "FRANCIA",
+    "segundo_nombre": "MÁRQUEZ"
+  },
+  {
+    "id_partido": "0526",
+    "id_candidato": "003",
+    "primer_nombre": "CAMILO",
+    "segundo_nombre": "ROMERO"
+  },
+  {
+    "id_partido": "0522",
+    "id_candidato": "004",
+    "primer_nombre": "ARELIS",
+    "segundo_nombre": "URIANA"
+  },
+  {
+    "id_partido": "0016",
+    "id_candidato": "005",
+    "primer_nombre": "ALFREDO",
+    "segundo_nombre": "SAADE"
+  }
+]

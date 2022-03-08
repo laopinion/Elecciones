@@ -36,5 +36,6 @@ api.get('/data/pacto-historico', fileCtrl.jsonPactoHistorico)
 api.get('/data/equipo-colombia', fileCtrl.jsonEquipoColombia)
 api.get('/data/partidos', filesKeysCtrl.partidos)
 api.get('/data/candidatos-senado', filesKeysCtrl.candidatosSenado)
+api.get('/data/candidatos-pacto-historico', filesKeysCtrl.candidatosPactoHistorico)
 
 module.exports = api

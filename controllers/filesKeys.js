@@ -22,7 +22,18 @@ function candidatosSenado (req, res) {
   })
 }
 
+function candidatosPactoHistorico (req, res) {
+  // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
+  fs.readFile(path.resolve(__dirname, 'candidatos-pacto-historico.json'), (err, data) => {
+    if (err) throw err
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
 module.exports = {
   partidos,
-  candidatosSenado
+  candidatosSenado,
+  candidatosPactoHistorico
 }
