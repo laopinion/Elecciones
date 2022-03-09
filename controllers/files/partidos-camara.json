@@ -1,0 +1,42 @@
+[
+  {
+    "id_partido": "0001",
+    "nombre": "PARTIDO LIBERAL COLOMBIANO"
+  },
+  {
+    "id_partido": "0002",
+    "nombre": "PARTIDO CONSERVADOR COLOMBIANO"
+  },
+  {
+    "id_partido": "0003",
+    "nombre": "PARTIDO CAMBIO RADICAL"
+  },
+  {
+    "id_partido": "0007",
+    "nombre": "PARTIDO POLITICO MIRA"
+  },
+  {
+    "id_partido": "0008",
+    "nombre": "PARTIDO DE LA UNION POR LA GENTE - PARTIDO DE LA U"
+  },
+  {
+    "id_partido": "0011",
+    "nombre": "PARTIDO CENTRO DEMOCRATICO"
+  },
+  {
+    "id_partido": "0019",
+    "nombre": "PARTIDO NUEVO LIBERALISMO"
+  },
+  {
+    "id_partido": "0267",
+    "nombre": "COALICION CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0290",
+    "nombre": "PACTO HISTORICO"
+  },
+  {
+    "id_partido": "0302",
+    "nombre": "MOVIMIENTO DE SALVACION NACIONAL"
+  }
+]

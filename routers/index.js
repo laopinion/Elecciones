@@ -35,8 +35,12 @@ api.get('/data/centro-esperanza', fileCtrl.jsonCentroEsperanza)
 api.get('/data/pacto-historico', fileCtrl.jsonPactoHistorico)
 api.get('/data/equipo-colombia', fileCtrl.jsonEquipoColombia)
 api.get('/data/partidos', filesKeysCtrl.partidos)
+api.get('/data/partidos-senado', filesKeysCtrl.partidosSenado)
+api.get('/data/partidos-camara', filesKeysCtrl.partidosCamara)
 api.get('/data/candidatos-senado', filesKeysCtrl.candidatosSenado)
+api.get('/data/candidatos-camara', filesKeysCtrl.candidatosCamara)
 api.get('/data/candidatos-pacto-historico', filesKeysCtrl.candidatosPactoHistorico)
 api.get('/data/candidatos-centro-esperanza', filesKeysCtrl.candidatosCentroEsperanza)
+api.get('/data/candidatos-equipo-colombia', filesKeysCtrl.candidatosEquipoColombia)
 
 module.exports = api

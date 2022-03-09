@@ -1,0 +1,32 @@
+[
+  {
+    "id_partido": "0007",
+    "id_candidato": "001",
+    "primer_nombre": "AYDEÉ",
+    "segundo_nombre": "LIZARAZO"
+  },
+  {
+    "id_partido": "0517",
+    "id_candidato": "002",
+    "primer_nombre": "ALEX",
+    "segundo_nombre": "CHAR"
+  },
+  {
+    "id_partido": "0002",
+    "id_candidato": "003",
+    "primer_nombre": "DAVID",
+    "segundo_nombre": "BARGUIL"
+  },
+  {
+    "id_partido": "0008",
+    "id_candidato": "004",
+    "primer_nombre": "ENRIQUE",
+    "segundo_nombre": "PEÑALOSA"
+  },
+  {
+    "id_partido": "0518",
+    "id_candidato": "005",
+    "primer_nombre": "FICO",
+    "segundo_nombre": "GUTIERREZ"
+  }
+]

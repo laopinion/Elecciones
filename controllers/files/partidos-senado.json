@@ -1,0 +1,102 @@
+[
+  {
+    "id_partido": "0001",
+    "nombre": "PARTIDO LIBERAL COLOMBIANO"
+  },
+  {
+    "id_partido": "0002",
+    "nombre": "PARTIDO CONSERVADOR COLOMBIANO"
+  },
+  {
+    "id_partido": "0003",
+    "nombre": "PARTIDO CAMBIO RADICAL"
+  },
+  {
+    "id_partido": "0008",
+    "nombre": "PARTIDO DE LA UNION POR LA GENTE - PARTIDO DE LA U"
+  },
+  {
+    "id_partido": "0011",
+    "nombre": "PARTIDO CENTRO DEMOCRATICO"
+  },
+  {
+    "id_partido": "0013",
+    "nombre": "PARTIDO COMUNES"
+  },
+  {
+    "id_partido": "0019",
+    "nombre": "PARTIDO NUEVO LIBERALISMO"
+  },
+  {
+    "id_partido": "0026",
+    "nombre": "O.S.A ORGANIZACION SOCIO-POLITICA ANCESTRAL"
+  },
+  {
+    "id_partido": "0151",
+    "nombre": "DEMOCRACIA DESDE ABAJO LA  PALMA"
+  },
+  {
+    "id_partido": "0156",
+    "nombre": "MOVIMIENTO ALTERNATIVO INDIGENA SOCIAL MAIS"
+  },
+  {
+    "id_partido": "0166",
+    "nombre": "MANDATO AMBIENTAL"
+  },
+  {
+    "id_partido": "0167",
+    "nombre": "ASOCIACION NACIONAL DE CABILDOS Y AUTORIDADES INDIGENAS EN COLOMBIA ANICOL"
+  },
+  {
+    "id_partido": "0177",
+    "nombre": "PARTIDO INDIGENA COLOMBIANO P.I.C"
+  },
+  {
+    "id_partido": "0181",
+    "nombre": "RESGUARDO CAMPO ALEGRE"
+  },
+  {
+    "id_partido": "0184",
+    "nombre": "ASOCIACION DE CABILDOS INDIGENAS POR COLOMBIA"
+  },
+  {
+    "id_partido": "0186",
+    "nombre": "MOVIMIENTO AUTORIDADES INDIGENAS DE COLOMBIA AICO"
+  },
+  {
+    "id_partido": "0231",
+    "nombre": "COALICION MIRA -  COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "id_partido": "0255",
+    "nombre": "COALICION ALIANZA VERDE Y CENTRO ESPERANZA"
+  },
+  {
+    "id_partido": "0292",
+    "nombre": "PACTO HISTORICO"
+  },
+  {
+    "id_partido": "0302",
+    "nombre": "MOVIMIENTO DE SALVACION NACIONAL"
+  },
+  {
+    "id_partido": "1039",
+    "nombre": "MOVIMIENTO UNITARIO METAPOLITICO"
+  },
+  {
+    "id_partido": "1073",
+    "nombre": "MOVIMIENTO NACIONAL SECTOR ORGANIZADO DE LA SALUD SOS COLOMBIA"
+  },
+  {
+    "id_partido": "1130",
+    "nombre": "ESTAMOS LISTAS COLOMBIA"
+  },
+  {
+    "id_partido": "1140",
+    "nombre": "FUERZA CIUDADANA LA FUERZA DEL CAMBIO"
+  },
+  {
+    "id_partido": "1186",
+    "nombre": "MOVIMIENTO GENTE NUEVA"
+  }
+]
