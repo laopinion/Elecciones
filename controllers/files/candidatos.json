@@ -1,0 +1,58 @@
+[
+  {
+    "cod_candidato": "001",
+    "nombre_candidato": "RODOLFO",
+    "apellido_candidato": "HERNÁNDEZ",
+    "cod_partido": "1076",
+    "nombre_partido": "LIGA DE GOBERNANTES ANTICORRUPCIÓN"
+  },
+  {
+    "cod_candidato": "002",
+    "nombre_candidato": "JOHN MILTON",
+    "apellido_candidato": "RODRÍGUEZ",
+    "cod_partido": "0014",
+    "nombre_partido": "COLOMBIA JUSTA LIBRES"
+  },
+  {
+    "cod_candidato": "003",
+    "nombre_candidato": "FEDERICO",
+    "apellido_candidato": "GUTIÉRREZ",
+    "cod_partido": "1234",
+    "nombre_partido": "COALICIÓN EQUIPO POR COLOMBIA"
+  },
+  {
+    "cod_candidato": "004",
+    "nombre_candidato": "SERGIO",
+    "apellido_candidato": "FAJARDO",
+    "cod_partido": "1233",
+    "nombre_partido": "COALICIÓN CENTRO ESPERANZA"
+  },
+  {
+    "cod_candidato": "005",
+    "nombre_candidato": "ENRIQUE",
+    "apellido_candidato": "MARTÍNEZ",
+    "cod_partido": "0302",
+    "nombre_partido": "PARTIDO MOVIMIENTO DE SALVACIÓN NACIONAL"
+  },
+  {
+    "cod_candidato": "006",
+    "nombre_candidato": "GUSTAVO",
+    "apellido_candidato": "PETRO",
+    "cod_partido": "1235",
+    "nombre_partido": "COALICIÓN PACTO HISTÓRICO"
+  },
+  {
+    "cod_candidato": "007",
+    "nombre_candidato": "LUIS",
+    "apellido_candidato": "PÉREZ",
+    "cod_partido": "0527",
+    "nombre_partido": "COLOMBIA PIENSA EN GRANDE"
+  },
+  {
+    "cod_candidato": "008",
+    "nombre_candidato": "INGRID",
+    "apellido_candidato": "BETANCOURT",
+    "cod_partido": "0304",
+    "nombre_partido": "PARTIDO VERDE OXÍGENO"
+  }
+]

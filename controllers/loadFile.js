@@ -12,21 +12,21 @@ function loadFile (req, res) {
   const option = req.body.option
   // console.log(req.body.option)
 
-  if (option === 'senado_nacional') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/senado_nacional.xml'), function (err) {
-      if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
+  if (option === 'presidenciales_nacional') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/presidenciales_nacional.xml'), function (err) {
+      if (err) return res.status(500).send({ message: 'Algo salio mal presidenciales_nacional' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else if (option === 'camara_departamental') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/camara_departamental.xml'), function (err) {
-      if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
+  } else if (option === 'presidenciales_capitales') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/presidenciales_capitales.xml'), function (err) {
+      if (err) return res.status(500).send({ message: 'Algo salio mal presidenciales_capitales' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else if (option === 'centro_esperanza') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/centro_esperanza.xml'), function (err) {
-      if (err) return res.status(500).send({ message: 'Algo salio mal ' + err, status: '500' })
+  } else if (option === 'presidenciales_departamental') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/presidenciales_departamental.xml'), function (err) {
+      if (err) return res.status(500).send({ message: 'Algo salio mal presidenciales_departamental' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
@@ -49,10 +49,10 @@ function loadFile (req, res) {
   }
 }
 
-function jsonSenadoNacional (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/senado_nacional.xml'), function (err, data) {
+function jsonPresiNacional (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/presidenciales_nacional.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'algo salio mal senado_nacional' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal presidenciales_nacional' })
     }
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
@@ -60,27 +60,27 @@ function jsonSenadoNacional (req, res) {
   })
 }
 
-function jsonCamaraDepartamental (req, res) {
-  fs.readFile(path.resolve(__dirname, '../uploads/camara_departamental.xml'), function (err, data) {
+function jsonPresiDepartamental (req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/presidenciales_departamental.xml'), function (err, data) {
     if (err) {
-      return res.status(500).send({ status: '500', message: 'algo salio mal camara_departamental' })
+      return res.status(500).send({ status: '500', message: 'algo salio mal presidenciales_departamental' })
     }
     const json = parser.toJson(data, { object: true })
-    const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => {
-      return boletin.Departamento.V === '2500'
-    })
+    // const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => {
+    //   return boletin.Departamento.V === '2500'
+    // })
     // console.log('to json ->', json)
     // console.log(jsonNorteSantander[0])
-    return res.status(200).send({ status: '200', data: jsonNorteSantander[0] })
+    return res.status(200).send({ status: '200', data: json.Consolidado.Boletin })
   })
 }
 
-function jsonCentroEsperanza (req, res) {
+function jsonPresiCapitales (req, res) {
   fs.readFile(
-    path.resolve(__dirname, '../uploads/centro_esperanza.xml'),
+    path.resolve(__dirname, '../uploads/presidenciales_capitales.xml'),
     function (err, data) {
       if (err) {
-        return res.status(500).send({ status: '500', message: 'algo salio mal centro_esperanza' })
+        return res.status(500).send({ status: '500', message: 'algo salio mal presidenciales_capitales' })
       }
       const json = parser.toJson(data, { object: true })
       // console.log('to json ->', json)
@@ -119,9 +119,7 @@ function jsonEquipoColombia (req, res) {
 
 module.exports = {
   loadFile,
-  jsonCamaraDepartamental,
-  jsonSenadoNacional,
-  jsonCentroEsperanza,
-  jsonPactoHistorico,
-  jsonEquipoColombia
+  jsonPresiDepartamental,
+  jsonPresiNacional,
+  jsonPresiCapitales
 }
