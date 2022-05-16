@@ -82,13 +82,27 @@ function candidatosEquipoColombia (req, res) {
   })
 }
 
+function candidatosPresidenciales (req, res) {
+  // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
+  fs.readFile(path.resolve(__dirname, 'files/candidatos.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal centro esperanza' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
+function departamentosCapitales (req, res) {
+  // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
+  fs.readFile(path.resolve(__dirname, 'files/departamentos-capitales.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal centro esperanza' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
 module.exports = {
-  partidos,
-  partidosSenado,
-  partidosCamara,
-  candidatosSenado,
-  candidatosCamara,
-  candidatosPactoHistorico,
-  candidatosCentroEsperanza,
-  candidatosEquipoColombia
+  departamentosCapitales,
+  candidatosPresidenciales
 }

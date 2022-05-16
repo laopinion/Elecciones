@@ -5,7 +5,7 @@ const api = express.Router()
 const userCtrl = require('../controllers/user')
 const auth = require('../middlewares/index')
 const fileCtrl = require('../controllers/loadFile')
-// const filesKeysCtrl = require('../controllers/filesKeys')
+const filesKeysCtrl = require('../controllers/filesKeys')
 // const multer = require('multer')
 // const upload = multer({ dest: 'uploads/' })
 
@@ -45,5 +45,7 @@ api.get('/data/presidenciales-departamental', fileCtrl.jsonPresiDepartamental)
 // api.get('/data/candidatos-pacto-historico', filesKeysCtrl.candidatosPactoHistorico)
 // api.get('/data/candidatos-centro-esperanza', filesKeysCtrl.candidatosCentroEsperanza)
 // api.get('/data/candidatos-equipo-colombia', filesKeysCtrl.candidatosEquipoColombia)
+api.get('/data/candidatos-presidenciales', filesKeysCtrl.candidatosPresidenciales)
+api.get('/data/departamentos-capitales', filesKeysCtrl.departamentosCapitales)
 
 module.exports = api

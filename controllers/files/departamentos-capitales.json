@@ -1,0 +1,194 @@
+[
+  {
+    "cod_departamento": "2300",
+    "nombre_departamento": "NARIÑO",
+    "cod_capital": "001",
+    "nombre_capital": "PASTO"
+  },
+  {
+    "cod_departamento": "6400",
+    "nombre_departamento": "PUTUMAYO",
+    "cod_capital": "001",
+    "nombre_capital": "MOCOA"
+  },
+  {
+    "cod_departamento": "4000",
+    "nombre_departamento": "ARAUCA",
+    "cod_capital": "001",
+    "nombre_capital": "ARAUCA"
+  },
+  {
+    "cod_departamento": "3100",
+    "nombre_departamento": "VALLE DEL CAUCA",
+    "cod_capital": "001",
+    "nombre_capital": "CALI"
+  },
+  {
+    "cod_departamento": "5600",
+    "nombre_departamento": "SAN ANDRÉS",
+    "cod_capital": "001",
+    "nombre_capital": "SAN ANDRÉS"
+  },
+  {
+    "cod_departamento": "0500",
+    "nombre_departamento": "BOLIVAR",
+    "cod_capital": "001",
+    "nombre_capital": "CARTAGENA"
+  },
+  {
+    "cod_departamento": "4800",
+    "nombre_departamento": "LA GUAJIRA",
+    "cod_capital": "001",
+    "nombre_capital": "RIOHACHA"
+  },
+  {
+    "cod_departamento": "0700",
+    "nombre_departamento": "BOYACÁ",
+    "cod_capital": "001",
+    "nombre_capital": "TUNJA"
+  },
+  {
+    "cod_departamento": "1300",
+    "nombre_departamento": "CÓRDOBA",
+    "cod_capital": "001",
+    "nombre_capital": "MONTERIA"
+  },
+  {
+    "cod_departamento": "1200",
+    "nombre_departamento": "CESAR",
+    "cod_capital": "001",
+    "nombre_capital": "VALLEDUPAR"
+  },
+  {
+    "cod_departamento": "2900",
+    "nombre_departamento": "TOLIMA",
+    "cod_capital": "001",
+    "nombre_capital": "IBAGUÉ"
+  },
+  {
+    "cod_departamento": "1900",
+    "nombre_departamento": "HUILA",
+    "cod_capital": "001",
+    "nombre_capital": "NEIVA"
+  },
+  {
+    "cod_departamento": "4600",
+    "nombre_departamento": "CASANARE",
+    "cod_capital": "001",
+    "nombre_capital": "YOPAL"
+  },
+  {
+    "cod_departamento": "7200",
+    "nombre_departamento": "VICHADA",
+    "cod_capital": "001",
+    "nombre_capital": "PUERTO CARREÑO"
+  },
+  {
+    "cod_departamento": "2600",
+    "nombre_departamento": "QUINDÍO",
+    "cod_capital": "001",
+    "nombre_capital": "ARMENIA"
+  },
+  {
+    "cod_departamento": "1600",
+    "nombre_departamento": "BOGOTÁ D.C",
+    "cod_capital": "001",
+    "nombre_capital": "BOGOTÁ D.C"
+  },
+  {
+    "cod_departamento": "5200",
+    "nombre_departamento": "META",
+    "cod_capital": "001",
+    "nombre_capital": "VILLAVICENCIO"
+  },
+  {
+    "cod_departamento": "6800",
+    "nombre_departamento": "VAUPÉS",
+    "cod_capital": "001",
+    "nombre_capital": "MITÚ"
+  },
+  {
+    "cod_departamento": "1100",
+    "nombre_departamento": "CAUCA",
+    "cod_capital": "001",
+    "nombre_capital": "POPAYÁN"
+  },
+  {
+    "cod_departamento": "2700",
+    "nombre_departamento": "SANTANDER",
+    "cod_capital": "001",
+    "nombre_capital": "BUCARAMANGA"
+  },
+  {
+    "cod_departamento": "6000",
+    "nombre_departamento": "AMAZONAS",
+    "cod_capital": "001",
+    "nombre_capital": "LETICIA"
+  },
+  {
+    "cod_departamento": "0900",
+    "nombre_departamento": "CALDAS",
+    "cod_capital": "001",
+    "nombre_capital": "MANIZALES"
+  },
+  {
+    "cod_departamento": "0300",
+    "nombre_departamento": "ATLÁNTICO",
+    "cod_capital": "001",
+    "nombre_capital": "BARRANQUILLA"
+  },
+  {
+    "cod_departamento": "1700",
+    "nombre_departamento": "CHOCO",
+    "cod_capital": "001",
+    "nombre_capital": "QUIBDO"
+  },
+  {
+    "cod_departamento": "2500",
+    "nombre_departamento": "NORTE DE SANTANDER",
+    "cod_capital": "001",
+    "nombre_capital": "CÚCUTA"
+  },
+  {
+    "cod_departamento": "2100",
+    "nombre_departamento": "MAGDALENA",
+    "cod_capital": "001",
+    "nombre_capital": "SANTA MARTA"
+  },
+  {
+    "cod_departamento": "5000",
+    "nombre_departamento": "GUAINÍA",
+    "cod_capital": "001",
+    "nombre_capital": "INÍRIDA"
+  },
+  {
+    "cod_departamento": "2800",
+    "nombre_departamento": "SUCRE",
+    "cod_capital": "001",
+    "nombre_capital": "SINCELEJO"
+  },
+  {
+    "cod_departamento": "2400",
+    "nombre_departamento": "RISARALDA",
+    "cod_capital": "001",
+    "nombre_capital": "PEREIRA"
+  },
+  {
+    "cod_departamento": "0100",
+    "nombre_departamento": "ANTIOQUIA",
+    "cod_capital": "001",
+    "nombre_capital": "MEDELLÍN"
+  },
+  {
+    "cod_departamento": "4400",
+    "nombre_departamento": "CAQUETÁ",
+    "cod_capital": "001",
+    "nombre_capital": "FLORENCIA"
+  },
+  {
+    "cod_departamento": "5400",
+    "nombre_departamento": "GUAVIARE",
+    "cod_capital": "001",
+    "nombre_capital": "SAN JOSE DEL GUAVIARE"
+  }
+]
