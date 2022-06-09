@@ -31,9 +31,15 @@
   },
   {
     "cod_departamento": "0500",
-    "nombre_departamento": "BOLIVAR",
+    "nombre_departamento": "BOLÍVAR",
     "cod_capital": "001",
     "nombre_capital": "CARTAGENA"
+  },
+  {
+    "cod_departamento": "1500",
+    "nombre_departamento": "CUNDINAMARCA",
+    "cod_capital": "000",
+    "nombre_capital": ""
   },
   {
     "cod_departamento": "4800",
@@ -85,7 +91,7 @@
   },
   {
     "cod_departamento": "2600",
-    "nombre_departamento": "QUINDÍO",
+    "nombre_departamento": "QUINDIO",
     "cod_capital": "001",
     "nombre_capital": "ARMENIA"
   },
@@ -139,7 +145,7 @@
   },
   {
     "cod_departamento": "1700",
-    "nombre_departamento": "CHOCO",
+    "nombre_departamento": "CHOCÓ",
     "cod_capital": "001",
     "nombre_capital": "QUIBDO"
   },
