@@ -102,7 +102,18 @@ function departamentosCapitales (req, res) {
   })
 }
 
+function geoJson (req, res) {
+  // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
+  fs.readFile(path.resolve(__dirname, 'files/geo.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal centro esperanza' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
 module.exports = {
   departamentosCapitales,
-  candidatosPresidenciales
+  candidatosPresidenciales,
+  geoJson
 }

@@ -47,5 +47,6 @@ api.get('/data/presidenciales-departamental', fileCtrl.jsonPresiDepartamental)
 // api.get('/data/candidatos-equipo-colombia', filesKeysCtrl.candidatosEquipoColombia)
 api.get('/data/candidatos-presidenciales', filesKeysCtrl.candidatosPresidenciales)
 api.get('/data/departamentos-capitales', filesKeysCtrl.departamentosCapitales)
+api.get('/data/geo-departamentos', filesKeysCtrl.geoJson)
 
 module.exports = api
