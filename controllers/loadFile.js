@@ -18,9 +18,9 @@ function loadFile (req, res) {
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
-  } else if (option === 'presidenciales_capitales') {
-    fileXml.mv(path.resolve(__dirname, '../uploads/presidenciales_capitales.xml'), function (err) {
-      if (err) return res.status(500).send({ message: 'Algo salio mal presidenciales_capitales' + err, status: '500' })
+  } else if (option === 'presidenciales_municipios') {
+    fileXml.mv(path.resolve(__dirname, '../uploads/presidenciales_municipios.xml'), function (err) {
+      if (err) return res.status(500).send({ message: 'Algo salio mal presidenciales_municipios' + err, status: '500' })
 
       return res.status(200).send({ message: 'Se cargo el archivo correctamente.', status: '200' })
     })
@@ -75,12 +75,12 @@ function jsonPresiDepartamental (req, res) {
   })
 }
 
-function jsonPresiCapitales (req, res) {
+function jsonPresiMunicipios (req, res) {
   fs.readFile(
-    path.resolve(__dirname, '../uploads/presidenciales_capitales.xml'),
+    path.resolve(__dirname, '../uploads/presidenciales_municipios.xml'),
     function (err, data) {
       if (err) {
-        return res.status(500).send({ status: '500', message: 'algo salio mal presidenciales_capitales' })
+        return res.status(500).send({ status: '500', message: 'algo salio mal presidenciales_municipios' })
       }
       const json = parser.toJson(data, { object: true })
       // console.log('to json ->', json)
@@ -121,5 +121,5 @@ module.exports = {
   loadFile,
   jsonPresiDepartamental,
   jsonPresiNacional,
-  jsonPresiCapitales
+  jsonPresiMunicipios
 }

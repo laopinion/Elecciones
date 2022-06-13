@@ -28,7 +28,7 @@ api.get('/private', auth.isAuth, function (req, res, next) {
 // api.get('/data/camara-nacional', fileCtrl.jsonCamaraNacional)
 // api.get('/data/camara-departamental', fileCtrl.jsonCamaraDepartamental)
 api.get('/data/presidenciales-nacional', fileCtrl.jsonPresiNacional)
-api.get('/data/presidenciales-capitales', fileCtrl.jsonPresiCapitales)
+api.get('/data/presidenciales-municipios', fileCtrl.jsonPresiMunicipios)
 api.get('/data/presidenciales-departamental', fileCtrl.jsonPresiDepartamental)
 
 // api.get('/data/senado-nacional', fileCtrl.jsonSenadoNacional)
