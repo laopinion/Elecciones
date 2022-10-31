@@ -1,6 +1,8 @@
 'use strict'
 
 const express = require('express')
+const axios = require('axios')
+const xml2js = require('xml2js')
 const api = express.Router()
 const userCtrl = require('../controllers/user')
 const auth = require('../middlewares/index')
@@ -48,5 +50,76 @@ api.get('/data/presidenciales-departamental', fileCtrl.jsonPresiDepartamental)
 api.get('/data/candidatos-presidenciales', filesKeysCtrl.candidatosPresidenciales)
 api.get('/data/departamentos-capitales', filesKeysCtrl.departamentosCapitales)
 api.get('/data/geo-departamentos', filesKeysCtrl.geoJson)
+api.get('/data/clasificados-casas', function(req, res){
+  axios.get('https://clasificados.laopinion.com.co/import/CasasXML.xml')
+  .then(function (response) { 
+    let parseString = xml2js.parseString;
+      parseString(response.data, function (err, result) {
+        console.log(result); 
+        res.status(200).send(result);       
+      });
+  })
+  .catch(function (error) {    
+    console.log(error);
+  });
+})
+
+api.get('/data/clasificados-apartamentos', function(req, res){
+  axios.get('https://clasificados.laopinion.com.co/import/Apartamento_ApartaestudioXML.xml')
+  .then(function (response) { 
+    let parseString = xml2js.parseString;
+      parseString(response.data, function (err, result) {
+        console.log(result); 
+        res.status(200).send(result);       
+      });
+  })
+  .catch(function (error) {    
+    console.log(error);
+  });
+})
+
+api.get('/data/clasificados-empleos-especializados', function(req, res){
+  axios.get('https://clasificados.laopinion.com.co/import/Empleos_EspecializadosXML.xml')
+  .then(function (response) { 
+    let parseString = xml2js.parseString;
+      parseString(response.data, function (err, result) {
+        console.log(result); 
+        res.status(200).send(result);       
+      });
+  })
+  .catch(function (error) {    
+    console.log(error);
+  });
+})
+
+api.get('/data/clasificados-empleos-otros', function(req, res){
+  axios.get('https://clasificados.laopinion.com.co/import/Empleos_OtrosXML.xml')
+  .then(function (response) { 
+    let parseString = xml2js.parseString;
+      parseString(response.data, function (err, result) {
+        console.log(result); 
+        res.status(200).send(result);       
+      });
+  })
+  .catch(function (error) {    
+    console.log(error);
+  });
+})
+
+api.get('/data/clasificados-servicios', function(req, res){
+  axios.get('https://clasificados.laopinion.com.co/import/Varios_serviciosXML.xml')
+  .then(function (response) { 
+    let parseString = xml2js.parseString;
+      parseString(response.data, function (err, result) {
+        console.log(result); 
+        res.status(200).send(result);       
+      });
+  })
+  .catch(function (error) {   
+    console.log(error);
+  });
+})
+  
+
 
 module.exports = api
