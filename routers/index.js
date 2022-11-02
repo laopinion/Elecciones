@@ -92,8 +92,8 @@ api.get('/data/clasificados-empleos-especializados', function(req, res){
   });
 })
 
-api.get('/data/clasificados-empleos-otros', function(req, res){
-  axios.get('https://clasificados.laopinion.com.co/import/Empleos_OtrosXML.xml')
+api.get('/data/clasificados-carros', function(req, res){
+  axios.get('https://clasificados.laopinion.com.co/import/Carros_CamionetasXML.xml')
   .then(function (response) { 
     let parseString = xml2js.parseString;
       parseString(response.data, function (err, result) {
@@ -106,8 +106,8 @@ api.get('/data/clasificados-empleos-otros', function(req, res){
   });
 })
 
-api.get('/data/clasificados-servicios', function(req, res){
-  axios.get('https://clasificados.laopinion.com.co/import/Varios_serviciosXML.xml')
+api.get('/data/clasificados-empleos-zapateria', function(req, res){
+  axios.get('https://clasificados.laopinion.com.co/import/Empleos_ZapateriaXML.xml')
   .then(function (response) { 
     let parseString = xml2js.parseString;
       parseString(response.data, function (err, result) {
