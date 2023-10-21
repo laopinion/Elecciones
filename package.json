@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "lint": "standard --fix",
-    "start": "nodemon server.js"
+    "start": "NODE_ENV=production node server.js",
+    "dev": "nodemon server.js"
   },
   "standard": {
     "parser": "babel-eslint"

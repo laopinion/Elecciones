@@ -84,7 +84,7 @@ app.use(fileUpload())
 // require('events').EventEmitter.defaultMaxListeners = Infinity;
 
 // Documentación https://enable-cors.org/server_expressjs.html
-app.use(function (req, res, next) {
+app.use(function (_req, res, next) {
   res.header('Access-Control-Allow-Origin', '*')
   res.header(
     'Access-Control-Allow-Headers',

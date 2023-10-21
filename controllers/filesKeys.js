@@ -1,6 +1,6 @@
 'use strict'
 const path = require('path')
-const fs = require('fs')
+const fs = require('node:fs')
 
 function partidos (req, res) {
   // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
