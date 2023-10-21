@@ -66,7 +66,8 @@ function jsonGobernador (_req, res) {
     // })
     // console.log('to json ->', json)
     // console.log(jsonNorteSantander[0])
-    return res.status(200).send({ status: '200', data: json.Consolidado.Boletin })
+    const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '000' && boletin.Desc_Municipio.V === 'NO APLICA')
+    return res.status(200).send({ status: '200', data: jsonNorteSantander })
   })
 }
 
