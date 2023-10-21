@@ -80,7 +80,8 @@ function jsonConcejo (_req, res) {
       }
       const json = parser.toJson(data, { object: true })
       // console.log('to json ->', json)
-      return res.status(200).send({ status: '200', data: json.Consolidado.Boletin })
+      const jsonCucuta = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '001' && boletin.Desc_Municipio.V === 'CUCUTA')
+      return res.status(200).send({ status: '200', data: jsonCucuta })
     }
   )
 }
@@ -94,7 +95,8 @@ function jsonAsamblea (_req, res) {
       }
       const json = parser.toJson(data, { object: true })
       // console.log('to json ->', json)
-      return res.status(200).send({ status: '200', data: json.Consolidado.Boletin })
+      const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '000' && boletin.Desc_Municipio.V === 'NO APLICA')
+      return res.status(200).send({ status: '200', data: jsonNorteSantander })
     }
   )
 }
