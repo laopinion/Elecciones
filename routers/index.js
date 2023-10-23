@@ -34,6 +34,8 @@ api.get('/data/asamblea', fileCtrl.jsonAsamblea)
 
 api.get('/data/candidatos-alcalde', filesKeysCtrl.candidatosAlcalde)
 api.get('/data/candidatos-gobernador', filesKeysCtrl.candidatosGobernador)
+api.get('/data/candidatos-concejo', filesKeysCtrl.candidatosConcejo)
+api.get('/data/candidatos-asamblea', filesKeysCtrl.candidatosAsamblea)
 // api.get('/data/geo-departamentos', filesKeysCtrl.geoJson)
 
 module.exports = api

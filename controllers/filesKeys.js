@@ -100,18 +100,18 @@ function candidatosGobernador (_req, res) {
   })
 }
 
-function candidatosCondejo (_req, res) {
+function candidatosConcejo (_req, res) {
   fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
-    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos condejo' + err, status: '500' })
+    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos concejo' + err, status: '500' })
     let listPartidos = JSON.parse(data)
     // console.log(listPartidos)
     return res.status(200).send({ status: '200', data: listPartidos })
   })
 }
 
-function candidatosAsamble (_req, res) {
+function candidatosAsamblea (_req, res) {
   fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
-    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos asamble' + err, status: '500' })
+    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos asamblea' + err, status: '500' })
     let listPartidos = JSON.parse(data)
     // console.log(listPartidos)
     return res.status(200).send({ status: '200', data: listPartidos })
@@ -129,6 +129,6 @@ module.exports = {
   candidatosSenado,
   candidatosAlcalde,
   candidatosGobernador,
-  candidatosCondejo,
-  candidatosAsamble
+  candidatosConcejo,
+  candidatosAsamblea
 }
