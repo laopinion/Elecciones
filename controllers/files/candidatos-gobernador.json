@@ -1,0 +1,66 @@
+[
+    {
+        "codigo": "00112500000000190011",
+        "cod_candidato": "001",
+        "nombre_candidato": "JOSE GREGORIO",
+        "apellido_candidato": "BOTELLO ORTEGA",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00112500000000300021",
+        "cod_candidato": "002",
+        "nombre_candidato": "RAMON ELI",
+        "apellido_candidato": "TAMARA RIVERA",
+        "cod_partido": "00030",
+        "nombre_partido": "PARTIDO POLÍTICO ESPERANZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00112500000055930031",
+        "cod_candidato": "003",
+        "nombre_candidato": "JUAN GABRIEL",
+        "apellido_candidato": "BACA LOPEZ",
+        "cod_partido": "05593",
+        "nombre_partido": "# UNIDOS GANAMOS TODOS"
+    },
+    {
+        "codigo": "00112500000050160041",
+        "cod_candidato": "004",
+        "nombre_candidato": "WILLIAM",
+        "apellido_candidato": "VILLAMIZAR LAGUADO",
+        "cod_partido": "05016",
+        "nombre_partido": "POR AMOR A NUESTRA GENTE DEL NORTE"
+    },
+    {
+        "codigo": "00112500000020720051",
+        "cod_candidato": "005",
+        "nombre_candidato": "DIEGO ARMANDO",
+        "apellido_candidato": "GONZALEZ TOLOZA",
+        "cod_partido": "02072",
+        "nombre_partido": "LOS BUENOS SOMOS MAS"
+    },
+    {
+        "codigo": "00112500000079260061",
+        "cod_candidato": "006",
+        "nombre_candidato": "JHON EDDISON",
+        "apellido_candidato": "ORTEGA JACOME",
+        "cod_partido": "07926",
+        "nombre_partido": "UN NUEVO NORTE"
+    },
+    {
+        "codigo": "00112500000065900071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JORGE EDUARDO",
+        "apellido_candidato": "MORA LOPEZ",
+        "cod_partido": "06590",
+        "nombre_partido": "RECUPEREMOS EL NORTE"
+    },
+    {
+        "codigo": "00112500000000290081",
+        "cod_candidato": "008",
+        "nombre_candidato": "MARLON",
+        "apellido_candidato": "CHACON GARNICA",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    }
+]

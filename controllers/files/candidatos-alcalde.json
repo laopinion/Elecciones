@@ -1,0 +1,114 @@
+[
+    {
+        "codigo": "00322500100000250011",
+        "cod_candidato": "001",
+        "nombre_candidato": "CARLOS MARTIN",
+        "apellido_candidato": "ROJAS CARVAJAL",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00322500100078440021",
+        "cod_candidato": "002",
+        "nombre_candidato": "JONATHAN ISAAC",
+        "apellido_candidato": "GARCIA PABON",
+        "cod_partido": "07844",
+        "nombre_partido": "PACTO HISTÓRICO"
+    },
+    {
+        "codigo": "00322500100000210031",
+        "cod_candidato": "003",
+        "nombre_candidato": "FELIX ADOLFO",
+        "apellido_candidato": "MUÑOZ LUNA",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00322500100000240041",
+        "cod_candidato": "004",
+        "nombre_candidato": "CARLOS ALBERTO",
+        "apellido_candidato": "JAIMES FERNANDEZ",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00322500100011270051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JOSE LUIS",
+        "apellido_candidato": "MORA CASTRO",
+        "cod_partido": "01127",
+        "nombre_partido": "NUEVAS IDEAS"
+    },
+    {
+        "codigo": "00322500100000310061",
+        "cod_candidato": "006",
+        "nombre_candidato": "DAVID EDUARDO",
+        "apellido_candidato": "FAJARDO GRANADOS",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00322500100000370071",
+        "cod_candidato": "007",
+        "nombre_candidato": "MARIO VICENTE",
+        "apellido_candidato": "FIGUEROA FERNANDEZ",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00322500100000300081",
+        "cod_candidato": "008",
+        "nombre_candidato": "BLANCA",
+        "apellido_candidato": "CRUZ GONZALEZ",
+        "cod_partido": "00030",
+        "nombre_partido": "PARTIDO POLÍTICO ESPERANZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00322500100000050091",
+        "cod_candidato": "009",
+        "nombre_candidato": "CARLOS HUMBERTO",
+        "apellido_candidato": "COTE MENDOZA",
+        "cod_partido": "00005",
+        "nombre_partido": "MOVIMIENTO AUTORIDADES INDÍGENAS DE COLOMBIA \"AICO\""
+    },
+    {
+        "codigo": "00322500100070740101",
+        "cod_candidato": "010",
+        "nombre_candidato": "JUAN CARLOS",
+        "apellido_candidato": "GARCIA HERREROS CABRERA",
+        "cod_partido": "07074",
+        "nombre_partido": "CÚCUTA SEGURA Y COMPETITIVA"
+    },
+    {
+        "codigo": "00322500100020470111",
+        "cod_candidato": "011",
+        "nombre_candidato": "JORGE ENRIQUE",
+        "apellido_candidato": "ACEVEDO PEÑALOZA",
+        "cod_partido": "02047",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00322500100067850121",
+        "cod_candidato": "012",
+        "nombre_candidato": "SERGIO ANDRES",
+        "apellido_candidato": "MALDONADO HUERTAS",
+        "cod_partido": "06785",
+        "nombre_partido": "PARTIDO ALIANZA VERDE-DIGNIDAD Y COMPROMISO"
+    },
+    {
+        "codigo": "00322500100059620131",
+        "cod_candidato": "013",
+        "nombre_candidato": "JOSE LEONARDO",
+        "apellido_candidato": "JACOME CARRASCAL",
+        "cod_partido": "05962",
+        "nombre_partido": "CUCUTA AVANZA"
+    },
+    {
+        "codigo": "00322500100000290141",
+        "cod_candidato": "014",
+        "nombre_candidato": "EMERSON",
+        "apellido_candidato": "",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    }
+]

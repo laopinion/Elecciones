@@ -1,0 +1,2986 @@
+[
+    {
+        "codigo": "00422500100000030011",
+        "cod_candidato": "001",
+        "nombre_candidato": "JOSE OLIVERIO",
+        "apellido_candidato": "CASTELLANOS NAVARRO",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030021",
+        "cod_candidato": "002",
+        "nombre_candidato": "ALBERT LUFRANDY",
+        "apellido_candidato": "CASADIEGOS",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030041",
+        "cod_candidato": "004",
+        "nombre_candidato": "LEIDY BIBIANA",
+        "apellido_candidato": "SANABRIA CHACON",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030051",
+        "cod_candidato": "005",
+        "nombre_candidato": "CARLOS EDUARDO",
+        "apellido_candidato": "GARCIA ALICASTRO",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030061",
+        "cod_candidato": "006",
+        "nombre_candidato": "DEISY MARYLYN",
+        "apellido_candidato": "DIAZ ROJAS",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JOSE ANASTACIO",
+        "apellido_candidato": "VARGAS SANDOVAL",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030081",
+        "cod_candidato": "008",
+        "nombre_candidato": "EINER FABIAN",
+        "apellido_candidato": "DURAN NAVARRO",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030091",
+        "cod_candidato": "009",
+        "nombre_candidato": "MARIA ALEJANDRA",
+        "apellido_candidato": "MUÑOZ AYALA",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030101",
+        "cod_candidato": "010",
+        "nombre_candidato": "JUAN FERNANDO",
+        "apellido_candidato": "QUINTERO VALLEJO",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000030111",
+        "cod_candidato": "011",
+        "nombre_candidato": "LUISA",
+        "apellido_candidato": "VILLAMIZAR MANSUR",
+        "cod_partido": "00003",
+        "nombre_partido": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00422500100000040001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO ALIANZA VERDE",
+        "apellido_candidato": "",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040011",
+        "cod_candidato": "001",
+        "nombre_candidato": "EDWARD ALBERTO",
+        "apellido_candidato": "VARON FLOREZ",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040021",
+        "cod_candidato": "002",
+        "nombre_candidato": "LEIDY YOHANA",
+        "apellido_candidato": "MESA VELASCO",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040031",
+        "cod_candidato": "003",
+        "nombre_candidato": "VICTOR GUILLERMO",
+        "apellido_candidato": "CAICEDO PINZON",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040041",
+        "cod_candidato": "004",
+        "nombre_candidato": "ARNOLD ALEXIS",
+        "apellido_candidato": "ARIAS PAREDES",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JEAN CARLOS",
+        "apellido_candidato": "CARRASCAL GARCIA",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040061",
+        "cod_candidato": "006",
+        "nombre_candidato": "PATRICIA DEL PILAR",
+        "apellido_candidato": "MOLINA SANCHEZ",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040071",
+        "cod_candidato": "007",
+        "nombre_candidato": "LENNIN EDUARDO",
+        "apellido_candidato": "MEZA SANCHEZ",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040081",
+        "cod_candidato": "008",
+        "nombre_candidato": "GLORIA",
+        "apellido_candidato": "SEPULVEDA NAVARRO",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040091",
+        "cod_candidato": "009",
+        "nombre_candidato": "HUGO",
+        "apellido_candidato": "VERGARA ANGARITA",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040101",
+        "cod_candidato": "010",
+        "nombre_candidato": "MILDRED TATIANA",
+        "apellido_candidato": "MOGOLLON DALLOS",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040111",
+        "cod_candidato": "011",
+        "nombre_candidato": "PAOLA ANDREA",
+        "apellido_candidato": "HERRERA CABALLERO",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040121",
+        "cod_candidato": "012",
+        "nombre_candidato": "SERGIO ANDRES",
+        "apellido_candidato": "OLAYA SILVA",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040131",
+        "cod_candidato": "013",
+        "nombre_candidato": "BASSAM",
+        "apellido_candidato": "CHARANEK HENRIQUEZ",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040141",
+        "cod_candidato": "014",
+        "nombre_candidato": "HERLY ENDER",
+        "apellido_candidato": "MENDEZ QUINTERO",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040151",
+        "cod_candidato": "015",
+        "nombre_candidato": "SEBASTIAN HERNANDO",
+        "apellido_candidato": "CASTILLO GALVIS",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040161",
+        "cod_candidato": "016",
+        "nombre_candidato": "MARTHA JUDITH",
+        "apellido_candidato": "SILVA VELANDIA",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040171",
+        "cod_candidato": "017",
+        "nombre_candidato": "IVAN LEONARDO",
+        "apellido_candidato": "JAIMES MEDINA",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040181",
+        "cod_candidato": "018",
+        "nombre_candidato": "KENIA ISABEL",
+        "apellido_candidato": "WILCHES ARIAS",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000040191",
+        "cod_candidato": "019",
+        "nombre_candidato": "JAIR ANTONIO",
+        "apellido_candidato": "DIAZ ARDILA",
+        "cod_partido": "00004",
+        "nombre_partido": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00422500100000290001",
+        "cod_candidato": "000",
+        "nombre_candidato": "NUEVA FUERZA DEMOCRÁTICA",
+        "apellido_candidato": "",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290011",
+        "cod_candidato": "001",
+        "nombre_candidato": "DANIELA VALENTINA",
+        "apellido_candidato": "HERNANDEZ CALONGE",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290021",
+        "cod_candidato": "002",
+        "nombre_candidato": "RAQUEL",
+        "apellido_candidato": "CASTRO JAIMES",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290031",
+        "cod_candidato": "003",
+        "nombre_candidato": "YEINER GERARDO",
+        "apellido_candidato": "FIGUEROA MEDINA",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290041",
+        "cod_candidato": "004",
+        "nombre_candidato": "CARLOS SAMUEL",
+        "apellido_candidato": "ZAMBRANO LOZANO",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290051",
+        "cod_candidato": "005",
+        "nombre_candidato": "GUSTAVO ADOLFO",
+        "apellido_candidato": "PEZZOTTI PEÑARANDA",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290061",
+        "cod_candidato": "006",
+        "nombre_candidato": "NELSON ENRIQUE",
+        "apellido_candidato": "FERNANDEZ ALICASTRO",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290071",
+        "cod_candidato": "007",
+        "nombre_candidato": "LUIS ANTONIO",
+        "apellido_candidato": "CASTIBLANCO SUAREZ",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290081",
+        "cod_candidato": "008",
+        "nombre_candidato": "CARLOS ARTURO",
+        "apellido_candidato": "ALVAREZ MORA",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290091",
+        "cod_candidato": "009",
+        "nombre_candidato": "KAROLAI",
+        "apellido_candidato": "ROJAS SOLANO",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290101",
+        "cod_candidato": "010",
+        "nombre_candidato": "JUAN CARLOS",
+        "apellido_candidato": "JAIMES PEÑA",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290111",
+        "cod_candidato": "011",
+        "nombre_candidato": "INGRID YURLEY",
+        "apellido_candidato": "MORENO IBAÑEZ",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290121",
+        "cod_candidato": "012",
+        "nombre_candidato": "ANDRES ALEJANDRO",
+        "apellido_candidato": "GALVIS BALAGUERA",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290131",
+        "cod_candidato": "013",
+        "nombre_candidato": "MARIA BELEN",
+        "apellido_candidato": "PALACIO ACEVEDO",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290141",
+        "cod_candidato": "014",
+        "nombre_candidato": "EDGAR EDUARDO",
+        "apellido_candidato": "SANCHEZ CONTRERAS",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290151",
+        "cod_candidato": "015",
+        "nombre_candidato": "ROYER ARLEY",
+        "apellido_candidato": "RODRIGUEZ TRIANA",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290161",
+        "cod_candidato": "016",
+        "nombre_candidato": "HERNAN",
+        "apellido_candidato": "FIGUEROA COLMENARES",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290171",
+        "cod_candidato": "017",
+        "nombre_candidato": "RAFAEL JESUS",
+        "apellido_candidato": "PRATO ARGUELLO",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290181",
+        "cod_candidato": "018",
+        "nombre_candidato": "RICARDO JOSE",
+        "apellido_candidato": "BECERRA ALVAREZ",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000290191",
+        "cod_candidato": "019",
+        "nombre_candidato": "JESSICA KARINA",
+        "apellido_candidato": "CONTRERAS CAÑAS",
+        "cod_partido": "00029",
+        "nombre_partido": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00422500100000230001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA",
+        "apellido_candidato": "",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230011",
+        "cod_candidato": "001",
+        "nombre_candidato": "JESUS HARVEY",
+        "apellido_candidato": "GOMEZ MARTINEZ",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230021",
+        "cod_candidato": "002",
+        "nombre_candidato": "ANDRES FERNANDO",
+        "apellido_candidato": "SUAREZ VILLAMARIN",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230031",
+        "cod_candidato": "003",
+        "nombre_candidato": "MIGUEL ANGEL",
+        "apellido_candidato": "MADARIAGA REYES",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230041",
+        "cod_candidato": "004",
+        "nombre_candidato": "MARITZA",
+        "apellido_candidato": "CONTRERAS",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230061",
+        "cod_candidato": "006",
+        "nombre_candidato": "MARLON ALEXANDER",
+        "apellido_candidato": "CORTES CONTRERAS",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JAIME ESTIVENSON",
+        "apellido_candidato": "CAÑAVERAL CARDONA",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230091",
+        "cod_candidato": "009",
+        "nombre_candidato": "GINO BERNARDO",
+        "apellido_candidato": "QUIJANO ZAMBRANO",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230111",
+        "cod_candidato": "011",
+        "nombre_candidato": "YAUDELY ALEJANDRA",
+        "apellido_candidato": "PEDROZA SANGUINO",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230121",
+        "cod_candidato": "012",
+        "nombre_candidato": "VICTOR MANUEL",
+        "apellido_candidato": "ORTIZ QUIROGA",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230131",
+        "cod_candidato": "013",
+        "nombre_candidato": "CARLOS EDUARDO",
+        "apellido_candidato": "GAMBOA TORRES",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230171",
+        "cod_candidato": "017",
+        "nombre_candidato": "YAQUELINE",
+        "apellido_candidato": "URBINA GARCIA",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000230191",
+        "cod_candidato": "019",
+        "nombre_candidato": "LINDA BRIGITTE",
+        "apellido_candidato": "ACEVEDO PACHECO",
+        "cod_partido": "00023",
+        "nombre_partido": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00422500100000250001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO ECOLOGISTA COLOMBIANO",
+        "apellido_candidato": "",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250011",
+        "cod_candidato": "001",
+        "nombre_candidato": "WALTER ALFONSO",
+        "apellido_candidato": "MINA SAA",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250021",
+        "cod_candidato": "002",
+        "nombre_candidato": "JESUS ENRIQUE",
+        "apellido_candidato": "ARIAS",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250031",
+        "cod_candidato": "003",
+        "nombre_candidato": "NATALY ALEJANDRA",
+        "apellido_candidato": "AREVALO CUBILLOS",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250041",
+        "cod_candidato": "004",
+        "nombre_candidato": "LUZ JENNY",
+        "apellido_candidato": "RODRIGUEZ PEÑARANDA",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JESUS ALFREDO",
+        "apellido_candidato": "CALDERON RIOBO",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250061",
+        "cod_candidato": "006",
+        "nombre_candidato": "YAKELINE",
+        "apellido_candidato": "PEREZ RINCON",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250071",
+        "cod_candidato": "007",
+        "nombre_candidato": "ESPERANZA",
+        "apellido_candidato": "DIAZ POVEDA",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250081",
+        "cod_candidato": "008",
+        "nombre_candidato": "JOSE KINDARS",
+        "apellido_candidato": "PINEDO VASQUEZ",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250091",
+        "cod_candidato": "009",
+        "nombre_candidato": "OLGER",
+        "apellido_candidato": "MORA OYOLA",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250101",
+        "cod_candidato": "010",
+        "nombre_candidato": "ALVARO ALEXIS",
+        "apellido_candidato": "REYES SANGUINO",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250111",
+        "cod_candidato": "011",
+        "nombre_candidato": "HENRY",
+        "apellido_candidato": "MOLINA ARCHILA",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250121",
+        "cod_candidato": "012",
+        "nombre_candidato": "ONORIO",
+        "apellido_candidato": "GELVEZ GONZALEZ",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250131",
+        "cod_candidato": "013",
+        "nombre_candidato": "JOSE RICARDO",
+        "apellido_candidato": "TARAZONA",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250141",
+        "cod_candidato": "014",
+        "nombre_candidato": "KAROL DAYANA",
+        "apellido_candidato": "LOPEZ LOPEZ",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250151",
+        "cod_candidato": "015",
+        "nombre_candidato": "JOSE RAFAEL",
+        "apellido_candidato": "MORA URBINA",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250161",
+        "cod_candidato": "016",
+        "nombre_candidato": "BRAYAN MIGUEL",
+        "apellido_candidato": "ALDANA MUÑOZ",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250171",
+        "cod_candidato": "017",
+        "nombre_candidato": "LUCY JOHANNA",
+        "apellido_candidato": "TORO LLANOS",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000250191",
+        "cod_candidato": "019",
+        "nombre_candidato": "JORGE AUGUSTO",
+        "apellido_candidato": "MIRANDA CADAVID",
+        "cod_partido": "00025",
+        "nombre_partido": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000190001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO NUEVO LIBERALISMO",
+        "apellido_candidato": "",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190011",
+        "cod_candidato": "001",
+        "nombre_candidato": "LISSETH JOHANA",
+        "apellido_candidato": "OROZCO PALLARES",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190021",
+        "cod_candidato": "002",
+        "nombre_candidato": "EDGAR OLIVEY",
+        "apellido_candidato": "CUADROS GUTIERREZ",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190031",
+        "cod_candidato": "003",
+        "nombre_candidato": "SARA INES",
+        "apellido_candidato": "TORRES ALVAREZ",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190041",
+        "cod_candidato": "004",
+        "nombre_candidato": "JONATHAN FABIAN",
+        "apellido_candidato": "ORTIZ GEREDA",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190051",
+        "cod_candidato": "005",
+        "nombre_candidato": "ELIZABET",
+        "apellido_candidato": "SANCHEZ MOSQUERA",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190061",
+        "cod_candidato": "006",
+        "nombre_candidato": "GUSTAVO",
+        "apellido_candidato": "MOROS QUINTERO",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190071",
+        "cod_candidato": "007",
+        "nombre_candidato": "HERMES LEONARDO",
+        "apellido_candidato": "GAMBOA CASTRO",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190081",
+        "cod_candidato": "008",
+        "nombre_candidato": "TONY YESYD",
+        "apellido_candidato": "URBINA JAIMES",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190091",
+        "cod_candidato": "009",
+        "nombre_candidato": "CARLOS ARTURO",
+        "apellido_candidato": "RAMIREZ CORZO",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190101",
+        "cod_candidato": "010",
+        "nombre_candidato": "WILMER",
+        "apellido_candidato": "MARTINEZ SALAZAR",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190111",
+        "cod_candidato": "011",
+        "nombre_candidato": "PAULA ANDREA",
+        "apellido_candidato": "NEIRA ESPINOSA",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190121",
+        "cod_candidato": "012",
+        "nombre_candidato": "CARLOS ANDRES",
+        "apellido_candidato": "PELAEZ RAVE",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190131",
+        "cod_candidato": "013",
+        "nombre_candidato": "JOSE LUIS",
+        "apellido_candidato": "BARRERA ESPINEL",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190141",
+        "cod_candidato": "014",
+        "nombre_candidato": "ESTHEFANY MILENA",
+        "apellido_candidato": "PEREZ RODRIGUEZ",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190161",
+        "cod_candidato": "016",
+        "nombre_candidato": "JUAN CARLOS",
+        "apellido_candidato": "NUÑEZ",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190171",
+        "cod_candidato": "017",
+        "nombre_candidato": "OTONIEL",
+        "apellido_candidato": "CELY SALAMANCA",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190181",
+        "cod_candidato": "018",
+        "nombre_candidato": "JORGE IGNACIO",
+        "apellido_candidato": "REYES LOPEZ",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100000190191",
+        "cod_candidato": "019",
+        "nombre_candidato": "DALIA ELVIRA",
+        "apellido_candidato": "PINEDA RAMIREZ",
+        "cod_partido": "00019",
+        "nombre_partido": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00422500100083920000",
+        "cod_candidato": "000",
+        "nombre_candidato": "PACTO HISTORICO",
+        "apellido_candidato": "",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920010",
+        "cod_candidato": "001",
+        "nombre_candidato": "MARCO CESAR",
+        "apellido_candidato": "NIEVES PACHECO",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920020",
+        "cod_candidato": "002",
+        "nombre_candidato": "DIEGO ARMANDO",
+        "apellido_candidato": "YAÑEZ ARAQUE",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920030",
+        "cod_candidato": "003",
+        "nombre_candidato": "JENNIFER KATHERINE",
+        "apellido_candidato": "LOPEZ BARROSO",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920040",
+        "cod_candidato": "004",
+        "nombre_candidato": "RODRIGO ANTONIO",
+        "apellido_candidato": "SALAZAR MANOSALVA",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920050",
+        "cod_candidato": "005",
+        "nombre_candidato": "RAUL",
+        "apellido_candidato": "MARMOLEJO",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920060",
+        "cod_candidato": "006",
+        "nombre_candidato": "ELIA",
+        "apellido_candidato": "PEÑARANDA BAYONA",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920070",
+        "cod_candidato": "007",
+        "nombre_candidato": "GERMAN ENRIQUE",
+        "apellido_candidato": "BAUTISTA JAIMES",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100083920100",
+        "cod_candidato": "010",
+        "nombre_candidato": "DANA VALENTINA",
+        "apellido_candidato": "BOCANEGRA LOPEZ",
+        "cod_partido": "08392",
+        "nombre_partido": "PACTO HISTORICO"
+    },
+    {
+        "codigo": "00422500100000160001",
+        "cod_candidato": "000",
+        "nombre_candidato": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA",
+        "apellido_candidato": "",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160011",
+        "cod_candidato": "001",
+        "nombre_candidato": "OTONIEL FRANCISCO",
+        "apellido_candidato": "SEVERICHE GUTIERREZ",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160021",
+        "cod_candidato": "002",
+        "nombre_candidato": "GABRIEL GERARDO",
+        "apellido_candidato": "MALDONADO ESTEVEZ",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160031",
+        "cod_candidato": "003",
+        "nombre_candidato": "EDGAR AUGUSTO",
+        "apellido_candidato": "MONTES ROJAS",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160041",
+        "cod_candidato": "004",
+        "nombre_candidato": "GERSON ANDRES",
+        "apellido_candidato": "COMBARIZA VELASQUEZ",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JOSELYN",
+        "apellido_candidato": "SANCHEZ CASTAÑEDA",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160061",
+        "cod_candidato": "006",
+        "nombre_candidato": "MANUEL",
+        "apellido_candidato": "RAVELO GOMEZ",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JAVIER ALONSO",
+        "apellido_candidato": "PEDRAZA SANDOVAL",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160081",
+        "cod_candidato": "008",
+        "nombre_candidato": "LIZBETH ADELINA",
+        "apellido_candidato": "VEGA PRADA",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160091",
+        "cod_candidato": "009",
+        "nombre_candidato": "MILDRED LORENA",
+        "apellido_candidato": "LAINO NIÑO",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160101",
+        "cod_candidato": "010",
+        "nombre_candidato": "SERGIO DAVID",
+        "apellido_candidato": "MATAMOROS RUEDA",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160111",
+        "cod_candidato": "011",
+        "nombre_candidato": "ANA MARIA",
+        "apellido_candidato": "CARVAJALINO BOTELLO",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160121",
+        "cod_candidato": "012",
+        "nombre_candidato": "LUIS EDUARDO",
+        "apellido_candidato": "MEDINA BECERRA",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160131",
+        "cod_candidato": "013",
+        "nombre_candidato": "YENDRI SOLIANY",
+        "apellido_candidato": "GUERRERO BECERRA",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160141",
+        "cod_candidato": "014",
+        "nombre_candidato": "MIGUEL DARIO",
+        "apellido_candidato": "SIERRA RUBIO",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160151",
+        "cod_candidato": "015",
+        "nombre_candidato": "EVELIN DAYANA",
+        "apellido_candidato": "CRUZ GELVIS",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160161",
+        "cod_candidato": "016",
+        "nombre_candidato": "GERARDO JOSE",
+        "apellido_candidato": "SANABRIA SANTANDER",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160171",
+        "cod_candidato": "017",
+        "nombre_candidato": "JUANA VALENTINA",
+        "apellido_candidato": "GONZALEZ VARGAS",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160181",
+        "cod_candidato": "018",
+        "nombre_candidato": "LUIS FRANCISCO",
+        "apellido_candidato": "USECHE VEGA",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000160191",
+        "cod_candidato": "019",
+        "nombre_candidato": "LUIS ALEJANDRO",
+        "apellido_candidato": "CASTELLANOS CARDENAS",
+        "cod_partido": "00016",
+        "nombre_partido": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00422500100000060001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\"",
+        "apellido_candidato": "",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060011",
+        "cod_candidato": "001",
+        "nombre_candidato": "LAUREANO",
+        "apellido_candidato": "ROJAS GALVAN",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060021",
+        "cod_candidato": "002",
+        "nombre_candidato": "FILOMENA",
+        "apellido_candidato": "PERALES ZAPATA",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060031",
+        "cod_candidato": "003",
+        "nombre_candidato": "JESUS DAVID",
+        "apellido_candidato": "SALAS ROJAS",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060041",
+        "cod_candidato": "004",
+        "nombre_candidato": "TULIO RAUL",
+        "apellido_candidato": "AREVALO VILLAMIZAR",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060051",
+        "cod_candidato": "005",
+        "nombre_candidato": "SAUL FERNANDO",
+        "apellido_candidato": "CASTILLA SANCHEZ",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060061",
+        "cod_candidato": "006",
+        "nombre_candidato": "HERMELINA",
+        "apellido_candidato": "LUNA ANDRADE",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060071",
+        "cod_candidato": "007",
+        "nombre_candidato": "ERWIN MANUEL",
+        "apellido_candidato": "CUERVO MACHADO",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060081",
+        "cod_candidato": "008",
+        "nombre_candidato": "EDWARD ALFONSO",
+        "apellido_candidato": "ROJAS COTAMO",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060091",
+        "cod_candidato": "009",
+        "nombre_candidato": "GIOVANNY",
+        "apellido_candidato": "RINCON BARON",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060101",
+        "cod_candidato": "010",
+        "nombre_candidato": "WILSON",
+        "apellido_candidato": "VACA SANGUINO",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060111",
+        "cod_candidato": "011",
+        "nombre_candidato": "LUIS ERNESTO",
+        "apellido_candidato": "RODRIGUEZ VILLAN",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060121",
+        "cod_candidato": "012",
+        "nombre_candidato": "ELIZABETH",
+        "apellido_candidato": "SERRANO BARAJAS",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060131",
+        "cod_candidato": "013",
+        "nombre_candidato": "BELKIS YURLEY",
+        "apellido_candidato": "LEAL RODRIGUEZ",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060141",
+        "cod_candidato": "014",
+        "nombre_candidato": "MAYKEL EDUARDO",
+        "apellido_candidato": "PARRA RAMIREZ",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060151",
+        "cod_candidato": "015",
+        "nombre_candidato": "LERBIN MICHELL",
+        "apellido_candidato": "SANCHEZ BAUTISTA",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060161",
+        "cod_candidato": "016",
+        "nombre_candidato": "NUBIA ESTHER",
+        "apellido_candidato": "CONTRERAS PEÑA",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060171",
+        "cod_candidato": "017",
+        "nombre_candidato": "BLANCA YUZLEYMY",
+        "apellido_candidato": "VILLAMIZAR GONZALEZ",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060181",
+        "cod_candidato": "018",
+        "nombre_candidato": "LAURA",
+        "apellido_candidato": "ROMERO LOZANO",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000060191",
+        "cod_candidato": "019",
+        "nombre_candidato": "LUIS OVIDIO",
+        "apellido_candidato": "PALACIOS CASADIEGOS",
+        "cod_partido": "00006",
+        "nombre_partido": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00422500100000020001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO CONSERVADOR COLOMBIANO",
+        "apellido_candidato": "",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020011",
+        "cod_candidato": "001",
+        "nombre_candidato": "CARLOS LUIS",
+        "apellido_candidato": "CHACON CONTRERAS",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020021",
+        "cod_candidato": "002",
+        "nombre_candidato": "EDGAR LEONARDO",
+        "apellido_candidato": "TORRADO CACERES",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020031",
+        "cod_candidato": "003",
+        "nombre_candidato": "JESUS ALBERTO",
+        "apellido_candidato": "ZAPATA RINCON",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020041",
+        "cod_candidato": "004",
+        "nombre_candidato": "JUAN SEBASTIAN",
+        "apellido_candidato": "PARRA FLOREZ",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020051",
+        "cod_candidato": "005",
+        "nombre_candidato": "NIDIA GIMENA",
+        "apellido_candidato": "CAMACHO VILLAMIZAR",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020061",
+        "cod_candidato": "006",
+        "nombre_candidato": "FRANCISCO",
+        "apellido_candidato": "CORTES RAMIREZ",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020071",
+        "cod_candidato": "007",
+        "nombre_candidato": "CESAR ARBEY",
+        "apellido_candidato": "TORRES BAUTISTA",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020081",
+        "cod_candidato": "008",
+        "nombre_candidato": "JUAN MANUEL",
+        "apellido_candidato": "CONTRERAS MARIÑO",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020091",
+        "cod_candidato": "009",
+        "nombre_candidato": "EDGAR",
+        "apellido_candidato": "EPALZA CASTRO",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020101",
+        "cod_candidato": "010",
+        "nombre_candidato": "JEFFERSON",
+        "apellido_candidato": "CASTELLANOS SILVA",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020111",
+        "cod_candidato": "011",
+        "nombre_candidato": "JESSICA LORENA",
+        "apellido_candidato": "MORA SANABRIA",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020121",
+        "cod_candidato": "012",
+        "nombre_candidato": "JOSE RICARDO",
+        "apellido_candidato": "AYALA GOMEZ",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020131",
+        "cod_candidato": "013",
+        "nombre_candidato": "CAROL JULIANA",
+        "apellido_candidato": "URIBE GARCIA",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020141",
+        "cod_candidato": "014",
+        "nombre_candidato": "GONZALO",
+        "apellido_candidato": "RIVERO ROJAS",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020151",
+        "cod_candidato": "015",
+        "nombre_candidato": "JHON JAIRO",
+        "apellido_candidato": "GALVIS CONTRERAS",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020161",
+        "cod_candidato": "016",
+        "nombre_candidato": "LUDY ZAMARITH",
+        "apellido_candidato": "GAMBOA MENDOZA",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020171",
+        "cod_candidato": "017",
+        "nombre_candidato": "DIANA PAOLA",
+        "apellido_candidato": "SOTO MARTINEZ",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020181",
+        "cod_candidato": "018",
+        "nombre_candidato": "PAULA DANIELA",
+        "apellido_candidato": "PEREZ BULLA",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000020191",
+        "cod_candidato": "019",
+        "nombre_candidato": "CARLOS ARTURO",
+        "apellido_candidato": "RAMOS MEJIA",
+        "cod_partido": "00002",
+        "nombre_partido": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100061380001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA",
+        "apellido_candidato": "",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380011",
+        "cod_candidato": "001",
+        "nombre_candidato": "YANET CARIME",
+        "apellido_candidato": "RODRIGUEZ RODRIGUEZ",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380021",
+        "cod_candidato": "002",
+        "nombre_candidato": "JULIO CESAR",
+        "apellido_candidato": "REALES RANGEL",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380031",
+        "cod_candidato": "003",
+        "nombre_candidato": "ADRIAN ALEXIS",
+        "apellido_candidato": "ALVARADO MORENO",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380041",
+        "cod_candidato": "004",
+        "nombre_candidato": "LENIN ORLANDO",
+        "apellido_candidato": "HERRERA CABALLERO",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JHON JAIRO",
+        "apellido_candidato": "VILLAMIZAR MORA",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380061",
+        "cod_candidato": "006",
+        "nombre_candidato": "ANDRE FERLEY",
+        "apellido_candidato": "MENDEZ MEJIA",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380071",
+        "cod_candidato": "007",
+        "nombre_candidato": "MICHELLE VALENTINA",
+        "apellido_candidato": "RAMIREZ MANTILLA",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380081",
+        "cod_candidato": "008",
+        "nombre_candidato": "ALONSO ELISEO",
+        "apellido_candidato": "TORRES HERRERA",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380091",
+        "cod_candidato": "009",
+        "nombre_candidato": "CARLOS JESUS",
+        "apellido_candidato": "GAMBOA GOMEZ",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380101",
+        "cod_candidato": "010",
+        "nombre_candidato": "GEORGE ALEXANDER",
+        "apellido_candidato": "SALAZAR MARQUEZ",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380111",
+        "cod_candidato": "011",
+        "nombre_candidato": "JUAN VICENTE",
+        "apellido_candidato": "SILVA RUEDA",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380121",
+        "cod_candidato": "012",
+        "nombre_candidato": "JEFFERSON ARLEY",
+        "apellido_candidato": "JAIMES CHIA",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380131",
+        "cod_candidato": "013",
+        "nombre_candidato": "JOSE DANIEL",
+        "apellido_candidato": "BRUCE COLMENARES",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380141",
+        "cod_candidato": "014",
+        "nombre_candidato": "DOMINGA",
+        "apellido_candidato": "GRUESO CARABALI",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380151",
+        "cod_candidato": "015",
+        "nombre_candidato": "VICTOR MANUEL",
+        "apellido_candidato": "PARRA SUAREZ",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380161",
+        "cod_candidato": "016",
+        "nombre_candidato": "ANGIE MISHELL",
+        "apellido_candidato": "MORENO CORONEL",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380171",
+        "cod_candidato": "017",
+        "nombre_candidato": "CAMILA ANDREA",
+        "apellido_candidato": "QUINTERO CHAUSTRE",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380181",
+        "cod_candidato": "018",
+        "nombre_candidato": "CIRO ERNESTO",
+        "apellido_candidato": "ESPINOSA ANTELO",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100061380191",
+        "cod_candidato": "019",
+        "nombre_candidato": "LINA MARGARITA",
+        "apellido_candidato": "REYES RINCON",
+        "cod_partido": "06138",
+        "nombre_partido": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "00422500100000110001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO CENTRO DEMOCRÁTICO",
+        "apellido_candidato": "",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110011",
+        "cod_candidato": "001",
+        "nombre_candidato": "ALVARO ANDRES",
+        "apellido_candidato": "RAAD FORERO",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110021",
+        "cod_candidato": "002",
+        "nombre_candidato": "LEONARDO",
+        "apellido_candidato": "CORREA GUERRERO",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110031",
+        "cod_candidato": "003",
+        "nombre_candidato": "JOHAN MAURICIO",
+        "apellido_candidato": "MENESES CLARO",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110041",
+        "cod_candidato": "004",
+        "nombre_candidato": "JESSENIA LIZBETH",
+        "apellido_candidato": "GALVIS DIAZ",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110051",
+        "cod_candidato": "005",
+        "nombre_candidato": "FRANK EDWIN",
+        "apellido_candidato": "CORREDOR NIÑO",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110061",
+        "cod_candidato": "006",
+        "nombre_candidato": "NERIO ALFONSO",
+        "apellido_candidato": "TRUJILLO DUARTE",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110071",
+        "cod_candidato": "007",
+        "nombre_candidato": "EDWIN AUGUSTO",
+        "apellido_candidato": "DELGADO MARIN",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110081",
+        "cod_candidato": "008",
+        "nombre_candidato": "CARLOS EDUARDO",
+        "apellido_candidato": "CAMERO ROLON",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110091",
+        "cod_candidato": "009",
+        "nombre_candidato": "DIEGO LORENSO",
+        "apellido_candidato": "ESPITIA LOPEZ",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110101",
+        "cod_candidato": "010",
+        "nombre_candidato": "YANCY YOLANDA",
+        "apellido_candidato": "JAIMES MANTILLA",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110111",
+        "cod_candidato": "011",
+        "nombre_candidato": "YANSURY",
+        "apellido_candidato": "VAQUIRO ORTIZ",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110121",
+        "cod_candidato": "012",
+        "nombre_candidato": "OMAR EDUARDO",
+        "apellido_candidato": "PINEDA MORA",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110131",
+        "cod_candidato": "013",
+        "nombre_candidato": "MARIO",
+        "apellido_candidato": "ROPERO ROJAS",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110141",
+        "cod_candidato": "014",
+        "nombre_candidato": "CARMEN EUFEMIA",
+        "apellido_candidato": "DIAZ RINCON",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110151",
+        "cod_candidato": "015",
+        "nombre_candidato": "LUZ MARIELA",
+        "apellido_candidato": "GOMEZ GARZON",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000110161",
+        "cod_candidato": "016",
+        "nombre_candidato": "CARLOS ALBERTO",
+        "apellido_candidato": "DUEÑAS YARURO",
+        "cod_partido": "00011",
+        "nombre_partido": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00422500100000370001",
+        "cod_candidato": "000",
+        "nombre_candidato": "MOVIMIENTO POLITICO FUERZA CIUDADANA",
+        "apellido_candidato": "",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370011",
+        "cod_candidato": "001",
+        "nombre_candidato": "NEFER IVETTE",
+        "apellido_candidato": "SAAVEDRA DEVIA",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370021",
+        "cod_candidato": "002",
+        "nombre_candidato": "CARLOS ANDRES",
+        "apellido_candidato": "ROA",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370031",
+        "cod_candidato": "003",
+        "nombre_candidato": "DANIEL",
+        "apellido_candidato": "ORTIZ VARGAS",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370041",
+        "cod_candidato": "004",
+        "nombre_candidato": "GERSON JAVIER",
+        "apellido_candidato": "CONTRERAS GALLEGO",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370051",
+        "cod_candidato": "005",
+        "nombre_candidato": "MIGUEL ANGEL",
+        "apellido_candidato": "HERNANDEZ CHINCHILLA",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370061",
+        "cod_candidato": "006",
+        "nombre_candidato": "JHON FRAN",
+        "apellido_candidato": "ANAYA MIRANDA",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370071",
+        "cod_candidato": "007",
+        "nombre_candidato": "FREDDY FRANCISCO",
+        "apellido_candidato": "CRUZ MOLINA",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370081",
+        "cod_candidato": "008",
+        "nombre_candidato": "NELSON ANDRES",
+        "apellido_candidato": "FLORES DELGADO",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370091",
+        "cod_candidato": "009",
+        "nombre_candidato": "XIMENA AMPARO DE BELEN",
+        "apellido_candidato": "OVALLOS RODRIGUEZ",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370101",
+        "cod_candidato": "010",
+        "nombre_candidato": "FREDY",
+        "apellido_candidato": "BOTELLO SANCHEZ",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370111",
+        "cod_candidato": "011",
+        "nombre_candidato": "DIANA KARINA",
+        "apellido_candidato": "VARGAS",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370121",
+        "cod_candidato": "012",
+        "nombre_candidato": "SERVIO TULIO",
+        "apellido_candidato": "OÑA RUIZ",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370131",
+        "cod_candidato": "013",
+        "nombre_candidato": "LUIS ARMANDO",
+        "apellido_candidato": "PEREZ VARGAS",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370141",
+        "cod_candidato": "014",
+        "nombre_candidato": "DEISSY NATALY",
+        "apellido_candidato": "CARVAJAL BERNAL",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370151",
+        "cod_candidato": "015",
+        "nombre_candidato": "GUSTAVO ADOLFO",
+        "apellido_candidato": "ASSAF GAFARO",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370161",
+        "cod_candidato": "016",
+        "nombre_candidato": "JUAN FRANCISCO",
+        "apellido_candidato": "GOMEZ NIÑO",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370171",
+        "cod_candidato": "017",
+        "nombre_candidato": "YIMI CRISTIAN",
+        "apellido_candidato": "GOMEZ VELASCO",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370181",
+        "cod_candidato": "018",
+        "nombre_candidato": "ANA MARIA",
+        "apellido_candidato": "LOSADA CALDERON",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100000370191",
+        "cod_candidato": "019",
+        "nombre_candidato": "OLGA DOLORES",
+        "apellido_candidato": "BENITEZ HERRERA",
+        "cod_partido": "00037",
+        "nombre_partido": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "00422500100057660001",
+        "cod_candidato": "000",
+        "nombre_candidato": "EL PLAN  CÚCUTA",
+        "apellido_candidato": "",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660011",
+        "cod_candidato": "001",
+        "nombre_candidato": "JESUS ALBERTO",
+        "apellido_candidato": "SEPULVEDA BERMONTH",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660021",
+        "cod_candidato": "002",
+        "nombre_candidato": "LUIS FERNANDO",
+        "apellido_candidato": "RAMIREZ OVALLES",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660031",
+        "cod_candidato": "003",
+        "nombre_candidato": "RAFAEL HUMBERTO",
+        "apellido_candidato": "POVEDA MUNEVAR",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660041",
+        "cod_candidato": "004",
+        "nombre_candidato": "JHOAN JAVIER",
+        "apellido_candidato": "ZAMBRANO YANES",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JESUS DAVID",
+        "apellido_candidato": "TORRES PEÑARANDA",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660061",
+        "cod_candidato": "006",
+        "nombre_candidato": "CAROLINA",
+        "apellido_candidato": "LEON UREÑA",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JAMPIER ANDRES",
+        "apellido_candidato": "AREVALO ARDILA",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660081",
+        "cod_candidato": "008",
+        "nombre_candidato": "ELKIN DANIEL",
+        "apellido_candidato": "VERGEL PACHECO",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660091",
+        "cod_candidato": "009",
+        "nombre_candidato": "JESUS EDUARDO",
+        "apellido_candidato": "GUEVARA FERNANDEZ",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660101",
+        "cod_candidato": "010",
+        "nombre_candidato": "DIEGO ARMANDO",
+        "apellido_candidato": "GUTIERREZ DIAZ",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660111",
+        "cod_candidato": "011",
+        "nombre_candidato": "DOMINGO ALBERTO",
+        "apellido_candidato": "NIÑO BECERRA",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660121",
+        "cod_candidato": "012",
+        "nombre_candidato": "LISSET KRISVELLY",
+        "apellido_candidato": "VERA LAGUADO",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660131",
+        "cod_candidato": "013",
+        "nombre_candidato": "JORGE IVAN",
+        "apellido_candidato": "MUÑOZ GARCIA",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660141",
+        "cod_candidato": "014",
+        "nombre_candidato": "WILSON",
+        "apellido_candidato": "FANDIÑO",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660151",
+        "cod_candidato": "015",
+        "nombre_candidato": "JOAQUIN",
+        "apellido_candidato": "PRADA ROJAS",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660161",
+        "cod_candidato": "016",
+        "nombre_candidato": "LEYDI JOHANNA",
+        "apellido_candidato": "PAREDES DELGADO",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660171",
+        "cod_candidato": "017",
+        "nombre_candidato": "MARILU",
+        "apellido_candidato": "MONCADA LOPEZ",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660181",
+        "cod_candidato": "018",
+        "nombre_candidato": "DORIDA",
+        "apellido_candidato": "MEDINA ALVAREZ",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100057660191",
+        "cod_candidato": "019",
+        "nombre_candidato": "LUZ AMPARO",
+        "apellido_candidato": "REYES CAÑAS",
+        "cod_partido": "05766",
+        "nombre_partido": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "00422500100000200001",
+        "cod_candidato": "000",
+        "nombre_candidato": "MOVIMIENTO  SALVACIÓN NACIONAL",
+        "apellido_candidato": "",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200011",
+        "cod_candidato": "001",
+        "nombre_candidato": "CLAUDIA",
+        "apellido_candidato": "LEMUS GOMEZ",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200021",
+        "cod_candidato": "002",
+        "nombre_candidato": "YESEHIN",
+        "apellido_candidato": "VISBAL JAIMES",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200031",
+        "cod_candidato": "003",
+        "nombre_candidato": "JOSE GUSTAVO",
+        "apellido_candidato": "FLOREZ MENDOZA",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200041",
+        "cod_candidato": "004",
+        "nombre_candidato": "PEDRO NOLASCO",
+        "apellido_candidato": "VALENZUELA BARRAGAN",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200051",
+        "cod_candidato": "005",
+        "nombre_candidato": "SARAY DAYANA",
+        "apellido_candidato": "NAJAR CARRERO",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200061",
+        "cod_candidato": "006",
+        "nombre_candidato": "RUBEN DARIO",
+        "apellido_candidato": "PERALTA CHAVES",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JESUS EMEL",
+        "apellido_candidato": "ESPINEL GALVIS",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200081",
+        "cod_candidato": "008",
+        "nombre_candidato": "MIGUEL RAMIRO",
+        "apellido_candidato": "ESCALANTE LUNA",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200091",
+        "cod_candidato": "009",
+        "nombre_candidato": "MARLENE",
+        "apellido_candidato": "ORTIZ ROJAS",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200101",
+        "cod_candidato": "010",
+        "nombre_candidato": "WILLIAM ABEL",
+        "apellido_candidato": "OVALLOS PACHECO",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200111",
+        "cod_candidato": "011",
+        "nombre_candidato": "JOSE GREGORIO",
+        "apellido_candidato": "VARGAS CONTRERAS",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200121",
+        "cod_candidato": "012",
+        "nombre_candidato": "JORGE TRINIDAD",
+        "apellido_candidato": "NORIEGA QUINTERO",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200131",
+        "cod_candidato": "013",
+        "nombre_candidato": "CARLOS ALBERTO",
+        "apellido_candidato": "MONCADA CONTRERAS",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200141",
+        "cod_candidato": "014",
+        "nombre_candidato": "MIREYA",
+        "apellido_candidato": "RINCON PEDRAZA",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200151",
+        "cod_candidato": "015",
+        "nombre_candidato": "WILMER GILBERTO",
+        "apellido_candidato": "BALMACEDA ALVAREZ",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200161",
+        "cod_candidato": "016",
+        "nombre_candidato": "PEDRO",
+        "apellido_candidato": "GOMEZ MEDINA",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200171",
+        "cod_candidato": "017",
+        "nombre_candidato": "NANCY VIVIANA",
+        "apellido_candidato": "SUAREZ PEREZ",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200181",
+        "cod_candidato": "018",
+        "nombre_candidato": "DEISY DANIELA",
+        "apellido_candidato": "GARCIA LIZCANO",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000200191",
+        "cod_candidato": "019",
+        "nombre_candidato": "VICENTE",
+        "apellido_candidato": "GARCIA GRANADOS",
+        "cod_partido": "00020",
+        "nombre_partido": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00422500100000210001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO VERDE OXÍGENO",
+        "apellido_candidato": "",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210011",
+        "cod_candidato": "001",
+        "nombre_candidato": "MARIA FERNANDA",
+        "apellido_candidato": "MOROS VERGEL",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210021",
+        "cod_candidato": "002",
+        "nombre_candidato": "ALEJANDRO",
+        "apellido_candidato": "GRANADOS ORDOÑEZ",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210031",
+        "cod_candidato": "003",
+        "nombre_candidato": "JULIO CESAR",
+        "apellido_candidato": "ACEVEDO VARGAS",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210041",
+        "cod_candidato": "004",
+        "nombre_candidato": "ALVARO",
+        "apellido_candidato": "SANCHEZ ORTIZ",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210061",
+        "cod_candidato": "006",
+        "nombre_candidato": "JAVIER ALEXANDER",
+        "apellido_candidato": "HERNANDEZ PAEZ",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210071",
+        "cod_candidato": "007",
+        "nombre_candidato": "MARIA CRISTINA",
+        "apellido_candidato": "ZABALA ORTEGA",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210081",
+        "cod_candidato": "008",
+        "nombre_candidato": "MIGUEL ANGEL",
+        "apellido_candidato": "DURAN MONSALVE",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210091",
+        "cod_candidato": "009",
+        "nombre_candidato": "HUGO ARTURO",
+        "apellido_candidato": "SANGUINO PEÑARANDA",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210101",
+        "cod_candidato": "010",
+        "nombre_candidato": "JOSE FRANCISCO",
+        "apellido_candidato": "PALACIOS ESPEJOS",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210111",
+        "cod_candidato": "011",
+        "nombre_candidato": "FABIAN ANDRES",
+        "apellido_candidato": "ARAQUE GUTIERREZ",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210121",
+        "cod_candidato": "012",
+        "nombre_candidato": "DIOMAR JESUS",
+        "apellido_candidato": "MANZANO AMAYA",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210131",
+        "cod_candidato": "013",
+        "nombre_candidato": "ZORAYA",
+        "apellido_candidato": "NIEVES LARRAHONDO",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210141",
+        "cod_candidato": "014",
+        "nombre_candidato": "GRECIA YOANA",
+        "apellido_candidato": "CELIS BUITRAGO",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210151",
+        "cod_candidato": "015",
+        "nombre_candidato": "WILLIAM MARTIN",
+        "apellido_candidato": "COTE VILLAMIZAR",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210161",
+        "cod_candidato": "016",
+        "nombre_candidato": "LUZ MARINA",
+        "apellido_candidato": "CACERES ORTIZ",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210171",
+        "cod_candidato": "017",
+        "nombre_candidato": "CLAUDIA LILIANA",
+        "apellido_candidato": "BELEÑO VILLAMIZAR",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210181",
+        "cod_candidato": "018",
+        "nombre_candidato": "GIOVANNI",
+        "apellido_candidato": "GUTIERREZ RUBIO",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000210191",
+        "cod_candidato": "019",
+        "nombre_candidato": "OSCAR JAVIER",
+        "apellido_candidato": "SANABRIA USCATEGUI",
+        "cod_partido": "00021",
+        "nombre_partido": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00422500100000310000",
+        "cod_candidato": "000",
+        "nombre_candidato": "INDEPENDIENTES",
+        "apellido_candidato": "",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310010",
+        "cod_candidato": "001",
+        "nombre_candidato": "NILMA CECILIA",
+        "apellido_candidato": "BASTOS JIMENEZ",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310020",
+        "cod_candidato": "002",
+        "nombre_candidato": "NATALIA VALENTINA",
+        "apellido_candidato": "DURAN LEAL",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310030",
+        "cod_candidato": "003",
+        "nombre_candidato": "RODOLFO MARTIN",
+        "apellido_candidato": "CARRILO VARGAS",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310040",
+        "cod_candidato": "004",
+        "nombre_candidato": "LEIDY VANESSA",
+        "apellido_candidato": "VEGA TORRES",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310050",
+        "cod_candidato": "005",
+        "nombre_candidato": "CARLOS ALBERTO",
+        "apellido_candidato": "VILLAMIZAR RODRIGUEZ",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310060",
+        "cod_candidato": "006",
+        "nombre_candidato": "LUIS LEONARDO",
+        "apellido_candidato": "LUNA CELIS",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310070",
+        "cod_candidato": "007",
+        "nombre_candidato": "ELWIN GIOVANNY",
+        "apellido_candidato": "DIAZ MANRIQUE",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100000310080",
+        "cod_candidato": "008",
+        "nombre_candidato": "LEIDY JOHANNA",
+        "apellido_candidato": "OSORIO",
+        "cod_partido": "00031",
+        "nombre_partido": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00422500100024490001",
+        "cod_candidato": "000",
+        "nombre_candidato": "TODOS POR CUCUTA",
+        "apellido_candidato": "",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490011",
+        "cod_candidato": "001",
+        "nombre_candidato": "KELLY TATIANA",
+        "apellido_candidato": "REYES MONTALVO",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490031",
+        "cod_candidato": "003",
+        "nombre_candidato": "ADRIAN CENON",
+        "apellido_candidato": "MURILLO",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490041",
+        "cod_candidato": "004",
+        "nombre_candidato": "PEDRO ANDRES",
+        "apellido_candidato": "VARGAS MARIÑO",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490051",
+        "cod_candidato": "005",
+        "nombre_candidato": "MISHELL TATIANA",
+        "apellido_candidato": "MARROQUIN ERAZO",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490061",
+        "cod_candidato": "006",
+        "nombre_candidato": "DIEGO ARMANDO",
+        "apellido_candidato": "TRIANA CASTELLANOS",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490071",
+        "cod_candidato": "007",
+        "nombre_candidato": "OCTAVIO ANDRES",
+        "apellido_candidato": "HERNANDEZ RODRIGUEZ",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490081",
+        "cod_candidato": "008",
+        "nombre_candidato": "DALI EDWIN",
+        "apellido_candidato": "PEÑA GARCIA",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490091",
+        "cod_candidato": "009",
+        "nombre_candidato": "CIELO ISABEL",
+        "apellido_candidato": "MARTINEZ VESGA",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490101",
+        "cod_candidato": "010",
+        "nombre_candidato": "CLIMACO",
+        "apellido_candidato": "ARDILA GARCIA",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490111",
+        "cod_candidato": "011",
+        "nombre_candidato": "JONATHAN",
+        "apellido_candidato": "GIRALDO VELASQUEZ",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490121",
+        "cod_candidato": "012",
+        "nombre_candidato": "JULIO ALBERTO",
+        "apellido_candidato": "MONTEJO TORRES",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490131",
+        "cod_candidato": "013",
+        "nombre_candidato": "YURI ALEXANDER",
+        "apellido_candidato": "SILVA HERNANDEZ",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490141",
+        "cod_candidato": "014",
+        "nombre_candidato": "ROSALBA",
+        "apellido_candidato": "ORTIZ",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490151",
+        "cod_candidato": "015",
+        "nombre_candidato": "JUAN CARLOS",
+        "apellido_candidato": "BASTOS",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490161",
+        "cod_candidato": "016",
+        "nombre_candidato": "MARIA YAMILE",
+        "apellido_candidato": "GIL DIAZ",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490171",
+        "cod_candidato": "017",
+        "nombre_candidato": "MARISELA",
+        "apellido_candidato": "RIOS MARTINEZ",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490181",
+        "cod_candidato": "018",
+        "nombre_candidato": "LIBARDO",
+        "apellido_candidato": "CUBEROS LEON",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100024490191",
+        "cod_candidato": "019",
+        "nombre_candidato": "EDISON ERNESTO",
+        "apellido_candidato": "CONTRERAS RODRIGUEZ",
+        "cod_partido": "02449",
+        "nombre_partido": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "00422500100069660001",
+        "cod_candidato": "000",
+        "nombre_candidato": "COALICION LA U, JUSTA LIBRES Y AICO",
+        "apellido_candidato": "",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660011",
+        "cod_candidato": "001",
+        "nombre_candidato": "VANESSA",
+        "apellido_candidato": "ARENAS GONZALEZ",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660021",
+        "cod_candidato": "002",
+        "nombre_candidato": "SARA ISABEL",
+        "apellido_candidato": "OSPINA CASADIEGO",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660031",
+        "cod_candidato": "003",
+        "nombre_candidato": "JHON JAIRO",
+        "apellido_candidato": "PABON FLOREZ",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660041",
+        "cod_candidato": "004",
+        "nombre_candidato": "JEISON ARBEY",
+        "apellido_candidato": "BOTELLO ALBARRACIN",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660051",
+        "cod_candidato": "005",
+        "nombre_candidato": "EDUARDO ANTONIO",
+        "apellido_candidato": "GERARDINO MANDON",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660061",
+        "cod_candidato": "006",
+        "nombre_candidato": "CALIXTO",
+        "apellido_candidato": "MANTILLA GARCIA",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JOSE JULIAN",
+        "apellido_candidato": "ROLON CONDE",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660081",
+        "cod_candidato": "008",
+        "nombre_candidato": "JOHN JAIRO",
+        "apellido_candidato": "GELVIS VARGAS",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660091",
+        "cod_candidato": "009",
+        "nombre_candidato": "SOCORRO",
+        "apellido_candidato": "FLOREZ BONILLA",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660101",
+        "cod_candidato": "010",
+        "nombre_candidato": "GUILLERMO",
+        "apellido_candidato": "LEON BAEZ",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660111",
+        "cod_candidato": "011",
+        "nombre_candidato": "CARMEN LUCIA",
+        "apellido_candidato": "DAZA POVEDA",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660121",
+        "cod_candidato": "012",
+        "nombre_candidato": "LEIDY VIVIANA",
+        "apellido_candidato": "MORENO MORENO",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660131",
+        "cod_candidato": "013",
+        "nombre_candidato": "FANNY TERESA",
+        "apellido_candidato": "GRANADOS RANGEL",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660141",
+        "cod_candidato": "014",
+        "nombre_candidato": "JORGE ENRIQUE",
+        "apellido_candidato": "MENDEZ AREVALO",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660151",
+        "cod_candidato": "015",
+        "nombre_candidato": "CARLOS ADOLFO",
+        "apellido_candidato": "MENDEZ",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660161",
+        "cod_candidato": "016",
+        "nombre_candidato": "JOHN JAIRO ELIAS",
+        "apellido_candidato": "GARCIA ORTIZ",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660171",
+        "cod_candidato": "017",
+        "nombre_candidato": "LUZ OMAIRA",
+        "apellido_candidato": "GOMEZ BARAJAS",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660181",
+        "cod_candidato": "018",
+        "nombre_candidato": "EDWARD ENRIQUE",
+        "apellido_candidato": "PATIÑO",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100069660191",
+        "cod_candidato": "019",
+        "nombre_candidato": "EDWIN HERNNEY",
+        "apellido_candidato": "DUARTE GOMEZ",
+        "cod_partido": "06966",
+        "nombre_partido": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "00422500100000240001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO DEMÓCRATA COLOMBIANO",
+        "apellido_candidato": "",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240011",
+        "cod_candidato": "001",
+        "nombre_candidato": "EDINSON JOSE",
+        "apellido_candidato": "SEPULVEDA SANCHEZ",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240021",
+        "cod_candidato": "002",
+        "nombre_candidato": "JOSE MANUEL",
+        "apellido_candidato": "ESCALANTE FLOREZ",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240031",
+        "cod_candidato": "003",
+        "nombre_candidato": "RAUL JOSE",
+        "apellido_candidato": "CONTRERAS MELLADO",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240041",
+        "cod_candidato": "004",
+        "nombre_candidato": "JESUS ALBEIRO",
+        "apellido_candidato": "ESCALANTE GUERRERO",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JOSE MAURICIO",
+        "apellido_candidato": "VALENCIA ARENAS",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240061",
+        "cod_candidato": "006",
+        "nombre_candidato": "JOSE LUIS",
+        "apellido_candidato": "VERDOOREN LOBATO",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240071",
+        "cod_candidato": "007",
+        "nombre_candidato": "YOLANDA",
+        "apellido_candidato": "RANGEL GARZA",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240081",
+        "cod_candidato": "008",
+        "nombre_candidato": "ANGELIS STAIRY",
+        "apellido_candidato": "CARDENAS GONZALEZ",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240101",
+        "cod_candidato": "010",
+        "nombre_candidato": "LUIS ENRIQUE",
+        "apellido_candidato": "RIVERA BARBOSA",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240111",
+        "cod_candidato": "011",
+        "nombre_candidato": "CARLOS ANDRES",
+        "apellido_candidato": "BARBOSA TORRADO",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240121",
+        "cod_candidato": "012",
+        "nombre_candidato": "JHEINNY YASMIT",
+        "apellido_candidato": "ORTEGA",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240131",
+        "cod_candidato": "013",
+        "nombre_candidato": "JUAN GABRIEL",
+        "apellido_candidato": "LOZANO HERNANDEZ",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240141",
+        "cod_candidato": "014",
+        "nombre_candidato": "LUZ STHEFANY",
+        "apellido_candidato": "MYERSTON VEGA",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240151",
+        "cod_candidato": "015",
+        "nombre_candidato": "LEONARDO ADOLFO",
+        "apellido_candidato": "CANO AMAYA",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240161",
+        "cod_candidato": "016",
+        "nombre_candidato": "YOLY ALEJANDRA",
+        "apellido_candidato": "ARDILA SUAREZ",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240171",
+        "cod_candidato": "017",
+        "nombre_candidato": "MARIA TERESA",
+        "apellido_candidato": "MESA",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240181",
+        "cod_candidato": "018",
+        "nombre_candidato": "ALEXANDER",
+        "apellido_candidato": "GOMEZ MENDEZ",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000240191",
+        "cod_candidato": "019",
+        "nombre_candidato": "JORGE ENRIQUE",
+        "apellido_candidato": "MONCADA",
+        "cod_partido": "00024",
+        "nombre_partido": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00422500100000260001",
+        "cod_candidato": "000",
+        "nombre_candidato": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ",
+        "apellido_candidato": "",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260011",
+        "cod_candidato": "001",
+        "nombre_candidato": "MAIRA XIMENA",
+        "apellido_candidato": "ACEVEDO PAEZ",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260021",
+        "cod_candidato": "002",
+        "nombre_candidato": "YENNY SAMANTHA",
+        "apellido_candidato": "VARGAS ALVAREZ",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260031",
+        "cod_candidato": "003",
+        "nombre_candidato": "ANTONIO JOSE",
+        "apellido_candidato": "OSORIO ROJAS",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260041",
+        "cod_candidato": "004",
+        "nombre_candidato": "LUIS EDUARDO",
+        "apellido_candidato": "LAVALLE MARTINEZ",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260051",
+        "cod_candidato": "005",
+        "nombre_candidato": "JORGE ARMANDO",
+        "apellido_candidato": "MONRROY JAIMES",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260061",
+        "cod_candidato": "006",
+        "nombre_candidato": "MARIA FERNANDA",
+        "apellido_candidato": "VILLA CHAPARRO",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260071",
+        "cod_candidato": "007",
+        "nombre_candidato": "JESUS ALBERTO",
+        "apellido_candidato": "PEÑALOZA SANDOVAL",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260081",
+        "cod_candidato": "008",
+        "nombre_candidato": "JORGESTEBAN",
+        "apellido_candidato": "DIAZ VARELA",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260091",
+        "cod_candidato": "009",
+        "nombre_candidato": "ALVARO",
+        "apellido_candidato": "SARMIENTO DUARTE",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260101",
+        "cod_candidato": "010",
+        "nombre_candidato": "SANDRA PATRICIA",
+        "apellido_candidato": "BAUTISTA ACEVEDO",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260111",
+        "cod_candidato": "011",
+        "nombre_candidato": "VICTOR MANUEL",
+        "apellido_candidato": "MORENO MOLINA",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260121",
+        "cod_candidato": "012",
+        "nombre_candidato": "DUMAR SAMIR",
+        "apellido_candidato": "CONTRERAS VILLAMIZAR",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260131",
+        "cod_candidato": "013",
+        "nombre_candidato": "ELIEZER",
+        "apellido_candidato": "VILLAMIZAR SANCHEZ",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260141",
+        "cod_candidato": "014",
+        "nombre_candidato": "AUTBERTO",
+        "apellido_candidato": "CAMARGO DIAZ",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260151",
+        "cod_candidato": "015",
+        "nombre_candidato": "JONATHAN",
+        "apellido_candidato": "PINEDA PINEDA",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260161",
+        "cod_candidato": "016",
+        "nombre_candidato": "YANIN",
+        "apellido_candidato": "ZAMBRANO NUMA",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260171",
+        "cod_candidato": "017",
+        "nombre_candidato": "GUSTAVO ADOLFO",
+        "apellido_candidato": "GELVEZ MOJICA",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260181",
+        "cod_candidato": "018",
+        "nombre_candidato": "RUBIA MAYARI",
+        "apellido_candidato": "GALVIS",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00422500100000260191",
+        "cod_candidato": "019",
+        "nombre_candidato": "MICHEL DAYANA",
+        "apellido_candidato": "ORTEGA QUINTERO",
+        "cod_partido": "00026",
+        "nombre_partido": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    }
+]

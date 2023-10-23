@@ -83,7 +83,7 @@ function geoJson (req, res) {
 }
 
 function candidatosAlcalde (_req, res) {
-  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-alcalde.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos alcalde' + err, status: '500' })
     let listPartidos = JSON.parse(data)
     // console.log(listPartidos)
@@ -92,7 +92,7 @@ function candidatosAlcalde (_req, res) {
 }
 
 function candidatosGobernador (_req, res) {
-  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-gobernador.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos gobernador' + err, status: '500' })
     let listPartidos = JSON.parse(data)
     // console.log(listPartidos)
@@ -101,7 +101,7 @@ function candidatosGobernador (_req, res) {
 }
 
 function candidatosConcejo (_req, res) {
-  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-concejo.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos concejo' + err, status: '500' })
     let listPartidos = JSON.parse(data)
     // console.log(listPartidos)
@@ -110,7 +110,7 @@ function candidatosConcejo (_req, res) {
 }
 
 function candidatosAsamblea (_req, res) {
-  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-asamblea.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos asamblea' + err, status: '500' })
     let listPartidos = JSON.parse(data)
     // console.log(listPartidos)
