@@ -52,36 +52,6 @@ function candidatosCamara (req, res) {
   })
 }
 
-function candidatosPactoHistorico (req, res) {
-  // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
-  fs.readFile(path.resolve(__dirname, 'files/candidatos-pacto-historico.json'), (err, data) => {
-    if (err) return res.status(500).send({ message: 'Algo salio mal pacto historico' + err, status: '500' })
-    let listPartidos = JSON.parse(data)
-    // console.log(listPartidos)
-    return res.status(200).send({ status: '200', data: listPartidos })
-  })
-}
-
-function candidatosCentroEsperanza (req, res) {
-  // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
-  fs.readFile(path.resolve(__dirname, 'files/candidatos-centro-esperanza.json'), (err, data) => {
-    if (err) return res.status(500).send({ message: 'Algo salio mal centro esperanza' + err, status: '500' })
-    let listPartidos = JSON.parse(data)
-    // console.log(listPartidos)
-    return res.status(200).send({ status: '200', data: listPartidos })
-  })
-}
-
-function candidatosEquipoColombia (req, res) {
-  // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
-  fs.readFile(path.resolve(__dirname, 'files/candidatos-por-colombia.json'), (err, data) => {
-    if (err) return res.status(500).send({ message: 'Algo salio mal centro esperanza' + err, status: '500' })
-    let listPartidos = JSON.parse(data)
-    // console.log(listPartidos)
-    return res.status(200).send({ status: '200', data: listPartidos })
-  })
-}
-
 function candidatosPresidenciales (req, res) {
   // console.log(path.resolve(__dirname, 'partidos-politicos.json'))
   fs.readFile(path.resolve(__dirname, 'files/candidatos.json'), (err, data) => {
@@ -112,8 +82,53 @@ function geoJson (req, res) {
   })
 }
 
+function candidatosAlcalde (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos alcalde' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
+function candidatosGobernador (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos gobernador' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
+function candidatosCondejo (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos condejo' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
+function candidatosAsamble (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-camara.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos asamble' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
 module.exports = {
   departamentosCapitales,
   candidatosPresidenciales,
-  geoJson
+  geoJson,
+  partidos,
+  partidosSenado,
+  partidosCamara,
+  candidatosCamara,
+  candidatosSenado,
+  candidatosAlcalde,
+  candidatosGobernador,
+  candidatosCondejo,
+  candidatosAsamble
 }
