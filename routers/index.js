@@ -30,7 +30,7 @@ api.get('/private', auth.isAuth, function (_req, res, next) {
 // api.get('/data/camara-nacional', fileCtrl.jsonCamaraNacional)
 // api.get('/data/camara-departamental', fileCtrl.jsonCamaraDepartamental)
 api.get('/data/alcalde', fileCtrl.jsonAlcalde)
-api.get('/data/gobernador', fileCtrl.jsonGobernador)
+api.get('/data/gobernador/:id_municipio', fileCtrl.jsonGobernador)
 api.get('/data/concejo', fileCtrl.jsonConcejo)
 api.get('/data/asamblea', fileCtrl.jsonAsamblea)
 

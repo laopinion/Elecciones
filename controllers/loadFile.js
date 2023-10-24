@@ -55,18 +55,21 @@ function jsonAlcalde (_req, res) {
   })
 }
 
-function jsonGobernador (_req, res) {
+function jsonGobernador (req, res) {
   fs.readFile(path.resolve(__dirname, '../uploads/gobernador.xml'), function (err, data) {
     if (err) {
       return res.status(500).send({ status: '500', message: 'algo salio mal read file xml gobernador' })
     }
     const json = parser.toJson(data, { object: true })
+    const { id_municipio } = req.params
+    // console.log({ id_municipio })
     // const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => {
     //   return boletin.Departamento.V === '2500'
     // })
     // console.log('to json ->', json)
     // console.log(jsonNorteSantander[0])
-    const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '000' && boletin.Desc_Municipio.V === 'NO APLICA')
+    const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === id_municipio)
+    // console.log(jsonNorteSantander)
     return res.status(200).send({ status: '200', data: jsonNorteSantander[0] ?? {} })
   })
 }
