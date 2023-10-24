@@ -51,7 +51,7 @@ function jsonAlcalde (_req, res) {
     const json = parser.toJson(data, { object: true })
     // console.log('to json ->', json)
     const jsonCucuta = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '001' && boletin.Desc_Municipio.V === 'CUCUTA')
-    return res.status(200).send({ status: '200', data: jsonCucuta })
+    return res.status(200).send({ status: '200', data: jsonCucuta[0] ?? {} })
   })
 }
 
@@ -67,7 +67,7 @@ function jsonGobernador (_req, res) {
     // console.log('to json ->', json)
     // console.log(jsonNorteSantander[0])
     const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '000' && boletin.Desc_Municipio.V === 'NO APLICA')
-    return res.status(200).send({ status: '200', data: jsonNorteSantander })
+    return res.status(200).send({ status: '200', data: jsonNorteSantander[0] ?? {} })
   })
 }
 
@@ -81,7 +81,7 @@ function jsonConcejo (_req, res) {
       const json = parser.toJson(data, { object: true })
       // console.log('to json ->', json)
       const jsonCucuta = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '001' && boletin.Desc_Municipio.V === 'CUCUTA')
-      return res.status(200).send({ status: '200', data: jsonCucuta })
+      return res.status(200).send({ status: '200', data: jsonCucuta[0] ?? {} })
     }
   )
 }
@@ -96,7 +96,7 @@ function jsonAsamblea (_req, res) {
       const json = parser.toJson(data, { object: true })
       // console.log('to json ->', json)
       const jsonNorteSantander = json.Consolidado.Boletin.filter(boletin => boletin.Municipio.V === '000' && boletin.Desc_Municipio.V === 'NO APLICA')
-      return res.status(200).send({ status: '200', data: jsonNorteSantander })
+      return res.status(200).send({ status: '200', data: jsonNorteSantander[0] ?? {} })
     }
   )
 }
