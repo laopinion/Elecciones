@@ -1,3 +1,3 @@
 # Elecciones
 
-Ajustar la versión de Node.js to v18.x
+Ajustar la versión de Node.js to v14.x
