@@ -74,6 +74,18 @@ function jsonGobernador (req, res) {
   })
 }
 
+function jsonMunicipios (_req, res) {
+  fs.readFile(path.resolve(__dirname, '../uploads/alcalde.xml'), function (err, data) {
+    if (err) {
+      return res.status(500).send({ status: '500', message: 'algo salio mal read file xml municipios - alcalde' })
+    }
+    const json = parser.toJson(data, { object: true })
+
+    // console.log(json)
+    return res.status(200).send({ status: '200', data: json.Consolidado.Boletin })
+  })
+}
+
 function jsonConcejo (_req, res) {
   fs.readFile(
     path.resolve(__dirname, '../uploads/concejo.xml'),
@@ -109,5 +121,6 @@ module.exports = {
   jsonGobernador,
   jsonAlcalde,
   jsonConcejo,
-  jsonAsamblea
+  jsonAsamblea,
+  jsonMunicipios
 }

@@ -33,6 +33,7 @@ api.get('/data/alcalde', fileCtrl.jsonAlcalde)
 api.get('/data/gobernador/:id_municipio', fileCtrl.jsonGobernador)
 api.get('/data/concejo', fileCtrl.jsonConcejo)
 api.get('/data/asamblea', fileCtrl.jsonAsamblea)
+api.get('/data/municipios', fileCtrl.jsonMunicipios)
 
 api.get('/data/candidatos-alcalde', filesKeysCtrl.candidatosAlcalde)
 api.get('/data/candidatos-gobernador', filesKeysCtrl.candidatosGobernador)
