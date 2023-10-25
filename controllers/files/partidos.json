@@ -1,6 +1,86 @@
 [
     {
+        "codigo": "00002",
+        "nombre": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00003",
+        "nombre": "PARTIDO CAMBIO RADICAL"
+    },
+    {
+        "codigo": "00004",
+        "nombre": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00006",
+        "nombre": "PARTIDO ALIANZA SOCIAL INDEPENDIENTE \"ASI\""
+    },
+    {
+        "codigo": "00011",
+        "nombre": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00016",
+        "nombre": "MOVIMIENTO ALIANZA DEMOCRÁTICA AMPLIA"
+    },
+    {
+        "codigo": "00019",
+        "nombre": "PARTIDO NUEVO LIBERALISMO"
+    },
+    {
+        "codigo": "00020",
+        "nombre": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00021",
+        "nombre": "PARTIDO VERDE OXÍGENO"
+    },
+    {
+        "codigo": "00023",
+        "nombre": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00024",
+        "nombre": "PARTIDO DEMÓCRATA COLOMBIANO"
+    },
+    {
+        "codigo": "00025",
+        "nombre": "PARTIDO ECOLOGISTA COLOMBIANO"
+    },
+    {
         "codigo": "00026",
         "nombre": "PARTIDO POLÍTICO LA FUERZA DE LA PAZ"
+    },
+    {
+        "codigo": "00029",
+        "nombre": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00031",
+        "nombre": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "00037",
+        "nombre": "MOVIMIENTO POLITICO FUERZA CIUDADANA"
+    },
+    {
+        "codigo": "02449",
+        "nombre": "TODOS POR CUCUTA"
+    },
+    {
+        "codigo": "05766",
+        "nombre": "EL PLAN  CÚCUTA"
+    },
+    {
+        "codigo": "06138",
+        "nombre": "PARTIDO LIBERAL COLOMBIANO-PARTIDO MIRA"
+    },
+    {
+        "codigo": "06966",
+        "nombre": "COALICION LA U, JUSTA LIBRES Y AICO"
+    },
+    {
+        "codigo": "08392",
+        "nombre": "PACTO HISTORICO"
     }
 ]
