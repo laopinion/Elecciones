@@ -40,6 +40,7 @@ api.get('/data/candidatos-gobernador', filesKeysCtrl.candidatosGobernador)
 api.get('/data/candidatos-concejo', filesKeysCtrl.candidatosConcejo)
 api.get('/data/candidatos-asamblea', filesKeysCtrl.candidatosAsamblea)
 api.get('/data/candidatos-municipios', filesKeysCtrl.candidatosMunicipios)
+api.get('/data/partidos', filesKeysCtrl.partidosConcejoAsamblea)
 
 // api.get('/data/geo-departamentos', filesKeysCtrl.geoJson)
 api.get('/data/clasificados-casas', function (req, res) {

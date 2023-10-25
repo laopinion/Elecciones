@@ -127,6 +127,15 @@ function candidatosMunicipios (_req, res) {
   })
 }
 
+function partidosConcejoAsamblea (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/partidos.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal partidos concejo y asamblea' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+
 module.exports = {
   departamentosCapitales,
   candidatosPresidenciales,
@@ -140,5 +149,6 @@ module.exports = {
   candidatosGobernador,
   candidatosConcejo,
   candidatosAsamblea,
-  candidatosMunicipios
+  candidatosMunicipios,
+  partidosConcejoAsamblea
 }
