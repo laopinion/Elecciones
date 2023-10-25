@@ -85,36 +85,45 @@ function geoJson (req, res) {
 function candidatosAlcalde (_req, res) {
   fs.readFile(path.resolve(__dirname, 'files/candidatos-alcalde.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos alcalde' + err, status: '500' })
-    let listPartidos = JSON.parse(data)
-    // console.log(listPartidos)
-    return res.status(200).send({ status: '200', data: listPartidos })
+    let listCandidatos = JSON.parse(data)
+    // console.log(listCandidatos)
+    return res.status(200).send({ status: '200', data: listCandidatos })
   })
 }
 
 function candidatosGobernador (_req, res) {
   fs.readFile(path.resolve(__dirname, 'files/candidatos-gobernador.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos gobernador' + err, status: '500' })
-    let listPartidos = JSON.parse(data)
-    // console.log(listPartidos)
-    return res.status(200).send({ status: '200', data: listPartidos })
+    let listCandidatos = JSON.parse(data)
+    // console.log(listCandidatos)
+    return res.status(200).send({ status: '200', data: listCandidatos })
   })
 }
 
 function candidatosConcejo (_req, res) {
   fs.readFile(path.resolve(__dirname, 'files/candidatos-concejo.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos concejo' + err, status: '500' })
-    let listPartidos = JSON.parse(data)
-    // console.log(listPartidos)
-    return res.status(200).send({ status: '200', data: listPartidos })
+    let listCandidatos = JSON.parse(data)
+    // console.log(listCandidatos)
+    return res.status(200).send({ status: '200', data: listCandidatos })
   })
 }
 
 function candidatosAsamblea (_req, res) {
   fs.readFile(path.resolve(__dirname, 'files/candidatos-asamblea.json'), (err, data) => {
     if (err) return res.status(500).send({ message: 'Algo salio mal candidatos asamblea' + err, status: '500' })
-    let listPartidos = JSON.parse(data)
-    // console.log(listPartidos)
-    return res.status(200).send({ status: '200', data: listPartidos })
+    let listCandidatos = JSON.parse(data)
+    // console.log(listCandidatos)
+    return res.status(200).send({ status: '200', data: listCandidatos })
+  })
+}
+
+function candidatosMunicipios (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/candidatos-municipios.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal candidatos municipios' + err, status: '500' })
+    let listCandidatos = JSON.parse(data)
+    // console.log(listCandidatos)
+    return res.status(200).send({ status: '200', data: listCandidatos })
   })
 }
 
@@ -130,5 +139,6 @@ module.exports = {
   candidatosAlcalde,
   candidatosGobernador,
   candidatosConcejo,
-  candidatosAsamblea
+  candidatosAsamblea,
+  candidatosMunicipios
 }
