@@ -1,0 +1,58 @@
+[
+    {
+        "codigo": "00001",
+        "nombre": "PARTIDO LIBERAL COLOMBIANO"
+    },
+    {
+        "codigo": "00002",
+        "nombre": "PARTIDO CONSERVADOR COLOMBIANO"
+    },
+    {
+        "codigo": "00004",
+        "nombre": "PARTIDO ALIANZA VERDE"
+    },
+    {
+        "codigo": "00008",
+        "nombre": "PARTIDO DE LA UNIÓN POR LA GENTE - PARTIDO DE LA U"
+    },
+    {
+        "codigo": "00011",
+        "nombre": "PARTIDO CENTRO DEMOCRÁTICO"
+    },
+    {
+        "codigo": "00012",
+        "nombre": "MOVIMIENTO ALTERNATIVO INDÍGENA Y SOCIAL \"MAIS\""
+    },
+    {
+        "codigo": "00020",
+        "nombre": "MOVIMIENTO  SALVACIÓN NACIONAL"
+    },
+    {
+        "codigo": "00023",
+        "nombre": "PARTIDO LIGA GOBERNANTES ANTICORRUPCIÓN - LIGA"
+    },
+    {
+        "codigo": "00029",
+        "nombre": "NUEVA FUERZA DEMOCRÁTICA"
+    },
+    {
+        "codigo": "00031",
+        "nombre": "INDEPENDIENTES"
+    },
+    {
+        "codigo": "05806",
+        "nombre": "CAMBIO RADICAL - MIRA"
+    },
+    {
+        "codigo": "06684",
+        "nombre": "EL GRAN EQUIPO POR EL NORTE DE SANTANDER"
+    },
+    {
+        "codigo": "07877",
+        "nombre": "JUNTOS POR NORTE DE SANTANDER"
+    },
+    {
+        "codigo": "08009",
+        "nombre": "PACTO HISTORICO"
+    }
+]

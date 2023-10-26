@@ -127,9 +127,17 @@ function candidatosMunicipios (_req, res) {
   })
 }
 
-function partidosConcejoAsamblea (_req, res) {
-  fs.readFile(path.resolve(__dirname, 'files/partidos.json'), (err, data) => {
-    if (err) return res.status(500).send({ message: 'Algo salio mal partidos concejo y asamblea' + err, status: '500' })
+function partidosConcejo (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/partidos-concejo.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal partidos concejo' + err, status: '500' })
+    let listPartidos = JSON.parse(data)
+    // console.log(listPartidos)
+    return res.status(200).send({ status: '200', data: listPartidos })
+  })
+}
+function partidosAsamblea (_req, res) {
+  fs.readFile(path.resolve(__dirname, 'files/partidos-asamblea.json'), (err, data) => {
+    if (err) return res.status(500).send({ message: 'Algo salio mal partidos asamblea' + err, status: '500' })
     let listPartidos = JSON.parse(data)
     // console.log(listPartidos)
     return res.status(200).send({ status: '200', data: listPartidos })
@@ -150,5 +158,6 @@ module.exports = {
   candidatosConcejo,
   candidatosAsamblea,
   candidatosMunicipios,
-  partidosConcejoAsamblea
+  partidosConcejo,
+  partidosAsamblea
 }
